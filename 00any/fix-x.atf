@@ -1,0 +1,15 @@
+#!/usr/bin/perl
+use warnings; use strict;
+
+my $xth = 1;
+while (<>) {
+      if (/^&/) {
+	  $xth = 1;
+      } elsif (/^x\./) {
+	  s/\./$xth./;
+	  ++$xth;
+      }
+      print;
+}
+
+1;

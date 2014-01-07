@@ -1,0 +1,15 @@
+<project n="ur3ur" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>Ur III Ur</name>
+  <abbrev>ur3ur</abbrev>
+  <project-type>oracc</project-type>
+  <type>corpus</type>
+  <logo type="text">ur3ur</logo>
+  <option name="build-approved-policy" value="static"/>
+  <option name="build-outlined-policy" value="atf"/>
+  <option name="catalog-build-policy" value="auto"/>
+  <option name="cbd-mode" value="mixed"/>
+  <option name="pager-glossaries" value="akk sux qpn"/>
+  <option name="pager-outline" value="yes"/>
+</project>
