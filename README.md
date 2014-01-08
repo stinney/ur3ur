@@ -7,7 +7,9 @@ This project is a public working space in which I am developing my ideas and
 approaches for computational analysis of Ur III texts.  The first stage is to
 produce a reliable lemmatized corpus of Ur III texts from Ur.
 
-This is on the one hand part of my activity on the Penn/British Museum 
+This is on the one hand part of my activity on the Penn Museum/British Museum 
 project "Digitizing Woolley's Ur", and on the other a first step towards a 
 systematic machine translation system for the Ur III corpus.
 
+It's also a test bed for various advanced Oracc features which include machine
+parsing of Mesopotamian metrological systems and entity recognizers.
