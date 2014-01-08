@@ -12236,7 +12236,7 @@ $ 1 line blank
 1. a#-hu#-wa-qar# 
 2. szu ba-an#-ti# 
 3. iti ezem-{d}szul#-gi 
-2. mu {d#}i#-bi2-{d}suen lugal uri5{ki#}-ma#-ke4 {d}nanna-ar# {d#}nun#-me-te-an-na mu-na-dim2# 
+4. mu {d#}i#-bi2-{d}suen lugal uri5{ki#}-ma#-ke4 {d}nanna-ar# {d#}nun#-me-te-an-na mu-na-dim2# 
 
 &P137941 = UET 3, 1615 
 #atf: lang sux 
@@ -13474,7 +13474,8 @@ $ rest broken
 2. a-sza3 kuara2{ki} 
 3. a-sza3 ma-da-a-da-lal3?{ki} 
 4. {d}szu-{d}suen-na-ra-am-{d}en-lil2 
-5. 6(bur3) GAN2 a-sza3 {gesz}szinig-pa5!(e-PAP) 
+5. 6(bur3) GAN2 a-sza3 {gesz}szinig-pa5!
+# pa5! written E.PAP 
 7. 5(bur3) 2(esze3) 1/2(iku) GAN2 ki sig4 
 8. a-sza3 ab-me-lum 
 9. {d}szu-{d}suen-na-ra-am-{d}en-lil2 
@@ -18615,7 +18616,7 @@ $ broken
 2. [...] har ku3 [...]-sze3 
 3. [ki]-la2-bi 1(disz) ma-na la2 1/2(disz) gin2 x 
 4. mu {d}nin-hur-sag-ga2-sze3 
-5. 2/3(disz){sza} 2/3(NINDA2x(SZE.2(ASZ))) 2(u) sze ku3-sig17 si-sa2 
+5. 2/3(disz){sza} 2/3(|NINDA2x(SZE.2(ASZ))|) 2(u) sze ku3-sig17 si-sa2 
 6. har 1(u) gin2-ta 2(disz)-sze3 
 7. mu {d}gu-la-sze3 
 8. 2/3(disz){sza} ku3-sig17 si-sa2 
@@ -23491,7 +23492,8 @@ $ rest broken
 @tablet 
 @obverse 
 1. [x] kusz udu 
-2. [x] kusz du6!?(U-TUG2) 
+2. [x] kusz du6!?
+# du6!? written U.TUG2
 3. [x] x kesz2 
 4. [sza3] masz#-gan2-szar-ru-um{ki} 
 5. mu#?-ba?-sze3 
@@ -28292,7 +28294,8 @@ x3. [...] hi-a
 14. giri3-se3-ga gesz-[kin-ti?] 
 15. |SZU+LAGAB| sze-bi 1(asz) 2(barig) gur 
 16. a-ru-a lugal-me 
-17. e2 da-da gala!(NI-KU) 
+17. e2 da-da gala!
+# gala written NI.KU
 18. a-sza3 ab-me-lum u3 a-sza3 GAN2-dadag-ga 
 19. iti ezem-an-na-ta 
 20. iti sze-sag11-ku5-sze3 
@@ -31529,7 +31532,7 @@ $ rest broken
 
 &P137308 = UET 3, 0983 
 #atf: lang sux 
-@other sealing 
+@object sealing 
 @obverse 
 $ seal impression 
 @seal 1 
@@ -33121,7 +33124,8 @@ $ beginning broken
 @tablet 
 @obverse 
 1. 2/3(disz){sza} ku3-babbar 
-2. zabar szem3!(AB2-SZA3) 1(disz)-sze3 
+2. zabar szem3! 1(disz)-sze3 
+# szem3! written AB2.SZA3
 3. ki ur-gu2-edin-na-ta 
 4. a-hu-wa-qar 
 5. szu ba-ti 
