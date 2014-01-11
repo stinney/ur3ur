@@ -1,2 +1,2 @@
 #!/bin/sh
-git commit -m `00bin/lemcount.sh`
+git commit -a -m "`00bin/lemcount.sh`"

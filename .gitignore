@@ -36,3 +36,7 @@ v
 00lib/global.tab~
 
 x
+
+00bin/commit.sh~
+
+*.sh~
