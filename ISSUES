@@ -1,0 +1,4 @@
+atfquicklem needs to strip ($ ... $) before doing the lem or it causes:
+
+	    1. ($ x $) 
+	    #lem: X; X; X
