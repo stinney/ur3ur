@@ -1,160 +1,3 @@
-
-&P136436 = UET 3, 0119
-#atf: lang sux
-@tablet
-@obverse
-1. u4 2(u) 8(disz) nu-ub-tuku
-#lem: ud[day]; n; n; tuku[acquire]
-2. 2(ban2) kasz ge6 saga
-#lem: n; kasz[beer]; ji[night]; X
-3. bala-bala-e-de3
-#lem: bala[turn]
-4. 3(ban2) zi3-gu 3(ban2) esza
-#lem: n; zidgu[flour]; n; esza[flour]
-5. 3(disz) sila3 zu2-lum esza#-[da] ba-an-bala#
-#lem: n; sila[unit]; zulum[date]; esza[flour]; bala[turn]
-@reverse
-1. nig2-du10 e2 {d}nanna-sze3
-#lem: nijdug[good thing]; e[house]; DN
-2. a2 u4 te-na [(x)]
-#lem: a[arm]; ud[day]; ten[cool]; X
-3. zi-ga siskur2 lugal
-#lem: ziga[expenditure]; siszkur[prayer]; lugal[king]
-4. sza3 e2 {d}nanna-ka
-#lem: szag[heart]; e[house]; PN
-5. u4 3(u) la2 1(disz)-kam
-#lem: ud[day]; n; lal[less]; n
-6. iti masz-ku3-gu7
-#lem: itud[moon]; MN
-7. mu x x x
-#lem: mu[year]; u; u; u
-
-&P136783 = UET 3, 0461
-#atf: lang sux
-@tablet
-@obverse
-1. 2(disz) gin2 la2 4(disz) sze ku3-sig17 husz-a
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
-2. na-bi2-hu-um 1/2(disz) gin2-ta 2(disz)
-#lem: nabihum[ornament]; n; gij[unit]; n
-3. u3 na-bi2-hu-um
-#lem: u[and]; nabihum[ornament]
-4. igi 4(disz)-gal2-ta 4(disz)-sze3
-#lem: igi[face]; X; n
-5. ki ARAD2-{d}nanna-ta
-#lem: ki[place]; PN
-6. a-hu-wa-qar
-#lem: PN
-7. szu ba-ti
-#lem: szu[hand]; tej[approach]
-8. iti ses-da-gu7 u4 3(u) ba-zal
-#lem: itud[moon]; MN; ud[day]; n; zal[pass]
-9. mu x x x
-#lem: mu[year]; u; u; u
-
-&P138640 = UET 9, 0509
-#atf: lang sux
-@tablet
-@obverse
-1. 2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
-2. tu-dur har-har-ra 8(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n
-3. [ki] ARAD2-{d}nanna-ta
-#lem: ki[place]; PN
-4. a-hu-wa-qar
-#lem: PN
-@reverse
-1. [szu] ba#-ti
-#lem: szu[hand]; tej[approach]
-2. [iti ki-siki ezem-{d}]nin#-a-zu
-#lem: itud[moon]; MN; MN
-3. [u4 x] ba#-zal
-#lem: ud[day]; u; zal[pass]
-4. [mu {d}i-bi2-{d}]suen#
-#lem: mu[year]; RN
-5. [lugal] uri5{ki#}-[ma]-ra#
-#lem: lugal[king]; GN
-6. [{d}nanna-a] sza3 ki-ag2#-[ga2-ni]
-#lem: DN; szag[heart]; X
-7. [dalla] mu-un#-[na]-an-e3-a
-#lem: dalla[ring]|FN; e[leave]
-
-&P138152 = UET 9, 0021
-#atf: lang sux
-@tablet
-@obverse
-1. 2(ban2) 6(disz) sila3 sze lugal
-#lem: n; n; sila[unit]; sze[barley]; lugal[king]
-2. nu x AN x tur ma x
-#lem: nu[not]; u; X; u; dumu[child]|WN|tur[small]|FN; mada[land]; u
-3. 1/2(disz) [...] sar gu ba gu4 ni
-#lem: n; u; sar[garden]; gu[cord]; ba[allot]; gud[ox]; mu[good]
-4. 3(ban2) ur-{d}sza-u18?-sza
-#lem: n; PN
-5. 2(ban2) 4(disz) ur-{d}asznan
-#lem: n; n; PN
-6. 2(ban2)# a-mur-{d}suen
-#lem: n; PN
-$ rest broken
-@reverse
-$ blank space
-$ n lines broken
-1'. [...] x ur-dingir-gal
-#lem: u; u; PN
-2'. [...] 5(disz) u2!-sza-ak-li2-il geme2
-#lem: u; n; PN; geme[worker]
-$ 1 line blank
-3'. |SZU+LAGAB| 1(asz) 2(barig) 5(ban2) 5(disz) sila3 sze gur
-#lem: szunijin[total]; n; n; n; n; sila[unit]; sze[barley]; gur[unit]
-4'. sze-ba ug3-IL2 e2-gal-la gub-ba
-#lem: szeba[ration]; ujjaja[porter]; egal[palace]; gub[stand]
-5'. mu-kux(DU) mu-ni e2-KA-sze3
-#lem: X; PN; PN
-6'. lu2-{d}nanna# szu ba-an-ti
-#lem: PN; szu[hand]; tej[approach]
-7'. x-x-na
-#lem: DN
-8'. mu bad3 gal ba-du3
-#lem: mu[year]; bad[wall]; gal[big]; du[build]
-@seal 1
-1. lu2-gi-[na]
-#lem: PN
-2. dub-sar
-#lem: dubsar[scribe]
-3. dumu# lu2-nin-ga2-ka
-#lem: dumu[child]; PN
-
-&P138051 = UET 3, 1725
-#atf: lang sux
-@tablet
-@obverse
-1. 2(disz) gada {u2}|KI.KAL| mah
-#lem: n; gada[flax]; X; ensik[ruler]|mah[great]|FN
-2. {d}en-lil2 {d}nin-lil2-la2
-#lem: DN|FN; DN
-3. ki-la2-bi 5(disz) 1/3(disz) ma-na 5(disz) gin2
-#lem: kila[weight]; n; n; mana[unit]; n; gij[unit]
-4. e2-kiszib3-ba-ta
-#lem: ekiszibak[storeroom]
-5. ur-{d}szul-gi-ra
-#lem: PN
-@reverse
-1. szu ba-an-ti
-#lem: szu[hand]; tej[approach]
-2. iti ezem-{d}nin-a-zu
-#lem: itud[moon]; MN
-3. mu x x x
-#lem: mu[year]; u; u; u
-
-&P139435 = UET 9, 1305
-#atf: lang sux
-@tablet
-@obverse
-$ (listed in catalogue only)
-x1. lugal-inim-[...]
-#lem: u
-
 &P113876 = MVN 03, 316
 #atf: lang sux
 @tablet
@@ -206,7 +49,7 @@ $ blank space
 3. zu2-lum-bi 4(ban2)
 #lem: zulum[date]; n
 4. sza3-gal ug3-IL2
-#lem: szaggal[food]; ujjaja[porter]
+#lem: szaggal[food]; UN.IL₂[menial]
 5. e2-gal lugal-ka gub-ba-ne
 #lem: egal[palace]; PN; gub[stand]
 6. ki ur-nigar{gar}-ta
@@ -392,7 +235,7 @@ $ rest broken
 2. 1(disz) tug2 nig2-lam2 4(disz)-kam us2
 #lem: n; tug[textile]; X; n; us[side]
 3. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 4. lugal-ezem lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 5. ur-{d}szul-gi-ra
@@ -424,7 +267,7 @@ $ rest broken
 #lem: PN
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. iti ezem-an-na
 #lem: itud[moon]; MN
 3. mu us2-sa bad3 ma-da ba-du3-a
@@ -538,7 +381,7 @@ x3. a-hu-wa-qar
 @tablet
 @obverse
 1. 1(u) 8(disz) gin2 ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; kugsig[gold]; sisa[fair]
 2. har 2(disz)-sze3
 #lem: har[ring]; n
 3. 2/3(disz) la2 2(disz) sze ku3-sig17 husz-a
@@ -593,7 +436,7 @@ x3. a-hu-wa-qar
 5. [...]
 #lem: AN|u
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. sza-lim-be-li2
 #lem: PN
 8. iti u5-bi2{muszen}-gu7
@@ -706,7 +549,7 @@ $ beginning broken
 5. ki lu2-ti-[...]-mu-zu-ta
 #lem: ki[place]; u
 6. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 7. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 8. lu2 azlag2-e-ne szu ba-an-ti-esz2
@@ -954,7 +797,7 @@ $ 1 line blank
 1. 4(u) la2 1(disz) tug2 usz-bar mu-tuku5
 #lem: n; lal[less]; n; tug[textile]; uszbar[weaver]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lu2 didli-ne-ta
 #lem: ki[place]; lu[person]; didli[several]
 4. lu2-{d}nin-szubur lu2 azlag2
@@ -1073,7 +916,7 @@ x2. gu2
 x3. ma-na
 #lem: mana[unit]
 x4. x-a mu-kux(DU)
-#lem: WN|DN; X
+#lem: WN|DN; mu.DU[delivery]
 
 &P138479 = UET 9, 0348
 #atf: lang sux
@@ -1179,7 +1022,7 @@ x2. lu2 sa-hir-ra
 3. |SZU+LAGAB| ki-la2-bi 2(asz) gu2 2(disz) 1/2(disz) ma-na 5(disz) gin2
 #lem: szunijin[total]; kila[weight]; n; gun[load]; n; n; mana[unit]; n; gij[unit]
 4. mu-kux(DU) ki simug-ne-ta
-#lem: X; ki[place]; simug[smith]
+#lem: mu.DU[delivery]; ki[place]; simug[smith]
 5. lugal uri5{ki}-e
 #lem: lugal[king]; GN
 6. szu ba-an-ti
@@ -1187,7 +1030,7 @@ x2. lu2 sa-hir-ra
 7. iti ezem-{d}nin-a-zu
 #lem: itud[moon]; MN
 8. mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-du3
-#lem: mu[year]; RN|TN|MN; lugal[king]; GN; X; DN|FN; DN; du[build]
+#lem: mu[year]; RN|TN|MN; lugal[king]; GN; X; DN; DN; du[build]
 
 &P137223 = UET 3, 0899
 #atf: lang sux
@@ -1381,7 +1224,7 @@ $ 1 line blank
 19. iti ezem-mah
 #lem: itud[moon]; MN
 20. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki#} [bad3] gal-bi mu-[du3]
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; bad[wall]; gal[big]; du[build]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]
 
 &P137352 = UET 3, 1027
 #atf: lang sux
@@ -1389,7 +1232,7 @@ $ 1 line blank
 @obverse
 $ beginning broken
 1'. [...] {gesz}sag-gul szu si-sa2 nig2-gur11 e2-ba-an
-#lem: u; sajkul[bolt]; szu[hand]; WN|sisa[fair]; nijGA[property]; eban[pair]
+#lem: u; sajkul[bolt]; szu[hand]; sisa[fair]; nijGA[property]; eban[pair]
 2'. 8(disz) {gesz}nu-kusz2
 #lem: n; X
 3'. sza3 e2-duru5
@@ -1622,7 +1465,7 @@ x3. iti? [...]
 7. giri3 tu-ra-am-i3-li2
 #lem: jiri[via]; PN
 8. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 9. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 10. lu2 azlag2-e-ne
@@ -1691,7 +1534,7 @@ x3. iti? [...]
 2. [x] tug2 bar-si gid2 [x]
 #lem: u; tug[textile]; barsig[garment]; gid[long]; u
 3. 1(disz) tug2 usz-bar tur#
-#lem: n; tug[textile]; uszbar[weaver]; dumu[child]|WN|tur[small]|FN
+#lem: n; tug[textile]; uszbar[weaver]; tur[small]
 4. tug2 sumun-am3
 #lem: tug[textile]; sumun[old]
 5. 1(disz) tug2 nig2-lam2 nig2-eb
@@ -1804,7 +1647,7 @@ $ (text not given)
 2. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 3. 2(disz) ze2-gil tur
-#lem: n; X; dumu[child]|WN|tur[small]|FN
+#lem: n; X; tur[small]
 4. ba-an-gar
 #lem: jar[place]
 5. ki dingir-su-ra-bi2-ta
@@ -2008,7 +1851,7 @@ x4. ugula
 3. 3(u) 5(disz) tug2 sag usz-bar
 #lem: n; n; tug[textile]; saj[head]; uszbar[weaver]
 4. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 5. ki ur-{d}nin-gesz-zi-da ugula usz-bar-ta
 #lem: ki[place]; PN; ugula[overseer]; uszbar[weaver]
 6. iti sze-sag11-ku5
@@ -2033,7 +1876,7 @@ x4. ugula
 1. [...] GAN2 sze gu4
 #lem: u; iku[unit]|X; sze[barley]; gud[ox]
 2. [...] a-sza3 mah
-#lem: u; aszag[field]; ensik[ruler]|mah[great]|FN
+#lem: u; aszag[field]; mah[great]
 3. [...] GAN2 sze gu4
 #lem: u; iku[unit]|X; sze[barley]; gud[ox]
 @column 2
@@ -2122,7 +1965,7 @@ x4. ugula
 1. 1/3(disz){sza} 8(disz) 1/2(disz) gin2
 #lem: n; n; n; gij[unit]
 2. la2 1(u) 5(disz) sze ku3-sig17 si-sa2
-#lem: lal[less]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: lal[less]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 3. ki-la2 za3-sze3 la2
 #lem: kila[weight]; zag[side]|zib[mark]; lal[less]
 4. sza3 i3-la2 simug
@@ -2177,7 +2020,7 @@ $ (not given)
 3. |SZU+LAGAB| 1(barig) 3(ban2) sze-gesz-i3-ka lugal
 #lem: szunijin[total]; n; n; PN; lugal[king]
 4. mu-kux(DU) lu2-{d}nin-szubur-ke4
-#lem: X; PN
+#lem: mu.DU[delivery]; PN
 5. szu ba-an-ti
 #lem: szu[hand]; tej[approach]
 6. mu x x x
@@ -2204,7 +2047,7 @@ $ (not given)
 @tablet
 @obverse
 1. 1(disz)#? gin2 la2 6(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. na-bi2-hu-um igi 6(disz)-sze3-ta 6(disz)-[sze3]
 #lem: nabihum[ornament]; igi[face]; n; n
 3. ki ARAD2-{d}nanna#-[ta]
@@ -2236,7 +2079,7 @@ $ (not given)
 4. [x]-x e3-a [x]
 #lem: u; e[leave]; u
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. e2 {d}nin-x-la
 #lem: e[house]; PN
@@ -2438,7 +2281,7 @@ $ blank space
 2. tug2 mu-tuku5 da-a-a
 #lem: tug[textile]; tuku[beat]; PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki ur-{d}saman3-ta
 #lem: ki[place]; PN
 5. ur-{d}szul-gi-ra
@@ -2462,7 +2305,7 @@ $ (legend broken)
 1. 4(u) la2 1(disz) tug2 sag usz-bar mu-tuku5
 #lem: n; lal[less]; n; tug[textile]; saj[head]; uszbar[weaver]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lu2-{d}nanna ab-sza3-ga-ta
 #lem: ki[place]; PN; PN
 4. ur-{d}en-lil2-la2 lu2 azlag2
@@ -2491,7 +2334,7 @@ $ (legend broken)
 2. sze-ba ur-{d}iszkur ma2-lah5-sze3
 #lem: szeba[ration]; PN; malah[sailor]
 3. mu-kux(DU) mu i3-sze3
-#lem: X; mu[year]; i[oil]|szeg[seize]
+#lem: mu.DU[delivery]; mu[year]; i[oil]|szeg[seize]
 4. guru7-a ba-tak4
 #lem: guru[store]; taka[cvve]|taka[abandon]
 5. lu2-gi-na szu ba-an-ti
@@ -2562,7 +2405,7 @@ $ (Fischer SaU 053)
 11. [...] ma-na siki mug
 #lem: u; mana[unit]; siki[hair]; mug[wool]
 12. [...] 2/3(disz) ma
-#lem: u; n; mada[land]
+#lem: u; n; X
 $ 1 line blank
 13. [...]-tum#?
 #lem: u
@@ -2632,9 +2475,9 @@ $ (listed in catalogue only)
 1. 1(disz) masz2 ur-{d}nin-ku3#-nun-na
 #lem: n; masz[goat]; PN
 2. 1(disz) masz2 mu-kux(DU)
-#lem: n; masz[goat]; X
+#lem: n; masz[goat]; mu.DU[delivery]
 3. mu#-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 
 &P137446 = UET 3, 1121
 #atf: lang sux
@@ -2724,7 +2567,7 @@ $ beginning broken
 #lem: X
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. iti szu-esz-sza
 #lem: itud[moon]; MN
 3. mu# e2 |PU3.SZA|-[...]
@@ -2827,9 +2670,9 @@ x3. an-dim2-dim2
 3. mu [{d}]i-bi2-{d}suen lugal uri5{ki}-ma-ke4
 #lem: mu[year]; RN; lugal[king]; GN
 4. nibru{ki} uri5{ki}-ma
-#lem: GN|FN; GN
+#lem: GN; GN
 5. bad3 gal-bi mu-du3
-#lem: X; du[build]
+#lem: bad[wall]; gal[big]; du[build]
 
 &P136701 = UET 3, 0379
 #atf: lang sux
@@ -3010,7 +2853,7 @@ x3. dumu a-bu-du10
 5. [...] ezem [...]
 #lem: u; ezem[festival]; AN|u
 6. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 7. ARAD2-{d}suen lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 8. ur-{d}szul-gi-ra szu ba-an-ti
@@ -3243,13 +3086,13 @@ $ rest broken
 2. diri 1(disz) ma-na siki
 #lem: dirig[exceed]|FN; n; mana[unit]; siki[hair]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. a-gu-gu sipa udu eme-gi-ra
 #lem: PN; FN|sipad[shepherd]; udu[sheep]; emejir[Sumerian]
 5. 1(asz) gu2 1(disz) 2/3(disz) ma-na siki-ud5
 #lem: n; gun[load]; n; n; mana[unit]; X
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. 3(disz) gin2 2/3(|NINDA2x(SZE.2(ASZ))|)? 8(disz) sze ku3-babbar
 #lem: n; gij[unit]; n; n; sze[barley]; kugbabbar[silver]
 8. i3-nun HA-bi 2(ban2) 7(disz) 1/3(disz) sila3
@@ -3270,7 +3113,7 @@ $ rest broken
 5. si-ri sipa ud5-da
 #lem: GN; FN|sipad[shepherd]; uzud[goat]
 6. [x] mu-kux(DU)
-#lem: u; X
+#lem: u; mu.DU[delivery]
 7. [x]-x la2-ia3
 #lem: u; la'u[arrears]
 8. sipa udu eme-gi-ra
@@ -3504,7 +3347,7 @@ $ (Fischer SaU 147)
 @tablet
 @obverse
 1. 1(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. kiszib3 {na4}za-gin3 1(disz)-a
 #lem: kiszib[seal]; zagin[lapis]; n
 3. ga2-ga2-de3
@@ -3636,7 +3479,7 @@ $ rest broken
 1. 7(disz) tug2 usz-bar
 #lem: n; tug[textile]; uszbar[weaver]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. sa gi4-gi4-de3#
 #lem: sa[bundle]; gi[turn]
 4. ur-{d}lamma lu2 azlag2
@@ -3682,7 +3525,7 @@ $ (Fischer SaU 151)
 3. ka i7 i3-si-in{ki#}
 #lem: kag[mouth]; id[river]|X|WN; GN
 4. mu-kux(DU) {d}szul-gi-si2-im-tum-ma
-#lem: X; PN
+#lem: mu.DU[delivery]; PN
 5. a2-bi2-li2-a i3-dab5
 #lem: PN; dab[seize]
 6. iti ezem-an-na
@@ -3786,7 +3629,7 @@ x4. ba-zi
 #lem: X
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. iti ki-siki-{d}nin-a-zu
 #lem: itud[moon]; MN
 3. mu e2 |PU3.SZA|-isz-{d}da-gan ba-du3
@@ -3846,7 +3689,7 @@ x3. a-hu-wa-qar
 1. 5(gesz2) 5(u) 4(disz) dug kur-ku-du3 i3 su3
 #lem: n; n; n; dug[pot]; kurkudu[container]; i[oil]; sug[empty]|su[sink]|su[sprinkle]|sug[empty]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ga-ti-e-ta
 #lem: ki[place]; PN
 4. e2-kiszib3-ba-ka ba-an-kux(KWU636)#?
@@ -3921,7 +3764,7 @@ x3. a-hu-wa-qar
 1. [...] 1(gesz2) 3(u) 5(disz) tug2 usz-[bar]
 #lem: u; n; n; n; tug[textile]; uszbar[weaver]
 2. tug2 mu#-ni mu-kux(DU)
-#lem: tug[textile]; PN; X
+#lem: tug[textile]; PN; mu.DU[delivery]
 3. ki ugula usz-bar-ra
 #lem: ki[place]; ugula[overseer]; uszbar[weaver]
 4. u3 lu2 azlag2-ke4-ne
@@ -4440,7 +4283,7 @@ x3. a-hu-wa-qar
 2. ki szabra mar-ke4?-ne-ta
 #lem: ki[place]; szabra[administrator]; X
 3. mu-kux(DU) e2-udu-niga-sze3
-#lem: X; X
+#lem: mu.DU[delivery]; X
 4. {d}nanna-dalla i3-dab5
 #lem: PN; dab[seize]
 5. giri3 ARAD2-{d}nansze aga3-us2
@@ -4720,7 +4563,7 @@ $ (Fischer SaU 020)
 5. 1(asz) imgaga3 gur
 #lem: n; imjaja[emmer]; gur[unit]
 6. mu-kux(DU) ur-{d}szul-pa-e3 ku3-gal2
-#lem: X; AN|PN; gugal[inspector]
+#lem: mu.DU[delivery]; AN|PN; gugal[inspector]
 7. geme2-{d}en-lil2-la2 nin
 #lem: PN; nin[lady]|WN|FN
 8. hu-zu-uz-za-ra-ri-isz maszkim
@@ -4745,7 +4588,7 @@ $ (Fischer SaU 020)
 8. [x] dugud ba-szi-in-de6
 #lem: u; dugud[heavy]; X
 9. [x]-x-gin7 a2 mah
-#lem: DN; a[arm]; ensik[ruler]|mah[great]|FN
+#lem: DN; a[arm]; mah[great]
 10. [...] bi2-[...]
 #lem: u; u
 11. [...]
@@ -4970,7 +4813,7 @@ $ (Fischer SaU 154)
 @tablet
 @obverse
 1. [... ku3]-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 2. za3-bar alan lugal
 #lem: zagbar[scraps]; alan[statue]; lugal[king]
 3. dumu szu-{d}nin-szubur
@@ -5037,12 +4880,12 @@ x2. zadim
 #lem: ku[fish]|kud[fish]; X; ambar[reed-bed]|FN; gir[fish]; du[build]
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. giri3 ku3-{d}nanna enku
 #lem: jiri[via]; PN; X
 3. iti [...]
 #lem: itud[moon]; AN|u
-4. mu bad3#-[gal] ba-[du3]
+4. mu bad3# [gal] ba-[du3]
 #lem: mu[year]; bad[wall]; gal[big]; du[build]
 
 &P136688 = UET 3, 0367
@@ -5117,9 +4960,9 @@ $ beginning broken
 1. 2(disz) gin2 2/3(|NINDA2x(SZE.2(ASZ))|)? ku3-sig17 husz-a
 #lem: n; gij[unit]; n; kugsig[gold]; husz[reddish]
 2. tu-dur har-har-ra-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]
+#lem: tudur[jewelry?]; har[ring]
 3. [x] gin2 1(u) 2(disz) sze ku3-sig17 si-sa2
-#lem: u; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: u; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 4. na-bi2-hu-um 1/2(disz) gin2-ta 8(disz)-sze3
 #lem: nabihum[ornament]; n; gij[unit]; n
 $ rest broken
@@ -5444,7 +5287,7 @@ x3. a-hu-wa-qar
 2. 2(u) tug2 u2 ki-la2-bi 1(asz) gu2 4(u) 2(disz) ma-na
 #lem: n; tug[textile]; u|u[plants]; kila[weight]; n; gun[load]; n; n; mana[unit]
 3. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 4. ki ur-{d}ig-alim ugula usz-bar-ta
 #lem: ki[place]; PN; ugula[overseer]; uszbar[weaver]
 5. sza3-bi-ku3-zu lu2 azlag2
@@ -5758,7 +5601,7 @@ $ broken
 5. [...]-ta he2-a
 #lem: u|DN|FN; X
 6. [...] mu-kux(DU)
-#lem: u; X
+#lem: u; mu.DU[delivery]
 7. [...]-e-ne in#?-a#?
 #lem: AN|DN; in[abuse]|in[sector]|innu[straw]
 
@@ -5914,7 +5757,7 @@ x4. [...] {d}szul-[...] u4 1(disz)-ta
 @tablet
 @obverse
 1. 1(disz) gin2 la2 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. 5(disz) {na4}gug gid2-da
 #lem: n; gug[carnelian]; gid[tow]|FN|gid[long]
 3. ga2-ga2-de3
@@ -5945,7 +5788,7 @@ x4. [...] {d}szul-[...] u4 1(disz)-ta
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. szu-{d}isztaran
 #lem: PN
@@ -6053,7 +5896,7 @@ x4. [...] {d}szul-[...] u4 1(disz)-ta
 1. szesz-kal-la
 #lem: PN
 2. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 3. lu2 azlag2 iri [...]
 #lem: lu[person]; azlag[fuller]; iri[city]; AN|u
 4. ur-{d}szul-gi-ra
@@ -6114,11 +5957,11 @@ x4. [...] {d}szul-[...] u4 1(disz)-ta
 @tablet
 @obverse
 1. 9(disz) gin2 7(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. {gesz}tukul ga-li2:a-tum 1(disz)-a
 #lem: tukul[weapon]; X; n
 3. 2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 4. {gesz}ilar ku3-babbar szub-ba 1(disz)-a alan lugal-ba
 #lem: illar[ball]|illar[weapon]; kugbabbar[silver]; szub[fall]; n; alan[statue]; PN
 5. ga2-ga2-de3
@@ -6303,7 +6146,7 @@ $ rest broken
 3. 1(gesz2) 3(u) la2 1(disz) tug2 ge6
 #lem: n; n; lal[less]; n; tug[textile]; ji[night]
 4. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 5. inim-{d}szara2 lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 6. giri3 lu2-{d}nin-mar{ki}-ka
@@ -6510,7 +6353,7 @@ x6. [...]-gar3
 @tablet
 @obverse
 1. 1(disz) 1/2(disz) gin2 1(u) 5(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. a-ru-a didli e2-kiszib3-ba ga2-nun-mah-ta
 #lem: arua[offering]; didli[several]; ekiszibak[storeroom]; X
 3. mu za-gaba {d}nanna
@@ -6531,7 +6374,7 @@ $ beginning broken
 3'. szu-gur ku3-sig17#
 #lem: szugur[ring]; kugsig[gold]
 4'. {d}suen ku3-sig17 si-sa2
-#lem: DN; kugsig[gold]; WN|sisa[fair]
+#lem: DN; kugsig[gold]; sisa[fair]
 5'. x x x-x
 #lem: u; u; u
 $ rest broken
@@ -6602,7 +6445,7 @@ $ rest broken
 1. 2(u) 8(disz) tu{muszen}
 #lem: n; n; tum[dove]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. |PU3.SZA|-{d}suen
 #lem: PN
 4. ki szabra {d}nin-ezem-ta
@@ -6674,7 +6517,7 @@ $ (Fischer SaU 164)
 3. 5(asz) 1(barig) i3-gesz du10-ga i3 ma2-gan{ki} gur
 #lem: n; n; ijesz[oil]; dug[good]; i[oil]; GN; gur[unit]
 4. i3 du10-ga mu-kux(DU)
-#lem: i[oil]; dug[good]; X
+#lem: i[oil]; dug[good]; mu.DU[delivery]
 5. mu ma-da za-ab-sza-li{ki} ba-hul
 #lem: mu[year]; mada[land]; GN; hulu[bad]
 @left
@@ -6767,7 +6610,7 @@ $ beginning broken
 6'. szu-nir a-ru-a [...]
 #lem: szunir[emblem]; arua[offering]; AN|u
 7'. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 8'. [x] ku3 za-gin3 KA [...]
 #lem: u; kug[metal]; zagin[lapis]; u; AN|u
 9'. [...] U DISZ [...]
@@ -6814,7 +6657,7 @@ $ beginning broken
 1. 5(disz) dug kur-ku-du3 su3
 #lem: n; dug[pot]; kurkudu[container]; sug[empty]|su[sink]|su[sprinkle]|sug[empty]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ga-ti-e-ta
 #lem: ki[place]; PN
 4. e2-kiszib3-ba-ka ba-an-kux(KWU636)?
@@ -7105,7 +6948,7 @@ x1. [ki] s,e#-la-{d}[iszkur]-ta#
 @tablet
 @obverse
 1. 2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. {gesz}dur ha-lu-ub2 2(disz)-a
 #lem: X; halub[tree]; n
 3. ga2-ga2-de3
@@ -7323,7 +7166,7 @@ $ 4 line blank
 @tablet
 @obverse
 1. 1(u) gin2 1(u) 5(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. har 2(disz)-sze3
 #lem: har[ring]; n
 3. ki ARAD2-{d}nanna-ta
@@ -7450,7 +7293,7 @@ $ rest broken
 1. 5(disz) gin2 la2 2(u) 5(disz) sze
 #lem: n; gij[unit]; lal[less]; n; n; sze[barley]
 2. ku3-sig17 si-sa2
-#lem: kugsig[gold]; WN|sisa[fair]
+#lem: kugsig[gold]; sisa[fair]
 3. har 1(disz)-sze3
 #lem: har[ring]; n
 4. ki ARAD2-{d}nanna-ta
@@ -7735,7 +7578,7 @@ $ (Fischer SaU 014)
 3. ga2-ga2-de3
 #lem: jar[place]
 4. 2(disz) gin2 5(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 5. {zabar}szem3 1(disz)-sze3
 #lem: X; n
 6. ki ARAD2-{d}nanna-ta
@@ -7829,7 +7672,7 @@ $ (FAOS 17: Adab)
 1. 1(u) tug2 usz-bar mu-tuku5
 #lem: n; tug[textile]; uszbar[weaver]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki na-silim-ta
 #lem: ki[place]; PN
 4. ba-la-t,i3
@@ -7921,7 +7764,7 @@ $ (Fischer SaU 176)
 2. x-mu-szum
 #lem: u
 3. mu#-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. lu2 didli-ne-ta
 #lem: lu[person]; didli[several]
 @reverse
@@ -8046,7 +7889,7 @@ $ blank space
 @tablet
 @obverse
 1. 3(disz) har ku3-sig17 si-sa2
-#lem: n; har[ring]; kugsig[gold]; WN|sisa[fair]
+#lem: n; har[ring]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi 1(u) 4(disz) 1/2(disz) gin2 1(u) 3(disz) sze
 #lem: kila[weight]; n; n; n; gij[unit]; n; n; sze[barley]
 3. bi2-gu7-bi 2(u) 1(disz) 1/2(disz) sze
@@ -8220,7 +8063,7 @@ $ (Fischer SaU 072)
 3. ki ri-szi-in-ta
 #lem: ki[place]; PN
 4. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 5. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 6. lu2 azlag2-e-ne szu ba-an-ti-esz2
@@ -8362,7 +8205,7 @@ x1. {d}utu-bar-ra
 #lem: itud[moon]; MN
 @reverse
 1. mu#-[kux(DU)]
-#lem: X
+#lem: mu.DU[delivery]
 2. ki! nu-{gesz}kiri6-[ke4-ne-ta]
 #lem: ki[place]; nukirik[horticulturalist]
 3. ur-ku3-nun-na szu# ba#-[an-ti]
@@ -8371,7 +8214,7 @@ x1. {d}utu-bar-ra
 #lem: szeba[ration]; itud[moon]; MN
 5. szu szum2-mu#-dam
 #lem: szu[hand]; X
-6. mu us2-sa# bad3#-gal x mu us2#-[sa ...]
+6. mu us2-sa# bad3# gal x mu us2#-[sa ...]
 #lem: mu[year]; us[follow]; bad[wall]; gal[big]; u; mu[year]; us[follow]; AN|u
 @seal 1
 1. ur-ku3-nun-na
@@ -8465,7 +8308,7 @@ x1. a-hu-wa-qar
 @obverse
 $ (listed in catalogue only)
 x1. ku3-sig17 si-sa2
-#lem: kugsig[gold]; WN|sisa[fair]
+#lem: kugsig[gold]; sisa[fair]
 x2. na-bi2-hu-um
 #lem: nabihum[ornament]
 x3. ki-la2-bi
@@ -8572,7 +8415,7 @@ $ n lines broken
 #lem: kila[weight]; n; n; mana[unit]; n; gij[unit]
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. ki lu2-{d}en-ki simug-ta
 #lem: ki[place]; PN; simug[smith]
 3. iti ezem-{d}nin-a-zu
@@ -8631,7 +8474,7 @@ $ beginning broken
 6'. [n] {gesz#}ig kid al-zi-ra
 #lem: u|n; ig[door]; kid[mat]; zi[rise]|zig[rise]
 7'. [n] zu2#-gul szu si-sa2 se3-ga
-#lem: u|n; X; szu[hand]; WN|sisa[fair]; AN|sig[place]
+#lem: u|n; X; szu[hand]; sisa[fair]; AN|sig[place]
 8'. [...] e2-ba-an
 #lem: u; eban[pair]
 9'. [...] {gesz}x x
@@ -8742,7 +8585,7 @@ $ beginning broken
 #lem: edula[estate]; X
 $ blank space
 5'. mu#-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6'. [e2]-du6#-la didli
 #lem: edula[estate]; didli[several]
 7'. [mu] {d}i-bi2-{d}suen lugal
@@ -8766,7 +8609,7 @@ $ rest broken
 2. 2(gesz2) 2(u) 2(asz) 4(barig) gur
 #lem: n; n; n; n; gur[unit]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. na-gab2-tum-bi
 #lem: nakabtum[stockyard?]
 5. ki ur-{d}lamma-ta
@@ -8857,7 +8700,7 @@ $ (text not given)
 7. |SZU+LAGAB| 5(gesz2) 2(u) 7(disz) tug2 ge6
 #lem: szunijin[total]; n; n; n; tug[textile]; ji[night]
 8. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 9. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 10. sza3#? |URUxX|#? x [...]-zu? [x]
@@ -8882,7 +8725,7 @@ $ (text not given)
 3. szabra
 #lem: szabra[administrator]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. ki {d}ba-ba6-x-x-ta e2-a#-szar szu ba-an-ti
 #lem: ki[place]; PN; PN; szu[hand]; tej[approach]
 @reverse
@@ -9089,7 +8932,7 @@ $ beginning broken
 2'. [...] a-ra2 3(disz)-kam
 #lem: u; ara[times]; n
 3'. [...] x lugal si-sa2 {gesz}si-ig {gesz}haszhur
-#lem: u; u; lugal[king]; WN|sisa[fair]; X; haszhur[apple]
+#lem: u; u; lugal[king]; sisa[fair]; X; haszhur[apple]
 4'. a-ra2 1(disz)-kam
 #lem: ara[times]; n
 5'. [...] {gesz}si-ig {gesz}haszhur
@@ -9288,7 +9131,7 @@ $ (Fischer SaU 172)
 2. sze-ba aga3-us2 sa2-du11 {d}suen [...]
 #lem: szeba[ration]; aga'us[soldier]; sadug[offerings]; DN; AN|u
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. x x in-sa6 KA? kas4?
 #lem: u; u; sag[good]; u; kasz[runner]
 5. guru7-a x-x-tak4
@@ -9520,15 +9363,15 @@ $ (obverse not given)
 @tablet
 @obverse
 1. 2(disz) gada {u2}|KI.KAL| gada mah
-#lem: n; gada[flax]; X; gada[flax]; ensik[ruler]|mah[great]|FN
+#lem: n; gada[flax]; X; gada[flax]; mah[great]
 2. {d}en-lil2 {d}nin-lil2-la2
-#lem: DN|FN; DN
+#lem: DN; DN
 3. 4(u) 5(disz) gada hal saga
 #lem: n; n; gada[flax]; hal[pot]; X
 4. ki-la2-bi 1(asz) gu2 6(disz) 2/3(disz) ma-na
 #lem: kila[weight]; n; gun[load]; n; n; mana[unit]
 5. [x] sa gi4-a mu-kux(DU)
-#lem: u; sa[bundle]; gi[turn]; X
+#lem: u; sa[bundle]; gi[turn]; mu.DU[delivery]
 6. lu2-{d}nin-isin2?{si} lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 @reverse
@@ -9629,7 +9472,7 @@ $ (enclosed in envelope)
 1. giri3 ha-ba-lu5-ge2
 #lem: jiri[via]; PN
 2. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 3. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 4. ur-{d}szul-gi-ra
@@ -9657,7 +9500,7 @@ $ (enclosed in envelope)
 2. 1/2(disz) ma-na u2 {na4}gug
 #lem: n; mana[unit]; u|u[plants]; gug[carnelian]
 3. mu alan lugal tusz-a {na4}za-gin3 tur
-#lem: mu[year]; alan[statue]; lugal[king]; tusz[sit]; zagin[lapis]; dumu[child]|WN|tur[small]|FN
+#lem: mu[year]; alan[statue]; lugal[king]; tusz[sit]; zagin[lapis]; tur[small]
 4. 2(disz) 1/2(disz) gin2 su3-he2
 #lem: n; n; gij[unit]; PN
 5. mu eme gesz-gid2-da-sze3
@@ -9709,7 +9552,7 @@ $ (enclosed in envelope)
 @obverse
 $ (listed in catalogue only)
 1. 1(disz) har ku3-sig17 si-sa2
-#lem: n; har[ring]; kugsig[gold]; WN|sisa[fair]
+#lem: n; har[ring]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi 4(disz) 5/6(disz) gin2 la2 1(u) sze
 #lem: kila[weight]; n; n; gij[unit]; lal[less]; n; sze[barley]
 3. bi2-gu7-bi 7(disz) sze
@@ -9758,7 +9601,7 @@ $ broken
 4. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 7. lu2 azlag2-e-ne
@@ -9818,7 +9661,7 @@ $ (Fischer SaU 148)
 3. i-su2-a-ri-ik
 #lem: X
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. da-a-a
 #lem: PN
@@ -9983,7 +9826,7 @@ $ blank space
 1. 5(u) ad7 udu
 #lem: n; X; udu[sheep]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ur-e11-dam-e-ta
 #lem: ki[place]; PN
 4. nig2-gu7-a geme2 usz-bar
@@ -10164,7 +10007,7 @@ $ rest broken
 2. 5(ban2) SZIM gig#
 #lem: n; PN; kib[wheat]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki ur-sa6-ga-ta
 #lem: ki[place]; PN
 5. e2 i3-ra2-ra2-sze3
@@ -10195,7 +10038,7 @@ x1. szu ba-ti
 2. ki-la2-bi 5(u) 5(disz) 5/6(disz) ma-na
 #lem: kila[weight]; n; n; n; mana[unit]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ur-{d}da-mu simug
 #lem: PN; simug[smith]
 @reverse
@@ -10206,7 +10049,7 @@ x1. szu ba-ti
 3. iti ezem-{d}nin-a-zu u4 1(u) 4(disz) ba-zal
 #lem: itud[moon]; MN; ud[day]; n; n; zal[pass]
 4. mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 na-ru2-a-mah {d}en-lil2 {d}nin-lil2-[ra] mu-ne-du3
-#lem: mu[year]; RN|TN|MN; lugal[king]; GN; X; DN|FN; DN; du[build]
+#lem: mu[year]; RN|TN|MN; lugal[king]; GN; X; DN; DN; du[build]
 
 &P136762 = UET 3, 0440
 #atf: lang sux
@@ -10319,7 +10162,7 @@ $ beginning broken
 3'. 3(disz) {uruda}du5 gal
 #lem: n; tun[ax]; gal[big]
 4'. 1(disz) {uruda}du5 tur
-#lem: n; tun[ax]; dumu[child]|WN|tur[small]|FN
+#lem: n; tun[ax]; tur[small]
 5'. 2(disz) {uruda}du5 hal-[...]
 #lem: n; tun[ax]; u
 6'. 2(disz) {uruda}ka-mar-x-[...]
@@ -10951,7 +10794,7 @@ $ seal impression
 3. ki ba-dab-u2-u3 u3 [...]
 #lem: ki[place]; X; u[and]; AN|u
 4. 1(u) 5(disz) gin2 2/3(|NINDA2x(SZE.2(ASZ))|)? ku3 mu-kux(DU)
-#lem: n; n; gij[unit]; n; kug[metal]; X
+#lem: n; n; gij[unit]; n; kug[metal]; mu.DU[delivery]
 5. ki inim-ma-a [...]
 #lem: ki[place]; PN; AN|u
 6. 1/2(disz) ma-na la2 1(disz) 2/3(disz) gin2 [ku3-babbar]
@@ -10989,7 +10832,7 @@ $ seal impression
 8. |SZU+LAGAB| 2(disz) {na4}nir7 gesz-gid2
 #lem: szunijin[total]; n; nir[stone]; jeszgid[unmng]
 9. |SZU+LAGAB| 1(disz) {na4}nir7 gesz-gid2 tur
-#lem: szunijin[total]; n; nir[stone]; jeszgid[unmng]; dumu[child]|WN|tur[small]|FN
+#lem: szunijin[total]; n; nir[stone]; jeszgid[unmng]; tur[small]
 10. |SZU+LAGAB| 6(disz) {na4}nir7 igi
 #lem: szunijin[total]; n; nir[stone]; igi[face]
 11. |SZU+LAGAB| 4(disz) {na4}nir7 tu-dur
@@ -11040,9 +10883,9 @@ $ seal impression
 #lem: sur[press]|sur[spin]; szag[heart]
 @reverse
 1. 1(disz) dar me-luh-ha tur
-#lem: n; dar[split]; PN; dumu[child]|WN|tur[small]|FN
+#lem: n; dar[split]; PN; tur[small]
 2. 1(disz) mar za3-hi-li tur
-#lem: n; marsa[depot]|X|mar[parasite]; zahili[plant]; dumu[child]|WN|tur[small]|FN
+#lem: n; marsa[depot]|X|mar[parasite]; zahili[plant]; tur[small]
 3. ba-an-gar
 #lem: jar[place]
 4. ki dingir-su-ra-bi2-ta
@@ -11099,7 +10942,7 @@ x2. ki ur-gu2-edin-na-ta
 #lem: egal[palace]; e[leave]
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. giri3 |PU3.SZA|-{d}szu-{d}suen
 #lem: jiri[via]; PN
 3. sza3 uri5{ki}-ma
@@ -11425,7 +11268,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. 1(disz) gin2 la2 x [sze ku3]-sig17 si#-sa2
-#lem: n; gij[unit]; lal[less]; u; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; u; sze[barley]; kugsig[gold]; sisa[fair]
 2. na#-bi2-hu-um igi 6(disz)-gal2-ta 6(disz)-sze3
 #lem: nabihum[ornament]; igi[face]; X; n
 3. ki ARAD2-{d}nanna-ta
@@ -11697,7 +11540,7 @@ x1. ku3-dim2
 1. ur-szul-pa-e3
 #lem: PN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. iti ki-siki-{d}nin-a-zu
 #lem: itud[moon]; MN
 
@@ -11875,7 +11718,7 @@ $ 1 line blank
 3. gada sa gi4-a
 #lem: gada[flax]; sa[bundle]; gi[turn]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. lu2-{d}nin-isin2?{si}
 #lem: PN
 6. mu {d}szul-gi-iri-mu-sze3
@@ -11953,7 +11796,7 @@ $ 1 line blank
 4. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. ki |PU3.SZA|-e2-a-ta
 #lem: ki[place]; PN
 7. sza3 iri-sa12-rig7{ki}
@@ -12006,9 +11849,9 @@ $ 1 line blank
 @tablet
 @obverse
 1. 1(disz) gin2 la2 7(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. alan lugal tur 2(disz)-sze3
-#lem: alan[statue]; lugal[king]; dumu[child]|WN|tur[small]|FN; n
+#lem: alan[statue]; lugal[king]; tur[small]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -12036,7 +11879,7 @@ $ 1 line blank
 #lem: arua[offering]; RN; lugal[king]
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. e2 kar-zi-da
 #lem: e[house]; TN
 3. iti sze-sag11-ku5
@@ -12165,7 +12008,7 @@ $ beginning broken
 3'. ARAD2-mu engar
 #lem: PN; engar[farmer]
 4'. a-sza3 mah
-#lem: aszag[field]; ensik[ruler]|mah[great]|FN
+#lem: aszag[field]; mah[great]
 5'. |SZU+LAGAB| 2(bur3) 2(esze3) GAN2
 #lem: szunijin[total]; n; n; iku[unit]|X
 6'. |SZU+LAGAB| sze-bi 3(asz) 1(barig) gur
@@ -12193,7 +12036,7 @@ $ beginning broken
 17'. [...]-ka engar
 #lem: PN; engar[farmer]
 18'. [...] mah
-#lem: u; ensik[ruler]|mah[great]|FN
+#lem: u; mah[great]
 $ rest broken
 @column 2
 $ beginning broken
@@ -12262,7 +12105,7 @@ $ (Wool brought by shephers na-gada)
 4. |SZU+LAGAB| 5(u) 2(asz) gu2 3(disz) ma-na siki GI
 #lem: szunijin[total]; n; n; gun[load]; n; mana[unit]; siki[hair]; u
 5. siki mu-kux(DU) sipa-e-ne
-#lem: siki[hair]; X; FN|sipad[shepherd]
+#lem: siki[hair]; mu.DU[delivery]; FN|sipad[shepherd]
 6. ugula {d}nin-mar{ki}-ka szusz3
 #lem: ugula[overseer]; DN|FN; kusz[official]
 7. mu x x x
@@ -12337,7 +12180,7 @@ $ (Wool brought by shephers na-gada)
 3. 1/3(disz) gin2 7(disz) 1/2(disz) sze ku3-husz-a
 #lem: n; gij[unit]; n; n; sze[barley]; X
 4. 1/2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 5. 2(disz) 1/2(disz) gin2 ku3 e2-x
 #lem: n; n; gij[unit]; kug[metal]; PN
 6. 1(u) gin2 ku3 i3-si-in[{ki?}]
@@ -12432,7 +12275,7 @@ x3. giri3 ur-{d}nin-mug
 2. gada sa gi4-a
 #lem: gada[flax]; sa[bundle]; gi[turn]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. {d}nanna-hi-li lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 5. mu {d}szul-gi-iri-mu-sze3
@@ -12655,11 +12498,11 @@ $ (Fischer SaU 037)
 @obverse
 $ 1 line blank
 1. 1(disz) x x UD kal gada mah
-#lem: n; u; u; u; kal[rare]; gada[flax]; ensik[ruler]|mah[great]|FN
+#lem: n; u; u; u; kal[rare]; gada[flax]; mah[great]
 2. i3-li2 NI unu{ki}-ga
 #lem: PN; u; GN
 3. gada sa gi4-a mu-kux(DU)
-#lem: gada[flax]; sa[bundle]; gi[turn]; X
+#lem: gada[flax]; sa[bundle]; gi[turn]; mu.DU[delivery]
 4. lu2-{d}nin-isin2?{si} lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 @reverse
@@ -12677,7 +12520,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. i3-bi mu-kux(DU) unu3-e-ne
-#lem: i[oil]; X; unud[cowherd]
+#lem: i[oil]; mu.DU[delivery]; unud[cowherd]
 2. ga-ti-e szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
 3. ugula da-da-x szusz3
@@ -12728,7 +12571,7 @@ x1. ku3-dim2
 @tablet
 @obverse
 1. 1(disz) har ku3-sig17 si-sa2
-#lem: n; har[ring]; kugsig[gold]; WN|sisa[fair]
+#lem: n; har[ring]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi 5(disz) gin2 la2 2(u) 7(disz) sze
 #lem: kila[weight]; n; gij[unit]; lal[less]; n; n; sze[barley]
 3. bi2-gu7-bi 7(disz) 1/2(disz) sze
@@ -13032,7 +12875,7 @@ x1. ku3-dim2
 2. ki lu2-gu4#?
 #lem: ki[place]; PN
 3. ug3-IL2
-#lem: ujjaja[porter]
+#lem: UN.IL₂[menial]
 4. ba-a-da
 #lem: da[cvve]
 5. e-zi-tum
@@ -13190,7 +13033,7 @@ x1. ku3-dim2
 @tablet
 @obverse
 1. 1(disz) nigin2 gesz an-za-am-ma gir4 tur
-#lem: n; nijin[total]; jesz[tree]; anzam[vessel]; gir[oven]; dumu[child]|WN|tur[small]|FN
+#lem: n; nijin[total]; jesz[tree]; anzam[vessel]; gir[oven]; tur[small]
 2. ki {d}nanna-kam-ta
 #lem: ki[place]; PN
 3. a-hu-wa-qar
@@ -13299,7 +13142,7 @@ $ broken
 1. 3(disz) tug2 sza3-ga-du3 ba-tab# [duh]-hu-um szar3
 #lem: n; tug[textile]; szagadu[garment]; tab[begin]|tab[burn]|tab[double]|tab[flatten]|tab[grasp]; duh[loosen]; szar[~cloth]
 2. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 3. ba-NE-a lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 4. ur-{d}szul-gi-ra
@@ -13323,7 +13166,7 @@ $ broken
 @tablet
 @obverse
 1. 1(u) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. sila3 bur-zi-e
 #lem: sila[unit]; burzi[bowl]
 3. ba-ab-dah
@@ -13355,9 +13198,9 @@ $ broken
 1. 2(disz) gin2 la2 1(u) 7(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; lal[less]; n; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. tu-dur har-har-ra-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]
+#lem: tudur[jewelry?]; har[ring]
 3. 1(disz) gin2 2/3(disz) ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; kugsig[gold]; sisa[fair]
 4. na-bi2-hu-um igi 3(disz)-gal2-ta 2(disz)
 #lem: nabihum[ornament]; igi[face]; X; n
 5. u3 na-bi2-hu-um igi 5(disz)-gal2-ta 6(disz)-sze3
@@ -13550,7 +13393,7 @@ $ rest broken
 2. ensi2
 #lem: ensik[ruler]|ensi[interpreter]|sukkal[secretary]|FN
 3. nibru{ki}
-#lem: GN|FN
+#lem: GN
 4. dumu ur-{d}nisaba2
 #lem: dumu[child]; PN
 5. ensi2
@@ -13583,7 +13426,7 @@ $ rest broken
 1. 2(disz) 1/2(disz) gin2 ku3-sig17 husz-a
 #lem: n; n; gij[unit]; kugsig[gold]; husz[reddish]
 2. 2(disz) 1/2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; kugsig[gold]; sisa[fair]
 3. ba-a-gar ba-HI
 #lem: jar[place]; X
 4. ku3-sig17 HI-da ba-an-kux(KWU636)
@@ -13654,7 +13497,7 @@ x10. [...]-ta
 3. szu-nir-ra la2-a
 #lem: szunir[emblem]; la[hang]
 4. [...]-a didli mu-kux(DU)
-#lem: PN|DN|GN; didli[several]; X
+#lem: PN|DN|GN; didli[several]; mu.DU[delivery]
 5. [...] x [x]
 #lem: u; u; u
 6. [...]
@@ -13743,7 +13586,7 @@ x10. [...]-ta
 1. [x] {munus}asz2-gar3! niga
 #lem: u; aszgar[kid]; niga[fattened]
 2. 3(u) 8(disz) muszen tur
-#lem: n; n; muszen[bird]; dumu[child]|WN|tur[small]|FN
+#lem: n; n; muszen[bird]; tur[small]
 3. 8(disz) suhur
 #lem: n; FN|suhur[tuft]
 4. 2(disz) sag-kesz2 ku6 duru5
@@ -13766,7 +13609,7 @@ x10. [...]-ta
 6. [lugal] uri5{ki}-[ma-ke4]
 #lem: lugal[king]; GN
 7. nibru{ki#} uri5{ki}-[ma]
-#lem: GN|FN; GN
+#lem: GN; GN
 8. [bad3 gal]-bi# mu-du3
 #lem: bad[wall]; gal[big]; du[build]
 
@@ -14016,7 +13859,7 @@ $ (Fischer SaU 122)
 2. lu2-gu-la na-gada
 #lem: PN; nagada[herdsman]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. iti ezem-mah
 #lem: itud[moon]; MN
 @reverse
@@ -14060,7 +13903,7 @@ $ beginning broken
 1'. [... x x] n(barig) 1(ban2)# 5(disz)# [{d}amar-{d}suen] sipa kalam#-[ma]
 #lem: u; u; u; X; n; n; RN; FN|sipad[shepherd]; kalam[land]
 2'. [... x x x] 3(barig)# 1(ban2) 5(disz) {d}amar-[{d}]suen# [{d}]isztaran-gin7 si-sa2
-#lem: u; u; u; u; n; n; n; RN; X; WN|sisa[fair]
+#lem: u; u; u; u; n; n; n; RN; X; sisa[fair]
 3'. [... x x] 1(ban2)# 5(disz) {d}amar-{d}suen# ki-ag2 [{d}nanna]
 #lem: u; u; u; n; n; RN; PN|X|FN; DN
 4'. [...]
@@ -14258,7 +14101,7 @@ $ double ruling
 4. na-bi2-hu-um igi 4(disz)-gal2-ta 4(disz)-sze3
 #lem: nabihum[ornament]; igi[face]; X; n
 5. igi 6(disz)-gal2 ku3-sig17 si-sa2
-#lem: igi[face]; X; kugsig[gold]; WN|sisa[fair]
+#lem: igi[face]; X; kugsig[gold]; sisa[fair]
 6. ka-gur4 tu-di-da ku3-babbar 1(disz)-sze3
 #lem: PN; tuditum[toggle pin]; kugbabbar[silver]; n
 @reverse
@@ -14401,7 +14244,7 @@ x1. kiszib3 ab-ba-kal-la
 1. giri3 sza3-ta-ku3-zu
 #lem: jiri[via]; PN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. {d}szul-gi-ra
 #lem: AN|RN
 4. iti masz-ku3-gu7
@@ -14447,7 +14290,7 @@ $ rest broken
 16'. a-ru-a lugal e2-du6-la da-da gala
 #lem: arua[offering]; lugal[king]; edula[estate]; PN; gala[singer]
 17'. mu-kux(DU)#
-#lem: X
+#lem: mu.DU[delivery]
 18'. mu#? [...]
 #lem: mu[year]; AN|u
 
@@ -14583,7 +14426,7 @@ x4. e2-kiszib3-ba-ka
 3. a-ru-a {d}szu-{d}suen lugal
 #lem: arua[offering]; RN|TN|MN; lugal[king]
 4. mu-kux(DU) ki |PU3.SZA|-isz-{d}da-gan-ta
-#lem: X; ki[place]; PN
+#lem: mu.DU[delivery]; ki[place]; PN
 5. za3! 1(u)-sze3! {d}nin-gal-e i3-dab5
 #lem: zag[side]; n; DN; dab[seize]
 6. x x dub-sar
@@ -14750,7 +14593,7 @@ $ (receipt for copper and zinc)
 2. szu ba-an-ti
 #lem: szu[hand]; tej[approach]
 3. tug2 mu-tuku5 mu-kux(DU)
-#lem: tug[textile]; tuku[beat]; X
+#lem: tug[textile]; tuku[beat]; mu.DU[delivery]
 4. iti sze-sag11-ku5-ta
 #lem: itud[moon]; X
 5. iti a2-ki-ti-sze3
@@ -14787,7 +14630,7 @@ $ (receipt for copper and zinc)
 2. sze ur5-ra e3
 #lem: sze[barley]; urra[loan]; e[leave]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. [...]
 #lem: AN|u
 @reverse
@@ -14853,7 +14696,7 @@ x4. a-hu-wa-qar
 2. mu-tuku5#
 #lem: tuku[beat]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki lu2-{d}nanna-[ta]
 #lem: ki[place]; PN
 5. ib-ni-{d}iszkur#
@@ -14916,7 +14759,7 @@ $ (Fischer SaU 152)
 3. 2(disz) masz2 ga
 #lem: n; masz[goat]; ga[milk]
 4. mu-kux(DU) szabra
-#lem: X; szabra[administrator]
+#lem: mu.DU[delivery]; szabra[administrator]
 5. ki szu-{d}utu-ta
 #lem: ki[place]; PN
 @reverse
@@ -15028,7 +14871,7 @@ $ rest broken
 1. iti# ki-siki {d}nin-a-zu# u4 1(u) la2 1(disz) ba-zal
 #lem: itud[moon]; MN; WN|DN; ud[day]; n; lal[less]; n; zal[pass]
 2. mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-dim2#
-#lem: mu[year]; RN|TN|MN; lugal[king]; GN; X; DN|FN; DN; dim[create]
+#lem: mu[year]; RN|TN|MN; lugal[king]; GN; X; DN; DN; dim[create]
 
 &P145223 = SAT 3, 2023
 #atf: lang sux
@@ -15603,7 +15446,7 @@ x2. ku3-dim2
 7. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 8. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. |PU3.SZA|-a-bi szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
@@ -15788,7 +15631,7 @@ $ rest broken
 4. |SZU+LAGAB| 3(u) tug2 usz-bar
 #lem: szunijin[total]; n; tug[textile]; uszbar[weaver]
 5. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 6. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 7. ur-{d}szul-gi-ra
@@ -15942,7 +15785,7 @@ $ beginning broken
 3'. sze-ba dumu ba-usz2 lu2 azlag2-e-ne
 #lem: szeba[ration]; dumu[child]; usz[die]; lu[person]; azlag[fuller]
 4'. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5'. ki na-silim-ta
 #lem: ki[place]; PN
 6'. mu i3-gesz-sze3
@@ -16076,7 +15919,7 @@ $ beginning broken
 2. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. lu2-{d}nin-isin2?{si} lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 @reverse
@@ -16282,7 +16125,7 @@ x2. a-hu-wa-qar
 1. 1(u) tug2 usz-bar mu-tuku5
 #lem: n; tug[textile]; uszbar[weaver]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ur-{d}szul-gi-ra-ta
 #lem: ki[place]; PN
 4. lu2-{d}nin-szubur lu2 azlag2
@@ -17023,7 +16866,7 @@ x4. a-hu-wa-qar
 2. u3 ur-x-[...]
 #lem: u[and]; PN
 3. sza3 nibru{ki}
-#lem: szag[heart]; GN|FN
+#lem: szag[heart]; GN
 4. iti sze-sag11-ku5-ta
 #lem: itud[moon]; X
 5. iti ses-da-gu7-sze3
@@ -17109,7 +16952,7 @@ x1. ku3-dim2
 6. lugal uri5{ki}-ma-ke4
 #lem: lugal[king]; GN
 7. nibru{ki}
-#lem: GN|FN
+#lem: GN
 8. uri5{ki}-ma
 #lem: GN
 9. bad3 gal-bi
@@ -17164,7 +17007,7 @@ x1. ku3-dim2
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. sa gi4-gi4
 #lem: sa[bundle]; gi[turn]
@@ -17279,7 +17122,7 @@ x1. ku3-dim2
 11. sza-lim-be-li2
 #lem: PN
 12. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 13. iti ezem-mah
 #lem: itud[moon]; MN
 14. mu e2 |PU3.SZA|-isz-{d}da-gan ba-du3
@@ -17363,7 +17206,7 @@ $ broken
 1. 1(disz) udu u2
 #lem: n; udu[sheep]; u|u[plants]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. en-me-gi4
 #lem: gi[turn]
 4. {d}szu-{d}suen-ha-ma-ti i3-dab5
@@ -17511,11 +17354,11 @@ $ (fragment of clay sealing)
 4. mud3 8(disz)-sze3
 #lem: mud[jar]; n
 5. 1(disz) gin2 la2 8(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 6. na-bi2-hu-um igi 6(disz)-gal2-ta 6(disz)-sze3
 #lem: nabihum[ornament]; igi[face]; X; n
 7. 2(disz) gin2 2/3(disz) la2 8(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 8. 2(disz) {na4}gug gid2-da
 #lem: n; gug[carnelian]; gid[tow]|FN|gid[long]
 @reverse
@@ -17547,7 +17390,7 @@ $ (fragment of clay sealing)
 1. igi 3(disz)-gal2 la2 1(disz) sze ku3-sig17 husz-a
 #lem: igi[face]; X; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. 5(disz) gin2 2(u) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 3. ba-a-gar ba-HI
 #lem: jar[place]; X
 4. ku3-sig17 HI-da ba-an-<ku4?>
@@ -17831,7 +17674,7 @@ $ 1 line blank
 6. gada sa! gi4-a
 #lem: gada[flax]; sa[bundle]; gi[turn]
 7. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. lu2-{d}nin-isin2?{si} lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
@@ -17973,7 +17816,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. 5(disz) 5/6(disz) gin2 la2 5(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. a-gug2-PI sa2-sa2-a 2(u)-sze3
 #lem: agugPI[object]; sa[advice]; n
 3. ki ARAD2-{d}nanna-ta
@@ -18025,7 +17868,7 @@ $ blank space
 2. iti sze-sag11-ku5
 #lem: itud[moon]; X
 3. mu us2-sa {d}i-bi2-{d}suen lugal-e nibru{ki} uri5[{ki}] bad3 gal-bi mu-du3
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN|FN; GN; bad[wall]; gal[big]; du[build]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; bad[wall]; gal[big]; du[build]
 
 &P138162 = UET 9, 0031
 #atf: lang sux
@@ -18289,7 +18132,7 @@ $ (listed in catalogue only)
 x1. [...] gur? du [...] gi4-a
 #lem: u; gur[unit]; du[go]; u; gi[turn]
 x2. mu-kux(DU) lu2-{d}nin-isin2?{si}-na i3-dab5
-#lem: X; PN; dab[seize]
+#lem: mu.DU[delivery]; PN; dab[seize]
 
 &P137375 = UET 3, 1050
 #atf: lang sux
@@ -18684,7 +18527,7 @@ $ 1 line blank
 5. [mu] us2#-sa {d}i-bi2-{d}suen [lugal] uri5{ki#}-ma#-ke4
 #lem: mu[year]; us[follow]; RN; lugal[king]; GN
 6. [x] nibru{ki#}
-#lem: u; GN|FN
+#lem: u; GN
 7. [x]-x{ki#}-ma
 #lem: u
 8. [...]-bi mu-[x]
@@ -18915,7 +18758,7 @@ $ blank space
 3. tug2-ba lu2 azlag2-e-ne-sze3
 #lem: tug[textile]; lu[person]; azlag[fuller]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. ur-{d}szul-gi-ra
 #lem: PN
 6. szu ba-an-ti
@@ -18937,7 +18780,7 @@ $ blank space
 1. 5(disz) gin2 ku3-babbar
 #lem: n; gij[unit]; kugbabbar[silver]
 2. a2-la2 tur 1(disz)-sze3
-#lem: ala[manacles]; dumu[child]|WN|tur[small]|FN; n
+#lem: ala[manacles]; tur[small]; n
 3. ki ur-gu2-edin-na-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -18981,7 +18824,7 @@ $ blank space
 12. 2(disz) {gesz}gag en-kar mes-bi
 #lem: n; X; enginkal[bird]; mes[blackness]
 13. 2(disz) {gesz}sag-gul szu si-sa2 sza3-kal se3-ga e2-ba-an-bi
-#lem: n; sajkul[bolt]; szu[hand]; WN|sisa[fair]; PN; AN|sig[place]; eban[pair]
+#lem: n; sajkul[bolt]; szu[hand]; sisa[fair]; PN; AN|sig[place]; eban[pair]
 14. 1(disz) {gesz}du5 u4-da-bi
 #lem: n; X; udda[stand]
 15. 4(disz) [x] 1(u) gin2 kusz gu4 u2-hab2
@@ -19121,7 +18964,7 @@ $ blank space
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. {d}nanna-ki-ag2
 #lem: PN
@@ -19429,7 +19272,7 @@ $ 1 line blank
 1. 2(gesz2) 2(u) 2(disz) tug2 mu-tuku5
 #lem: n; n; n; tug[textile]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lugal-gu-la szusz3-ta
 #lem: ki[place]; PN; kusz[official]
 4. ur-{d}nansze lu2 azlag2
@@ -19482,7 +19325,7 @@ $ 1 line blank
 3. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. [...] lu2 azlag2
 #lem: u; lu[person]; azlag[fuller]
 6. mu {d}szul-gi-iri-mu-sze3
@@ -19535,7 +19378,7 @@ x3. nagar
 10. 1/2(disz) ma-na 5(disz) gin2 ku3-sig17 [x]
 #lem: n; mana[unit]; n; gij[unit]; kugsig[gold]; u
 11. 5(disz) 1/3(disz) ma-na ku3-sig17 si-sa2 ki-la2 SZE3 [x]
-#lem: n; n; mana[unit]; kugsig[gold]; WN|sisa[fair]; kila[weight]; u; u
+#lem: n; n; mana[unit]; kugsig[gold]; sisa[fair]; kila[weight]; u; u
 12. e2 {d}nin-ku3-nun-na-ta
 #lem: e[house]; DN
 13. 5/6(disz) ma-na 1(disz) gin2 ku3-sig17 husz-a
@@ -19543,7 +19386,7 @@ x3. nagar
 14. 1(disz) 1/2(disz) ma-na 3(disz) gin2 ku3-sig17 HI-da
 #lem: n; n; mana[unit]; n; gij[unit]; kugsig[gold]; PN
 15. 1(u) 1(disz) 1/2(disz) ma-na ku3-sig17 si-sa2
-#lem: n; n; n; mana[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; n; mana[unit]; kugsig[gold]; sisa[fair]
 16. 3(disz) ma-na 1(u) 3(disz) gin2 ku3-babbar
 #lem: n; mana[unit]; n; n; gij[unit]; kugbabbar[silver]
 17. 1(asz) gu2 5(u) 8(disz) ma-na zabar ki-la2 [...]
@@ -19558,7 +19401,7 @@ x3. nagar
 3. |SZU+LAGAB| 2(disz) ma-na 1(u) 6(disz) gin2 ku3-sig17 HI-da
 #lem: szunijin[total]; n; mana[unit]; n; n; gij[unit]; kugsig[gold]; PN
 4. |SZU+LAGAB| 3(u) 3(disz) 1/2(disz) ma-<na> 7(disz) gin2 ku3-sig17 si-sa2
-#lem: szunijin[total]; n; n; n; mana[unit]; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: szunijin[total]; n; n; n; mana[unit]; n; gij[unit]; kugsig[gold]; sisa[fair]
 5. |SZU+LAGAB| 2(asz) gu2 1(u) 3(disz) 5/6(disz) ma-na 7(disz) gin2 ku3-babbar
 #lem: szunijin[total]; n; gun[load]; n; n; n; mana[unit]; n; gij[unit]; kugbabbar[silver]
 6. |SZU+LAGAB| 1(u) 9(asz) gu2 3(u) 1(disz) ma-na zabar
@@ -19723,7 +19566,7 @@ $ double ruling
 7. ur-nigar{gar} x
 #lem: PN; u
 8. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 9. sza3 e2 ib2-gi-x
 #lem: szag[heart]; e[house]; u
 10. a2-ki-ti [x]
@@ -19929,7 +19772,7 @@ $ blank space
 @reverse
 1. iti# ezem-{d}szul-gi
 #lem: itud[moon]; MN
-2. mu us2-sa bad3#-gal ba-du3
+2. mu us2-sa bad3# gal ba-du3
 #lem: mu[year]; us[follow]; bad[wall]; gal[big]; du[build]
 
 &P137000 = UET 3, 0678
@@ -19959,7 +19802,7 @@ $ blank space
 2. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 3. 1(disz) alan ARAD2 tur
-#lem: n; alan[statue]; arad[slave]; dumu[child]|WN|tur[small]|FN
+#lem: n; alan[statue]; arad[slave]; tur[small]
 4. 3(disz) zi-in-pu2
 #lem: n; X
 5. ba-an-gar
@@ -20060,7 +19903,7 @@ x3. ki-la2-bi
 1. zu#-u2-[...]
 #lem: u
 2. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 3. lu2-gir2?-nun
 #lem: PN
 4. giri3 nu-ur2-{d}suen
@@ -20164,7 +20007,7 @@ $ rest broken
 1. 2(disz) gin2 2(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. tu-dur har-har-ra 8(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n
+#lem: tudur[jewelry?]; har[ring]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -20371,7 +20214,7 @@ $ (Fischer SaU 106)
 2. nig2-sa10-ma
 #lem: nijsam[price]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki ur-dub-la2-mah-ta
 #lem: ki[place]; PN
 5. e2-kiszib3-ba ki-tusz e2 {gesz}gigir-ka ba-an-kux(TU)?
@@ -20400,7 +20243,7 @@ $ (Fischer SaU 106)
 3. lugal-ad-da#
 #lem: PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. iti masz-ku3-gu7#
 #lem: itud[moon]; MN
@@ -20455,7 +20298,7 @@ $ (Fischer SaU 106)
 1. ki szesz-kal-la dam-gar3-ta
 #lem: ki[place]; PN; damgar[merchant]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. sa2-du11 {d}nanna-sze3
 #lem: sadug[offerings]; DN
 4. {d}nanna-dalla i3-dab5
@@ -20692,7 +20535,7 @@ $ beginning broken
 1. 1(gesz2) la2 1(disz) dug kur-ku-du3 gid2
 #lem: n; lal[less]; n; dug[pot]; kurkudu[container]; gid[long]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki# ga-ti-e-ta
 #lem: ki[place]; PN
 4. e2-[kiszib3-ba] {d}nanna-a gar-ra! ba-an?-kux(KWU636)
@@ -21003,7 +20846,7 @@ x7. aszgab
 5. szu ba-an-ti
 #lem: szu[hand]; tej[approach]
 6. a-sza3 nigin9 tur kun i7 lugal-ka
-#lem: aszag[field]; FN; dumu[child]|WN|tur[small]|FN; kun[tail]|FN; id[river]|X|WN; PN
+#lem: aszag[field]; FN; tur[small]; kun[tail]|FN; id[river]|X|WN; PN
 7. sza3-gu2-bi szar2-ra-ab-du
 #lem: PN; szarrabdu[administrator]
 8. im-bi ki szabra-sze3 i3-na-szum2
@@ -21041,7 +20884,7 @@ x7. aszgab
 @tablet
 @obverse
 1. 1(disz) 1/2(disz) gin2 KA-du ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; X; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; X; kugsig[gold]; sisa[fair]
 2. 1(disz) {gesz}dim4 {na4}nir7 babbar 1(disz)
 #lem: n; X; nir[stone]; babbar[white]; n
 3. 1(disz) tu-dur {na4}nir7 babbar 1(disz)
@@ -21051,7 +20894,7 @@ x7. aszgab
 5. ba-an-gub
 #lem: gub[stand]
 6. 3(gesz2) 3(u) 3(disz) za-ah ku3-sig17 si-sa2 5(disz) sze-ta
-#lem: n; n; n; za[close?]|za[cvve]; kugsig[gold]; WN|sisa[fair]; n; sze[barley]
+#lem: n; n; n; za[close?]|za[cvve]; kugsig[gold]; sisa[fair]; n; sze[barley]
 7. ki-la2-bi 4(disz) gin2 2(u) 3(disz) sze
 #lem: kila[weight]; n; gij[unit]; n; n; sze[barley]
 @reverse
@@ -21083,7 +20926,7 @@ x7. aszgab
 #lem: GN
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. iti ezem-{d}szul-gi
 #lem: itud[moon]; MN
 3. mu x x x
@@ -21223,7 +21066,7 @@ x2. [...]-sze3
 1. 2(gesz2) 1(u) {kusz}e-sir2 e2-ba-an
 #lem: n; n; esir[shoe]; eban[pair]
 2. nig2-dab5 geme2 ug3-IL2
-#lem: nijdab[requisitions]; geme[worker]; ujjaja[porter]
+#lem: nijdab[requisitions]; geme[worker]; UN.IL₂[menial]
 3. ki ur-{d}ba-ba6-ta
 #lem: ki[place]; PN
 4. ib-ni-{d}suen
@@ -21317,7 +21160,7 @@ $ (Fischer SaU 114)
 2. 2(disz) uz-tur
 #lem: n; PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. lu2-{d}nin-gir2-su-ka e2-kiszib3-ba
 #lem: PN; ekiszibak[storeroom]
 @reverse
@@ -21499,7 +21342,7 @@ $ rest broken
 7. [geme2 ARAD2?] da#-da gala-me
 #lem: geme[worker]; arad[slave]; PN; gala[singer]
 8. [...] GAN2 a-sza3 mah gu2 i7 na-ra-am-sza
-#lem: u; iku[unit]|X; aszag[field]; ensik[ruler]|mah[great]|FN; gun[load]; id[river]|X|WN; X
+#lem: u; iku[unit]|X; aszag[field]; mah[great]; gun[load]; id[river]|X|WN; X
 9. um-mi-nu-nu dam ri-ba-ga#-da
 #lem: PN; dam[spouse]|FN; PN
 10. 6(bur3) GAN2 a-sza3 u2-za-ar-ub-te#
@@ -21687,7 +21530,7 @@ $ blank space
 @tablet
 @obverse
 1. 2(disz) gin2 9(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 5(disz) sze-ta 1(gesz2) 1(u) 4(disz)-sze3
 #lem: X; n; sze[barley]; n; n; n
 3. ki ARAD2-{d}nanna-ta
@@ -22099,7 +21942,7 @@ x1. {d}nansze
 @tablet
 @obverse
 1. 4(disz) 1/2(disz) gin2 la2 3(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. la-ga-ma-al [...]
 #lem: PN; AN|u
 3. ga2-ga2-de3
@@ -22152,7 +21995,7 @@ x1. {d}nansze
 @tablet
 @obverse
 1. tug2 ki-la2 tag-ga mu-kux(DU)#
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 2. [ki ugula] usz-bar-ra-ke4-ne-[ta]
 #lem: ki[place]; ugula[overseer]; uszbar[weaver]
 3. [giri3] giri3-ni-i3-sa6 dub-sar
@@ -22185,7 +22028,7 @@ x1. {d}nansze
 5. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
@@ -22370,7 +22213,7 @@ x1. lugal-[kisal-ba-e] szu ba-an-ti
 8. |SZU+LAGAB| 1(barig) 5(ban2) sze
 #lem: szunijin[total]; n; n; sze[barley]
 9. sze-ba ug3-IL2 es3-sa2-ke4-ne
-#lem: szeba[ration]; ujjaja[porter]; PN
+#lem: szeba[ration]; UN.IL₂[menial]; PN
 10. mu-ni-sze3 ba-an-tak4
 #lem: PN; taka[cvve]|taka[abandon]
 11. iti ezem-an-na
@@ -22393,7 +22236,7 @@ $ (Fischer SaU 053)
 1. 5/6(disz) sila3 i3-nun
 #lem: n; sila[unit]; inun[ghee]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki-su7-ta e11-de3 [...] x unu3-ta
 #lem: kisur[locus]; u|PN; u; u; unud[cowherd]
 4. masz2-da-re-a lugal
@@ -22757,7 +22600,7 @@ x3. [...] {d}szul-gi
 7. 1(barig) dabin szuku-sze3
 #lem: n; dabin[semolina]; szukur[ration]
 8. [x] muszen tur gu7-de3
-#lem: u; muszen[bird]; dumu[child]|WN|tur[small]|FN; gu[eat]
+#lem: u; muszen[bird]; tur[small]; gu[eat]
 9. 3(disz) sila3 dabin 3(disz) sila3 nig2-ar3-ra saga
 #lem: n; sila[unit]; dabin[semolina]; n; sila[unit]; nijara[groats]; X
 10. [...]-du engur-engur
@@ -23135,7 +22978,7 @@ $ 1 line blank
 2. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki ur-dingir-ra-ta
 #lem: ki[place]; PN
 5. ur-{d}nin-a-zu lu2 azlag2
@@ -23289,7 +23132,7 @@ $ 1 line blank
 1. 5(disz) gin2 1(u) 5(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. 5(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 3. ba-a-gar ba-HI
 #lem: jar[place]; X
 4. ku3-sig17 HI-da ba-an-kux(KWU636)
@@ -23617,7 +23460,7 @@ $ blank space
 1. 5(disz) tug2 se11-se11-hu-um
 #lem: n; tug[textile]; X
 2. 2(u) 3(disz) tug2 bar siki si-sa2
-#lem: n; n; tug[textile]; bar[outside]; siki[hair]; WN|sisa[fair]
+#lem: n; n; tug[textile]; bar[outside]; siki[hair]; sisa[fair]
 3. 2(disz) tug2 bar siki u3-gun3 gal-gal
 #lem: n; tug[textile]; bar[outside]; siki[hair]; ugunu[decoration]; gal[big]
 4. 1(u) tug2 bar siki u3-gun3 tur-tur
@@ -23635,7 +23478,7 @@ $ blank space
 10. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 11. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 12. lu2-{d}nanna dumu ku3-{d}nanna
 #lem: PN; dumu[child]; PN
 13. ur-dun szu ba-an-ti
@@ -23729,7 +23572,7 @@ x5. siki [...]
 #lem: PN; dubsar[scribe]
 3. iti a2-ki-ti
 #lem: itud[moon]; MN
-4. mu us2-sa bad3#-gal ba-du3-a mu us2-sa-bi
+4. mu us2-sa bad3# gal ba-du3-a mu us2-sa-bi
 #lem: mu[year]; us[follow]; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 @reverse
 # some text moved to preceding line
@@ -23763,7 +23606,7 @@ $ blank space
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. lugal-uszur4
 #lem: PN
 8. iti ezem-{d}szul-gi
@@ -23817,7 +23660,7 @@ $ (Fischer SaU 026)
 2. dub-sar
 #lem: dubsar[scribe]
 3. dumu ug3-[IL2]
-#lem: dumu[child]; ujjaja[porter]
+#lem: dumu[child]; UN.IL₂[menial]
 4. ARAD2-zu
 #lem: PN
 
@@ -23843,7 +23686,7 @@ $ (Fischer SaU 026)
 1. sze-ba lu2 mar-tu-ne-sze3
 #lem: szeba[ration]; lu[person]; martu[westerner]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. e2 esz3 didli-ne-ta
 #lem: e[house]; esz[shrine]; didli[several]
 4. kiszib3 ur-{d}ma-ma-ka na4 x-bi
@@ -23872,7 +23715,7 @@ $ (Fischer SaU 026)
 3. nig2-{d}nin-gal
 #lem: PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. mu us2-sa bad3 ma-da ba-du3-a
 #lem: mu[year]; us[follow]; bad[wall]; mada[land]; du[build]
@@ -23917,7 +23760,7 @@ $ (Fischer SaU 026)
 #lem: szunijin[total]; kila[weight]; n; gun[load]
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. ki simug-ne-ta
 #lem: ki[place]; simug[smith]
 3. lugal uri5{ki}-e
@@ -24053,7 +23896,7 @@ $ 1 line blank
 7. ba-zi#
 #lem: ziga[expenditure]
 8. sza3 nibru{ki#}
-#lem: szag[heart]; GN|FN
+#lem: szag[heart]; GN
 9. iti u5-bi2-gu7
 #lem: itud[moon]; MN
 10. mu sza-asz-ru{ki} ba-hul
@@ -24071,7 +23914,7 @@ $ 1 line blank
 2. {d}utu-di-de3
 #lem: PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. {d}utu-bar-ra
 #lem: PN
 $ blank space
@@ -24120,7 +23963,7 @@ $ (Fischer SaU 091)
 2. ur-dun
 #lem: PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. lu2-sukkal
 #lem: PN
 @reverse
@@ -24207,7 +24050,7 @@ x1. ku3-sig17
 5. ki-la2-bi 8(disz) ma-na
 #lem: kila[weight]; n; mana[unit]
 6. i3-la2 mu-kux(DU)
-#lem: la[hang]|la[stretch]|lal[less]|lal[less]; X
+#lem: la[hang]|la[stretch]|lal[less]|lal[less]; mu.DU[delivery]
 7. ur-si-gar ugula usz-bar
 #lem: PN; ugula[overseer]; uszbar[weaver]
 8. iti sze-sag11-ku5
@@ -24258,7 +24101,7 @@ x1. ku3-sig17
 @tablet
 @obverse
 1. [...] ku3-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 2. la-ga-ma-al ku3-babbar 2(disz)-a
 #lem: PN; kugbabbar[silver]; n
 3. ga2-ga2-de3
@@ -24364,7 +24207,7 @@ $ rest broken
 4. szu ba-an-ti
 #lem: szu[hand]; tej[approach]
 5. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 @reverse
 1. giri3# x-x-mu-zu
 #lem: jiri[via]; u
@@ -24429,7 +24272,7 @@ $ rest broken
 @tablet
 @obverse
 1. 6(disz) gin2 2/3(disz) la2 5(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. a-gug2-PI sa2-sa2-a igi 3(disz)-gal2-ta 2(u)-sze3
 #lem: agugPI[object]; sa[advice]; igi[face]; X; n
 3. ki ARAD2-{d}nanna-ta
@@ -24542,7 +24385,7 @@ $ blank space
 3'. tug2 ki ku3? nig2-ka9 szabra
 #lem: tug[textile]; ki[place]; kug[metal]; nijSZID[account]; szabra[administrator]
 4'. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5'. ur-{d}szul-gi-ra szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
 6'. iti masz-ku3-gu7
@@ -24675,7 +24518,7 @@ $ (fragments of clay sealings)
 4. giri3 an-ne2-ba-ab-du7
 #lem: jiri[via]; PN
 5. sza3 nibru{ki}
-#lem: szag[heart]; GN|FN
+#lem: szag[heart]; GN
 $ (month day year)
 
 &P138003 = UET 3, 1677
@@ -24689,7 +24532,7 @@ $ (obverse not given)
 2. ki lu2-dingir-ra dumu tu-ra-am-i3-li2-ta
 #lem: ki[place]; PN; dumu[child]; PN
 3. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 4. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 5. lu2 azlag2-e-ne
@@ -25070,7 +24913,7 @@ $ broken
 @obverse
 $ (listed in catalogue only)
 x1. ku3-sig17 si-sa2
-#lem: kugsig[gold]; WN|sisa[fair]
+#lem: kugsig[gold]; sisa[fair]
 x2. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 
@@ -25297,7 +25140,7 @@ $ rest broken
 #lem: itud[moon]; MN
 @reverse
 1. mu {d}i-bi2-{d}suen lugal-e nibru{ki} uri5{ki}-ma bad3 gal-bi mu-du3
-#lem: mu[year]; RN; lugal[king]; GN|FN; GN; X; du[build]
+#lem: mu[year]; RN; lugal[king]; GN; GN; bad[wall]; gal[big]; du[build]
 
 &P136393 = UET 3, 0076
 #atf: lang sux
@@ -25428,7 +25271,7 @@ $ beginning broken
 @tablet
 @obverse
 1. 3(disz) 5/6(disz) gin2 ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; kugsig[gold]; sisa[fair]
 2. {gesz}gu-za umbin sal4-la 1(disz)-a
 #lem: guza[chair]; umbin[cutting]|umbin[nail]|umbin[wheel]; sal[winnow?]; n
 3. ga2-ga2-de3
@@ -25482,7 +25325,7 @@ x5. u3 igi lu2-{d}iszkur
 6. ($ blank space $) ga
 #lem: ga[milk]
 7. [mu]-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 8. [la2-ia3] 1(barig) 3(ban2) 5(disz) sila3 i3
 #lem: la'u[arrears]; n; n; n; sila[unit]; i[oil]
 9. [la2-ia3] 2(barig) 2(ban2) 1/2(disz) sila3 ga
@@ -25500,7 +25343,7 @@ x5. u3 igi lu2-{d}iszkur
 15. ($ blank space $) i3 ga
 #lem: i[oil]; ga[milk]
 16. mu#-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 17. [la2-ia3] 2(ban2) i3
 #lem: la'u[arrears]; n; i[oil]
 18. [la2-ia3] 3(ban2) ga
@@ -25520,7 +25363,7 @@ x5. u3 igi lu2-{d}iszkur
 25. [x] sila3# ga
 #lem: u; sila[unit]; ga[milk]
 26. [mu]-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 27. [la2-ia3 ...] 7(disz) sila3 i3
 #lem: la'u[arrears]; u; n; sila[unit]; i[oil]
 28. [la2-ia3 x] 1/2(disz) sila3 ga
@@ -25538,7 +25381,7 @@ x5. u3 igi lu2-{d}iszkur
 34. [...]
 #lem: AN|u
 35. [mu-kux(DU)]
-#lem: X
+#lem: mu.DU[delivery]
 36. [la2-ia3 ... i3]
 #lem: la'u[arrears]; u; i[oil]
 37. [la2-ia3 ... ga]
@@ -25556,7 +25399,7 @@ x5. u3 igi lu2-{d}iszkur
 43. [i3 ga]
 #lem: i[oil]; ga[milk]
 44. [mu-kux(DU)]
-#lem: X
+#lem: mu.DU[delivery]
 @column 2
 1. la2-ia3 1(ban2) 5(disz) sila3 i3
 #lem: la'u[arrears]; n; n; sila[unit]; i[oil]
@@ -25573,7 +25416,7 @@ x5. u3 igi lu2-{d}iszkur
 7. ($ blank space $) ga
 #lem: ga[milk]
 8. mu-kux(DU)#
-#lem: X
+#lem: mu.DU[delivery]
 9. la2-ia3 5(disz) sila3#! [i3]
 #lem: la'u[arrears]; n; sila[unit]; i[oil]
 10. la2#-[ia3] 7(disz) 1/2(disz)! sila3# [ga]
@@ -25591,7 +25434,7 @@ x5. u3 igi lu2-{d}iszkur
 16. i3 ga
 #lem: i[oil]; ga[milk]
 17. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 18. la2-ia3 2(ban2) i3
 #lem: la'u[arrears]; n; i[oil]
 19. la2-ia3 3(ban2) ga
@@ -25609,7 +25452,7 @@ x5. u3 igi lu2-{d}iszkur
 25. [i3] ga
 #lem: i[oil]; ga[milk]
 26. mu-[kux(DU)]
-#lem: X
+#lem: mu.DU[delivery]
 27. [la2]-ia3 1(ban2) 5(disz) sila3 i3
 #lem: la'u[arrears]; n; n; sila[unit]; i[oil]
 28. [la2]-ia3 2(u) 2(disz)# [1/2(disz)] sila3# ga#
@@ -25627,7 +25470,7 @@ x5. u3 igi lu2-{d}iszkur
 34. [...]
 #lem: AN|u
 35. mu-kux(DU)#
-#lem: X
+#lem: mu.DU[delivery]
 36. [la2-ia3 ... i3]
 #lem: la'u[arrears]; u; i[oil]
 37. [la2-ia3 ... ga]
@@ -25649,7 +25492,7 @@ $ 1 line blank
 1. |SZU+LAGAB| 2(ban2) 6(disz) sila3 ga
 #lem: szunijin[total]; n; n; sila[unit]; ga[milk]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. |SZU+LAGAB| 1(asz) 2(barig) 3(ban2) 2(disz) 1/2(disz) sila3 i3 gur!
 #lem: szunijin[total]; n; n; n; n; n; sila[unit]; i[oil]; gur[unit]
 4. |SZU+LAGAB| 2(asz) 1(barig) 2(ban2) 6(disz) 1/2(disz) sila3 ga <gur>
@@ -25669,7 +25512,7 @@ $ 1 line blank
 11. 4(disz)# 1/2(disz) sila3 i3 ga
 #lem: n; n; sila[unit]; i[oil]; ga[milk]
 12. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 13. la2-ia3 3(ban2) 5(disz) 1/2(disz) <6(disz) sila3> i3
 #lem: la'u[arrears]; n; n; n; n; sila[unit]; i[oil]
 14. la2-ia3 1(barig) ga
@@ -25687,7 +25530,7 @@ $ 1 line blank
 20. 1(disz) 5/6(disz) sila3 i3 ga
 #lem: n; n; sila[unit]; i[oil]; ga[milk]
 21. mu#-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 22. [la2]-ia3 8(disz) sila3 1(u) gin2 i3
 #lem: la'u[arrears]; n; sila[unit]; n; gij[unit]; i[oil]
 23. la2-ia3 1(ban2) 5(disz) sila3 ga
@@ -25706,7 +25549,7 @@ $ 1 line blank
 29. 2(disz) sila3 [ga]
 #lem: n; sila[unit]; ga[milk]
 30. [mu-kux(DU)]
-#lem: X
+#lem: mu.DU[delivery]
 31. [la2-ia3 4(ban2) 2/3(disz) sila3 i3]
 #lem: la'u[arrears]; n; n; sila[unit]; i[oil]
 32. [la2-ia3 1(barig) 1(ban2) 3(disz) sila3 ga]
@@ -25727,7 +25570,7 @@ $ 1 line blank
 39. [|SZU+LAGAB| 2(disz)] sila3 [ga]
 #lem: szunijin[total]; n; sila[unit]; ga[milk]
 40. [mu-kux(DU)]
-#lem: X
+#lem: mu.DU[delivery]
 41. [|SZU+LAGAB| 1(barig) 2(ban2) 4(disz) 1/3(disz)] sila3# [i3]
 #lem: szunijin[total]; n; n; n; n; sila[unit]; i[oil]
 42. [|SZU+LAGAB| 1(barig) 2(ban2) 8(disz) sila3] ga
@@ -25749,7 +25592,7 @@ $ 1 line blank
 6. i3 ga
 #lem: i[oil]; ga[milk]
 7. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 8. la2-ia3 2(ban2) i3#
 #lem: la'u[arrears]; n; i[oil]
 9. la2-ia3 2(ban2) ga
@@ -25767,7 +25610,7 @@ $ 1 line blank
 15. [i3 ga]
 #lem: i[oil]; ga[milk]
 16. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 17. [la2-ia3 5(disz) sila3] i3
 #lem: la'u[arrears]; n; sila[unit]; i[oil]
 18. la2-ia3 7(disz) [1/2(disz)] sila3# ga#
@@ -25785,7 +25628,7 @@ $ 1 line blank
 24. [i3 ga]
 #lem: i[oil]; ga[milk]
 25. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 26. la2-ia3 5(disz) sila3 i3#
 #lem: la'u[arrears]; n; sila[unit]; i[oil]
 27. [la2]-ia3 7(disz)! 1/2(disz)! sila3# ga
@@ -25805,7 +25648,7 @@ $ 1 line blank
 34. 3(disz)# sila3 ga
 #lem: n; sila[unit]; ga[milk]
 35. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 36. [la2-ia3] 3(ban2)# sila3# i3
 #lem: la'u[arrears]; n; sila[unit]; i[oil]
 37. [la2-ia3 4(ban2)] 9(disz)! 1/2(disz) sila3 ga
@@ -25823,7 +25666,7 @@ $ 1 line blank
 43. i3 ga
 #lem: i[oil]; ga[milk]
 44. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 45. la2-ia3 1(ban2) 5(disz) sila3 i3
 #lem: la'u[arrears]; n; n; sila[unit]; i[oil]
 46. la2-ia3 2(ban2) 2(disz) 1/2(disz) sila3 ga
@@ -25845,7 +25688,7 @@ $ 1 line blank
 3. [|SZU+LAGAB| 3(disz) sila3 ga]
 #lem: szunijin[total]; n; sila[unit]; ga[milk]
 4. mu#-kux(DU)#
-#lem: X
+#lem: mu.DU[delivery]
 5. |SZU+LAGAB|# 1(barig) 1(ban2) 5(disz) 2/3(disz) sila3 i3
 #lem: szunijin[total]; n; n; n; n; sila[unit]; i[oil]
 6. |SZU+LAGAB|# 1(barig)# 5(ban2)# 8(disz) sila3 ga
@@ -25865,7 +25708,7 @@ $ 1 line blank
 13. [4(disz) 1/2(disz)] sila3# i3 4(disz) sila3 ga#
 #lem: n; n; sila[unit]; i[oil]; n; sila[unit]; ga[milk]
 14. [mu]-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 15. [la2]-ia3# [1(barig)] 2(ban2) 1/2(disz) sila3 i3
 #lem: la'u[arrears]; n; n; n; sila[unit]; i[oil]
 16. [la2-ia3] 3(barig)# 3(ban2)# 4(disz) 1/2(disz) sila3 ga#
@@ -25883,7 +25726,7 @@ $ 1 line blank
 22. [...] i3# ga
 #lem: u; i[oil]; ga[milk]
 23. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 24. [la2]-ia3 5(disz) sila3 i3
 #lem: la'u[arrears]; n; sila[unit]; i[oil]
 25. la2-ia3 7(disz) 1/2(disz) sila3 ga
@@ -25904,7 +25747,7 @@ $ 1 line blank
 32. |SZU+LAGAB| 4(disz) sila3 ga
 #lem: szunijin[total]; n; sila[unit]; ga[milk]
 33. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 34. |SZU+LAGAB|# 2(barig)# 2(ban2) 5(disz)! 1/2(disz) sila3 i3
 #lem: szunijin[total]; n; n; n; n; sila[unit]; i[oil]
 35. [|SZU+LAGAB| 2(barig) 4(ban2) 1(disz) sila3] ga
@@ -25924,7 +25767,7 @@ $ 1 line blank
 42. [...] i3 ga
 #lem: u; i[oil]; ga[milk]
 43. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 44. la2-ia3 [1(ban2)] i3
 #lem: la'u[arrears]; n; i[oil]
 45. [la2]-ia3# <1(ban2) 5(disz)> sila3 ga
@@ -25944,7 +25787,7 @@ $ 1 line blank
 5. [|SZU+LAGAB|] sila3 <i3 ga>
 #lem: szunijin[total]; sila[unit]; i[oil]; ga[milk]
 6. [mu]-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. [|SZU+LAGAB| la2-ia3 1(ban2)] i3
 #lem: szunijin[total]; la'u[arrears]; n; i[oil]
 8. [|SZU+LAGAB| la2-ia3 1(ban2)] 5(disz) sila3 ga
@@ -25967,7 +25810,7 @@ $ blank space
 16. [|SZU+LAGAB| 3(ban2) 5(disz) sila3] ga-ar3!
 #lem: szunijin[total]; n; n; sila[unit]; ga'ar[cheese]|gara[cream]
 17. [mu]-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 18. [|SZU+LAGAB| 2(asz) 2(barig) 4(ban2) 8(disz) sila3] i3-nun
 #lem: szunijin[total]; n; n; n; n; sila[unit]; inun[ghee]
 19. [|SZU+LAGAB| 3(asz) 4(barig) 4(ban2) 7(disz) 1/2(disz)] sila3 ga-ar3
@@ -25975,7 +25818,7 @@ $ blank space
 20. [la2-ia3]-am3
 #lem: la'u[arrears]
 21. [i3 ga mu]-kux(DU)
-#lem: i[oil]; ga[milk]; X
+#lem: i[oil]; ga[milk]; mu.DU[delivery]
 22. [ki? unu3-e-ne-ta?]
 #lem: ki[place]; unud[cowherd]
 23. [ga-ti-e szu ba-an-ti]
@@ -26293,7 +26136,7 @@ $ n lines broken
 3. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 4. 3(disz) {gesz}sag-gul szu si-sa2 se3-ga e2-ba-an
-#lem: n; sajkul[bolt]; szu[hand]; WN|sisa[fair]; AN|sig[place]; eban[pair]
+#lem: n; sajkul[bolt]; szu[hand]; sisa[fair]; AN|sig[place]; eban[pair]
 5. ba-an-gar
 #lem: jar[place]
 @reverse
@@ -26438,7 +26281,7 @@ $ (Fischer SaU 115)
 2. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 3. 2(disz) gir2 szu-<i> tur mu10-us2 ni2-ba
-#lem: n; jiri[dagger]; szu'i[barber]; dumu[child]|WN|tur[small]|FN; X; ni[fear]|ni[self]
+#lem: n; jiri[dagger]; szu'i[barber]; tur[small]; X; ni[fear]|ni[self]
 4. ba-an-gar
 #lem: jar[place]
 5. ki dingir-su-ra-bi2-ta
@@ -26492,7 +26335,7 @@ $ (Fischer SaU 115)
 2. tug2 mu-tuku5 nig2-gur11 da-a-a
 #lem: tug[textile]; tuku[beat]; nijGA[property]; PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki da-a-a-ta
 #lem: ki[place]; PN
 @reverse
@@ -26615,7 +26458,7 @@ $ broken
 3. 1(asz) gu2 1(disz) ma-na [...] bur2
 #lem: n; gun[load]; n; mana[unit]; u; barag[sack]|bur[container?]|bur[glow]
 4. mu-kux(DU) lu2 a2-la2-a-ke4-ne
-#lem: X; lu[person]; X
+#lem: mu.DU[delivery]; lu[person]; X
 5. 5(asz) gu2 3(u) 7(disz) ma-na u2 nin9
 #lem: n; gun[load]; n; n; mana[unit]; u|u[plants]; nin[sister]
 6. 2(asz) gu2 3(u) 7(disz) 2/3(disz) ma-na u2 bur2
@@ -26897,7 +26740,7 @@ $ (Fischer SaU 076)
 3. tug2 zu2-uh-kam
 #lem: tug[textile]; zu'eh[moth-eaten]
 4. 2(disz) tug2 ba-tab duh-hu-um tur [x]-kam# us2
-#lem: n; tug[textile]; tab[begin]|tab[burn]|tab[double]|tab[flatten]|tab[grasp]; duh[loosen]; dumu[child]|WN|tur[small]|FN; u|n|DN; us[side]
+#lem: n; tug[textile]; tab[begin]|tab[burn]|tab[double]|tab[flatten]|tab[grasp]; duh[loosen]; tur[small]; u|n|DN; us[side]
 5. 2(disz) [...] du [...]
 #lem: n; u; du[go]; AN|u
 @reverse
@@ -26951,15 +26794,15 @@ $ 1 line blank
 @tablet
 @obverse
 1. [x] gin2 la2 6(disz) sze ku3-sig17 si-sa2
-#lem: u; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: u; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. u4 1(disz) ba-zal
 #lem: ud[day]; n; zal[pass]
 3. 1(disz) 2/3(disz) gin2 la2 6(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 4. u4 2(disz) ba-zal
 #lem: ud[day]; n; zal[pass]
 5. 2(disz) [gin2] ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 6. u4 3(disz) ba-zal
 #lem: ud[day]; n; zal[pass]
 7. mu sze-x-x-ra-sze3
@@ -27043,7 +26886,7 @@ x3. kiszib3 ab-ba-kal-la
 17. x masz2 ansze
 #lem: u; masz[goat]; ansze[equid]|FN
 18. x zabar ma ku3-babbar
-#lem: u; zabar[bronze]; mada[land]; kugbabbar[silver]
+#lem: u; zabar[bronze]; X; kugbabbar[silver]
 19. x ka ba ku3-sig17 gar-ra
 #lem: u; kag[mouth]; ba[allot]; kugsig[gold]; jar[place]
 20. [...] 1(u) 9(disz) gin2
@@ -27135,7 +26978,7 @@ $ rest broken
 2. 2(disz) tug2 guz-za 3(disz)-kam us2
 #lem: n; tug[textile]; guz[tufted]|gum[mange]|guz[tufted]; n; us[side]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki lu2 azlag2-e-ne-ta
 #lem: ki[place]; lu[person]; azlag[fuller]
 @reverse
@@ -27186,7 +27029,7 @@ $ (Fischer SaU 068)
 1. [...] 1(gesz2) 1(u) tug2 usz-bar nig2-eb
 #lem: u; n; n; tug[textile]; uszbar[weaver]; X
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki tug2 ar-bu-um-ma-ta
 #lem: ki[place]; tug[textile]; PN
 @reverse
@@ -27800,7 +27643,7 @@ x2. ur-{d}lamma
 2. mu {d}i-bi2-{d}suen lugal
 #lem: mu[year]; RN; lugal[king]
 3. nibru{ki}
-#lem: GN|FN
+#lem: GN
 4. uri5{ki}-ma
 #lem: GN
 5. bad3 gal-bi mu-du3
@@ -27911,7 +27754,7 @@ x2. ur-{d}lamma
 3. ba-zi-ir
 #lem: zir[break]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. ki lugal-i3-di3-ta
 #lem: ki[place]; PN
 6. simug-ne szu ba-an-ti-esz2
@@ -28014,7 +27857,7 @@ $ 1 line blank
 1. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. [x] e2 nam-sa12-du5
 #lem: u; e[house]; PN
 4. ur-{d}szul-gi-ra
@@ -28049,7 +27892,7 @@ $ 1 line blank
 11. 1(u) 2(disz) tug2 usz-bar ge6
 #lem: n; n; tug[textile]; uszbar[weaver]; ji[night]
 12. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 13. szu ti-a lu2 azlag2-e-ne
 #lem: szu[hand]; tej[approach]; lu[person]; azlag[fuller]
 @reverse
@@ -28058,7 +27901,7 @@ $ 1 line blank
 2. |SZU+LAGAB| 3(gesz'u) 8(gesz2) la2 1(disz) tug2 usz-bar hi-a
 #lem: szunijin[total]; n; n; lal[less]; n; tug[textile]; uszbar[weaver]; hi[mix]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. la2-ia3 1(szar2) 2(gesz'u) 5(u) la2 1(disz) tug2 usz-bar
 #lem: la'u[arrears]; n; n; n; lal[less]; n; tug[textile]; uszbar[weaver]
 5. nig2-ka9 ak
@@ -28148,7 +27991,7 @@ $ 1 line blank
 @obverse
 $ (listed in catalogue only)
 x1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 
 &P136614 = UET 3, 0295
 #atf: lang sux
@@ -28161,7 +28004,7 @@ x1. mu-kux(DU)
 3. szesz-kal-la
 #lem: PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. dub-ba-ni nu-ta-tur
 #lem: dub[go around]|dub[heap]|dub[tablet]|dub[tremble]; tur[small]
 6. sza3 e2-gi-tum
@@ -28268,9 +28111,9 @@ $ rest broken
 @tablet
 @obverse
 1. 2(disz) gin2 la2 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. tu-dur har-har-ra
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]
+#lem: tudur[jewelry?]; har[ring]
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -28715,7 +28558,7 @@ $ beginning broken
 3. lu2-me-lam2
 #lem: PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. iti a2-ki-ti
 #lem: itud[moon]; MN
 @reverse
@@ -28748,7 +28591,7 @@ $ beginning broken
 3. iti ezem-an-na u4 2(u) 6(disz) ba-zal
 #lem: itud[moon]; MN; ud[day]; n; n; zal[pass]
 4. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3! gal-bi mu-du3-a mu us2-sa-bi
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 
 &P200948 = UE 10, 405
 #atf: lang sux
@@ -28897,7 +28740,7 @@ $ (text not given)
 @tablet
 @obverse
 1. 4(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 5(disz) sze-ta 2(gesz2) 2(u) 4(disz)-sze3
 #lem: X; n; sze[barley]; n; n; n
 3. ki ARAD2-{d}nanna-ta
@@ -28944,9 +28787,9 @@ $ (text not given)
 @tablet
 @obverse
 1. 3(disz) gin2 la2 8(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. tu-dur har-har-ra 1(u) 2(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n; n
+#lem: tudur[jewelry?]; har[ring]; n; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -29168,7 +29011,7 @@ $ blank space
 @tablet
 @obverse
 1. [x] 2/3(|NINDA2x(SZE.2(ASZ))|)? 1(u) 4(disz) sze ku3-sig17 si-sa2
-#lem: u; n; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: u; n; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. kiszib3 [{na4}]za-gin3 1(disz)-a
 #lem: kiszib[seal]; zagin[lapis]; n
 3. ga2-ga2-de3
@@ -29315,9 +29158,9 @@ $ rest broken
 @tablet
 @obverse
 1. 1(disz) 5/6(disz) gin2 5(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. gal tur 1(disz)-sze3
-#lem: gal[big]; dumu[child]|WN|tur[small]|FN; n
+#lem: gal[big]; tur[small]; n
 3. 2(disz) gin2 la2 3(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
 4. na-bi2-hu-um igi 4(disz)-gal2-ta 4(disz)
@@ -29580,7 +29423,7 @@ $ rest broken
 5. 1(u) 1(disz) ib-ni-{d}iszkur
 #lem: n; n; PN
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. ki lu2 didli-ne-ta#
 #lem: ki[place]; lu[person]; didli[several]
 8. ib-ni-x-[...]
@@ -29781,13 +29624,13 @@ $ broken
 4. mu {d}nin-hur-sag-ga2-sze3
 #lem: mu[year]; DN
 5. 2/3(disz){sza} 2/3(|NINDA2x(SZE.2(ASZ))|) 2(u) sze ku3-sig17 si-sa2
-#lem: n; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 6. har 1(u) gin2-ta 2(disz)-sze3
 #lem: har[ring]; n; gij[unit]; n
 7. mu {d}gu-la-sze3
 #lem: mu[year]; DN
 8. 2/3(disz){sza} ku3-sig17 si-sa2
-#lem: n; kugsig[gold]; WN|sisa[fair]
+#lem: n; kugsig[gold]; sisa[fair]
 9. har 6(disz) gin2-ta 4(disz)-sze3
 #lem: har[ring]; n; gij[unit]; n
 10. mu {d}da-mu u3 {d}gu-la-sze3
@@ -29836,7 +29679,7 @@ $ beginning broken
 3. |SZU+LAGAB| 6(asz) gu2 4(u) 3(disz) ma-na uruda
 #lem: szunijin[total]; n; gun[load]; n; n; mana[unit]; urud[copper]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. ki dam-gar3-ra-ne-ta
 #lem: ki[place]; damgar[merchant]
 6. [e2]-kiszib3-ba-ka ba-an-kux(TU)?
@@ -30287,11 +30130,11 @@ x4. ha-ba-at
 @tablet
 @obverse
 1. 1(u) 3(disz) gin2 ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; kugsig[gold]; sisa[fair]
 2. a-gug2-PI sa2-sa2-a 4(u)-sze3
 #lem: agugPI[object]; sa[advice]; n
 3. 5(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 4. har 5(disz) gin2 1(disz)-sze3
 #lem: har[ring]; n; gij[unit]; n
 5. ki ARAD2-{d}nanna-ta
@@ -30349,7 +30192,7 @@ x4. ha-ba-at
 #lem: kug[metal]; n; mana[unit]; n; gij[unit]; n; n; sze[barley]
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. nig2-ka9 e2-kiszib3-ba-ke4 ba-ab-IL2
 #lem: nijSZID[account]; ekiszibak[storeroom]; il[raise]
 3. mu {d}amar-{d}suen lugal ur-bi2-lum{ki} mu-hul
@@ -30554,7 +30397,7 @@ $ (clay sealing)
 2. ensi2
 #lem: ensik[ruler]|ensi[interpreter]|sukkal[secretary]|FN
 3. nibru{ki}
-#lem: GN|FN
+#lem: GN
 4. dumu ur-{d}nisaba2
 #lem: dumu[child]; PN
 5. ensi2
@@ -30755,7 +30598,7 @@ $ beginning broken
 4. mu {d}i-[bi2-{d}suen] lugal# [...]
 #lem: mu[year]; RN; lugal[king]; AN|u
 5. nibru{ki} [...]
-#lem: GN|FN; AN|u
+#lem: GN; AN|u
 6. bad3 gal x mu#-du3#
 #lem: bad[wall]; gal[big]; u; du[build]
 
@@ -30787,9 +30630,9 @@ $ beginning broken
 1. 1/2(disz)? gin2 la2 2(disz) sze
 #lem: n; gij[unit]; lal[less]; n; sze[barley]
 2. ku3-sig17 si-sa2
-#lem: kugsig[gold]; WN|sisa[fair]
+#lem: kugsig[gold]; sisa[fair]
 3. tu-dur har-har-ra [x-sze3]
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; PN|WN
+#lem: tudur[jewelry?]; har[ring]; PN|WN
 4. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 5. a-hu-wa-qar
@@ -30858,7 +30701,7 @@ $ (listed in catalogue only)
 @tablet
 @obverse
 1. [x] gin2 la2 igi 4(disz)-gal2 ku3-sig17 si-sa2
-#lem: u; gij[unit]; lal[less]; igi[face]; X; kugsig[gold]; WN|sisa[fair]
+#lem: u; gij[unit]; lal[less]; igi[face]; X; kugsig[gold]; sisa[fair]
 2. tu-di-da 2(disz) gin2 1(disz)
 #lem: tuditum[toggle pin]; n; gij[unit]; n
 3. na-bi2-hu-um 1/2(disz) gin2-ta 2(disz)
@@ -30866,7 +30709,7 @@ $ (listed in catalogue only)
 4. u3 na-bi2-hu-um igi 6(disz)-gal2-ta 1(u)-sze3
 #lem: u[and]; nabihum[ornament]; igi[face]; X; n
 5. 1(disz) gin2 la2 1(u) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 6. na-bi2-hu-um igi 6(disz)-gal2-ta 6(disz)-sze3
 #lem: nabihum[ornament]; igi[face]; X; n
 @reverse
@@ -30964,9 +30807,9 @@ $ beginning broken
 4. 7(disz) tug2 ge6
 #lem: n; tug[textile]; ji[night]
 5. [...] 1(disz) tug2 usz-bar tur
-#lem: u; n; tug[textile]; uszbar[weaver]; dumu[child]|WN|tur[small]|FN
+#lem: u; n; tug[textile]; uszbar[weaver]; tur[small]
 6. [...] 1(disz) tug2 ge6 tur
-#lem: u; n; tug[textile]; ji[night]; dumu[child]|WN|tur[small]|FN
+#lem: u; n; tug[textile]; ji[night]; tur[small]
 7. [...] 2(disz) sila3 4(disz) gin2 i3-szah2
 #lem: u; n; sila[unit]; n; gij[unit]; iszah[lard]
 8. 1(asz) 4(disz) sila3 naga gur
@@ -31416,7 +31259,7 @@ x4. [...] ma2 en [...]-ka
 10. |SZU+LAGAB| 2(gesz2) 4(u) ku6 gir
 #lem: szunijin[total]; n; n; ku[fish]|kud[fish]; gir[fish]
 11. mu-kux(DU) szu-ku6 a-ab-ke4-ne
-#lem: X; szukud[fisherman]; a'abak[sea]
+#lem: mu.DU[delivery]; szukud[fisherman]; a'abak[sea]
 12. iti ezem-mah
 #lem: itud[moon]; MN
 13. mu us2-sa si-mu-ru-um lu-lu-bu-um{ki} a-ra2 1(u) la2 1(disz)-kam-asz ba-hul
@@ -31427,19 +31270,19 @@ x4. [...] ma2 en [...]-ka
 @tablet
 @obverse
 1. 1(disz) gin2 4(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. haszhur 1(disz)-sze3
 #lem: haszhur[apple]; n
 3. 2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 4. tu-dur har-har-ra 8(disz)
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n
+#lem: tudur[jewelry?]; har[ring]; n
 5. za-ah lum-du8 1(disz)
 #lem: za[close?]|za[cvve]; X; n
 6. u3 lum-du8 1(disz)-sze3
 #lem: u[and]; X; n
 7. 1(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 8. alan lugal 2(disz)-sze3
 #lem: alan[statue]; lugal[king]; n
 @reverse
@@ -31735,7 +31578,7 @@ x4. e2 {d}nanna-sze3
 1. 1(disz) ma-na ga-li
 #lem: n; mana[unit]; X|FN
 2. mu szu-nir mah
-#lem: mu[year]; szunir[emblem]; ensik[ruler]|mah[great]|FN
+#lem: mu[year]; szunir[emblem]; mah[great]
 3. an {d}nanna-sze3
 #lem: DN|an[sky]; DN
 4. ki dingir-szu-ra-bi2-ta
@@ -31795,7 +31638,7 @@ x4. e2 {d}nanna-sze3
 2. 1/2(disz)? sila3 ga-ar3
 #lem: n; sila[unit]; ga'ar[cheese]|gara[cream]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki# ur-ba-gara2 unu3
 #lem: ki[place]; PN; unud[cowherd]
 5. [ga]-ti#-e
@@ -31894,7 +31737,7 @@ $ 1 line blank
 1. iti ezem-[...] u4 4(disz) [ba-zal]
 #lem: itud[moon]; ezem[festival]|MN; ud[day]; n; zal[pass]
 2. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3 gal-bi mu-du3-a mu us2-sa-bi
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; X; du[build]; mu[year]; us[follow]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 
 &P137843 = UET 3, 1517
 #atf: lang sux
@@ -32007,9 +31850,9 @@ $ blank space
 @tablet
 @obverse
 1. 4(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. tu-dur har-har-ra 1(u) 6(disz)
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n; n
+#lem: tudur[jewelry?]; har[ring]; n; n
 3. 4(disz) ellag2 lum-du8 2(disz)
 #lem: n; u|ellaj[bead]; X; n
 4. u3 lum-du8 2(disz)-sze3
@@ -32261,7 +32104,7 @@ $ rest broken
 @tablet
 @obverse
 1. 2(disz) gin2 la2 2(u) 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 5(disz) sze-ta 1(gesz2) 1(u)-sze3
 #lem: X; n; sze[barley]; n; n
 3. ki ARAD2-{d}nanna-ta
@@ -32283,7 +32126,7 @@ $ rest broken
 1. 1(disz) SZIM sag hirinx(KWU318)-na!
 #lem: n; PN; saj[head]; GN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lu2-giri17-zal dam-gar3-ta
 #lem: ki[place]; PN; damgar[merchant]
 4. e2-kiszib3-ba-ka x [...] AN sze# [...]
@@ -32320,7 +32163,7 @@ x3. a-hu-wa-qar
 @tablet
 @obverse
 1. igi 4(disz)-gal2 2(disz) sze nig2-su3-a ku3-sig17 si-sa2
-#lem: igi[face]; X; n; sze[barley]; nijsua[object]; kugsig[gold]; WN|sisa[fair]
+#lem: igi[face]; X; n; sze[barley]; nijsua[object]; kugsig[gold]; sisa[fair]
 2. kam-kam-ma-tum ku3-babbar 5(disz) gin2-ta 2(disz)-a
 #lem: kamkammatum[earring]; kugbabbar[silver]; n; gij[unit]; n
 3. ba-a-gar
@@ -32493,11 +32336,11 @@ x4. a-hu-wa-qar
 $ broken
 @reverse
 1. mu-kux(DU) didli en-na
-#lem: X; didli[several]; enna[until]|FN
+#lem: mu.DU[delivery]; didli[several]; enna[until]|FN
 2. |SZU+LAGAB| 1(u) 8(disz) udu hi-a
 #lem: szunijin[total]; n; n; udu[sheep]; hi[mix]
 3. mu-kux(DU) u3-da-tusz sipa
-#lem: X; tusz[sit]; FN|sipad[shepherd]
+#lem: mu.DU[delivery]; tusz[sit]; FN|sipad[shepherd]
 4. {d}amar-{d}suen-ti-sa6-ke4 i3-dab5
 #lem: PN; dab[seize]
 5. iti ezem-{d}nin-a-zu u4 2(u) la2 1(disz)-kam
@@ -32572,7 +32415,7 @@ $ (Broken 2 col. tablet. weights of:)
 @tablet
 @obverse
 1. 1(disz) gin2 la2 4(disz) sze ku3-[babbar] si#-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugbabbar[silver]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugbabbar[silver]; sisa[fair]
 2. sze-er-hu-num2 5(disz) li 4(u)-sze3
 #lem: X; n; li[branch]; n
 3. ki ARAD2#-[{d}nanna-ta]
@@ -32915,7 +32758,7 @@ x4. a-hu-wa-qar
 1. 3(disz) gin2 uruda du3-a-am
 #lem: n; gij[unit]; urud[copper]; du[build]
 2. {uruda}gag si-sa2 du3-u3-de3
-#lem: X; WN|sisa[fair]; du[build]
+#lem: X; sisa[fair]; du[build]
 3. ki {d}nanna-kam-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -32938,7 +32781,7 @@ x4. a-hu-wa-qar
 3. lu2-sukkal
 #lem: PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. ur-{d}nin-gal simug
 #lem: PN; simug[smith]
@@ -33105,7 +32948,7 @@ $ 1 line blank
 2. sze-ba ur-{d}iszkur aga3-us2 sza13-dub-ba
 #lem: szeba[ration]; PN; aga'us[soldier]; bisajdubak[archivist]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. mu sze i3-gesz-ka-sze3
 #lem: mu[year]; sze[barley]; ijesz[oil]
 5. guru7-a ba-an-tak4
@@ -33131,7 +32974,7 @@ $ 1 line blank
 2. ki-la2-bi 1(asz) gu2
 #lem: kila[weight]; n; gun[load]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 $ rest broken
 @reverse
 $ beginning broken
@@ -33173,7 +33016,7 @@ $ blank space
 6. lugal-ezem
 #lem: PN
 7. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 8. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 9. mu [lu2-{d}nin]-gir2#-su{ki?}
@@ -33426,15 +33269,15 @@ $ blank space
 1. 1(u) 2(disz) 2/3(disz) ma-na 5(disz) gin2 zabar
 #lem: n; n; n; mana[unit]; n; gij[unit]; zabar[bronze]
 2. {uruda}gag si-sa2 3(disz) ma-na
-#lem: X; WN|sisa[fair]; n; mana[unit]
+#lem: X; sisa[fair]; n; mana[unit]
 3. a-la2-bi 1(disz) ma-na bar-bi 5/6(disz) ma-na 1(disz)
 #lem: ala[demon]|ala[object]|ala[silt]; n; mana[unit]; bar[outside]; n; mana[unit]; n
 4. {uruda}gag si-sa2 2(disz) 1/2(disz) ma-na a-la2-bi
-#lem: X; WN|sisa[fair]; n; n; mana[unit]; ala[demon]|ala[object]|ala[silt]
+#lem: X; sisa[fair]; n; n; mana[unit]; ala[demon]|ala[object]|ala[silt]
 5. 5/6(disz) ma-na bar-bi 2/3(disz){sza} 1(disz)
 #lem: n; mana[unit]; bar[outside]; n; n
 6. u3! {uruda}gag si-sa2 2(disz) ma-na a-la2-bi
-#lem: u[and]; X; WN|sisa[fair]; n; mana[unit]; ala[demon]|ala[object]|ala[silt]
+#lem: u[and]; X; sisa[fair]; n; mana[unit]; ala[demon]|ala[object]|ala[silt]
 7. 2/3(disz){sza} bar-bi 1/2(disz) ma-na 1(disz)-sze3
 #lem: n; bar[outside]; n; mana[unit]; n
 8. ki ur-gu2-edin-na-ta
@@ -33603,7 +33446,7 @@ x2. iti-bi 9(disz)-am3
 2. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 3. 1(disz) {gesz}pisan tur
-#lem: n; X; dumu[child]|WN|tur[small]|FN
+#lem: n; X; tur[small]
 4. ba-an-gar
 #lem: jar[place]
 5. 2(disz) nigin2 {gesz}ur2 banszur mes
@@ -33692,7 +33535,7 @@ x3. a-hu-wa-qar
 2. |SZU+LAGAB| 1(gesz2) 1(u) 3(disz) tug2 usz-bar
 #lem: szunijin[total]; n; n; n; tug[textile]; uszbar[weaver]
 3. tug2 sa-gi4-a mu-kux(DU)
-#lem: tug[textile]; X; X
+#lem: tug[textile]; X; mu.DU[delivery]
 4. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 5. tug2-ba aszgab kas4-ke4-ne-sze3
@@ -34159,7 +34002,7 @@ $ beginning broken
 3. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 $ rest broken
 @reverse
 $ beginning broken
@@ -34275,9 +34118,9 @@ x4. giri3 na-silim dub-sar
 @tablet
 @obverse
 1. 4(disz) tu-dur har-har-ra ku3-sig17 si-sa2
-#lem: n; tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; kugsig[gold]; WN|sisa[fair]
+#lem: n; tudur[jewelry?]; har[ring]; kugsig[gold]; sisa[fair]
 2. 6(disz) na-bi2-hu-um ku3-sig17 si-sa2
-#lem: n; nabihum[ornament]; kugsig[gold]; WN|sisa[fair]
+#lem: n; nabihum[ornament]; kugsig[gold]; sisa[fair]
 3. ki-la2-bi 2(disz) gin2 la2 6(disz) sze
 #lem: kila[weight]; n; gij[unit]; lal[less]; n; sze[barley]
 4. bi2-gu7-bi 6(disz) sze
@@ -34292,7 +34135,7 @@ x4. giri3 na-silim dub-sar
 3. iti ezem-mah u4 2(u) 1(disz)-kam
 #lem: itud[moon]; MN; ud[day]; n; n
 4. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3 gal-bi mu-du3-a mu us2-sa-bi
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 
 &P136876 = UET 3, 0554
 #atf: lang sux
@@ -34331,7 +34174,7 @@ x4. giri3 na-silim dub-sar
 #lem: PN
 @reverse
 1. mu-[kux(DU)]
-#lem: X
+#lem: mu.DU[delivery]
 2. iti diri me-[ki-gal2]-e us2-[sa]
 #lem: itud[moon]; dirig[exceed]|FN; MN; us[follow]
 3. mu us2-sa bad3 ma-da ba-du3
@@ -34416,7 +34259,7 @@ x4. giri3 na-silim dub-sar
 @tablet
 @obverse
 1. 1(disz) gin2 ku3-sig17# [si]-sa2#?
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. na-bi2-hu-um igi 6(disz)-gal2-ta 6(disz)-sze3
 #lem: nabihum[ornament]; igi[face]; X; n
 3. ki ARAD2-{d}nanna-ta
@@ -34658,7 +34501,7 @@ x2. ki ARAD2-{d}nanna-ta
 3. 4(disz) sila3 zi3-gu lugal 1(ban2) 7(disz) sila3 zi3 gazx(KUM)
 #lem: n; sila[unit]; zidgu[flour]; lugal[king]; n; n; sila[unit]; zid[flour]; X
 4. 1(disz) sila3 zi3 sig15 4(disz) sila3 zi3-gu tur#
-#lem: n; sila[unit]; zid[flour]; sag[good]; n; sila[unit]; zidgu[flour]; dumu[child]|WN|tur[small]|FN
+#lem: n; sila[unit]; zid[flour]; sag[good]; n; sila[unit]; zidgu[flour]; tur[small]
 5. 2(disz) sila3 sze kasz 1/2(disz) sila3 zi3 dub-dub
 #lem: n; sila[unit]; sze[barley]; kasz[beer]; n; sila[unit]; zid[flour]; dubdub[~flour]
 6. 1/2(disz) sila3 3(disz) 1/3(disz) gin2 sze kasz-sze3
@@ -34911,7 +34754,7 @@ $ 1 line blank
 7. gada siki szu-nir a-ru-a didli la2-a
 #lem: gada[flax]; siki[hair]; szunir[emblem]; arua[offering]; didli[several]; la[hang]
 8. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 9. iti 1(u) 3(disz)-kam
 #lem: itud[moon]; n; n
 10. mu x x x
@@ -35599,7 +35442,7 @@ x4. a-hu-wa-qar
 @tablet
 @obverse
 1. 5/6(disz) gin2 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 5(disz) sze-ta 4(u)-sze3
 #lem: X; n; sze[barley]; n
 3. ki ARAD2-{d}nanna-ta
@@ -35754,7 +35597,7 @@ $ blank space
 1. [...]
 #lem: AN|u
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. iti szu-esz5-sza
 #lem: itud[moon]; MN
 4. mu us2-sa e2 |PU3.SZA|-isz-{d}da-gan ba-du3 mu us2-sa-bi
@@ -35840,7 +35683,7 @@ x2. mu
 1. [...] sze ninda mar-tu-ne DISZ
 #lem: u; sze[barley]; ninda[bread]; martu[westerner]; PN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ur-{d}[...]
 #lem: u|PN
 4. szu ba-an-ti#
@@ -35895,7 +35738,7 @@ x2. mu
 2. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. lugal-ezem lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 5. ur-{d}szul-gi-ra
@@ -35918,7 +35761,7 @@ $ (listed in catalogue only)
 x1. ku3-sig17
 #lem: kugsig[gold]
 x2. tu-dur har-har-ra
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]
+#lem: tudur[jewelry?]; har[ring]
 x3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 x4. a-hu-wa-qar
@@ -36169,7 +36012,7 @@ $ blank space
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. |PU3.SZA|-{d}iszkur [x]
 #lem: PN; u
@@ -36315,7 +36158,7 @@ $ (Fischer SaU 158)
 5. {d}utu-ba-ni
 #lem: PN
 6. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 @reverse
 1. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
@@ -36516,7 +36359,7 @@ $ broken
 4. tug2 gada ki-la2 tag-ga
 #lem: tug[textile]; gada[flax]; kila[weight]; tag[touch]
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 7. lu2 azlag2-e-ne szu ba-an-ti-esz2
@@ -36629,7 +36472,7 @@ $ (listed in catalogue only)
 x1. 5(ban2) gur
 #lem: n; gur[unit]
 x2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 x3. [...] sze-bi?
 #lem: u; sze[barley]
 x4. [...]-ni
@@ -36689,7 +36532,7 @@ $ beginning broken
 1. lugal-ad-da
 #lem: PN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 $ blank space
 3. iti me-ki-gal2#?
 #lem: itud[moon]; MN
@@ -36701,7 +36544,7 @@ $ blank space
 @tablet
 @obverse
 1. [...] ku3-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 2. [...] 2(u) 5(disz) sze-ta 2(disz)
 #lem: u; n; n; sze[barley]; n
 3. nig2-PI 2(disz)
@@ -36757,7 +36600,7 @@ $ (listed in catalogue only)
 x1. mar-tu-ke4-ne
 #lem: martu[westerner]
 x2. mu-kux(DU) e2-udu-niga-sze3
-#lem: X; X
+#lem: mu.DU[delivery]; X
 
 &P136564 = UET 3, 0247
 #atf: lang sux
@@ -36884,15 +36727,15 @@ x3. a-hu-wa-qar
 @tablet
 @obverse
 1. 1(disz) alan lugal ku3-sig17 si-sa2 tur
-#lem: n; alan[statue]; lugal[king]; kugsig[gold]; WN|sisa[fair]; dumu[child]|WN|tur[small]|FN
+#lem: n; alan[statue]; lugal[king]; kugsig[gold]; sisa[fair]; tur[small]
 2. 1(u) 6(disz) tu-dur har-har-ra ku3-sig17 si-sa2
-#lem: n; n; tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; tudur[jewelry?]; har[ring]; kugsig[gold]; sisa[fair]
 3. [...] sze ku3-sig17 si-sa2
-#lem: u; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: u; sze[barley]; kugsig[gold]; sisa[fair]
 4. [...] ki#
 #lem: u; ki[place]
 5. [x] na-bi2-hu-um ku3-sig17 si-sa2
-#lem: u; nabihum[ornament]; kugsig[gold]; WN|sisa[fair]
+#lem: u; nabihum[ornament]; kugsig[gold]; sisa[fair]
 6. ki-la2-bi 6(disz) gin2 2/3(|NINDA2x(SZE.2(ASZ))|)#? 1(u) 1(disz) sze
 #lem: kila[weight]; n; gij[unit]; n; n; n; sze[barley]
 7. bi2-gu7-bi 2(u) sze
@@ -37012,7 +36855,7 @@ $ broken
 1. a-bi2-si2-im-ti-kam
 #lem: PN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ad-kup4-ta
 #lem: ki[place]; adKID[weaver]
 4. iti u5-bi2-gu7
@@ -37182,7 +37025,7 @@ $ rest broken
 4. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. ki ku3-{d}nanna PA [x-ta]
 #lem: ki[place]; PN; u|X; AN|u|DN|FN
 @reverse
@@ -37283,9 +37126,9 @@ $ blank space
 2. alan lugal 4(disz)-sze3
 #lem: alan[statue]; lugal[king]; n
 3. 4(disz) gin2 1(u) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 4. tu-dur har-har-ra igi 4(disz)-gal2-ta 1(u) 4(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; igi[face]; X; n; n
+#lem: tudur[jewelry?]; har[ring]; igi[face]; X; n; n
 5. 3(disz) 1/2(disz) gin2 2(u) sze ku3-[...]
 #lem: n; n; gij[unit]; n; sze[barley]; u
 6. sze-er-hu-num2 [...]
@@ -37315,7 +37158,7 @@ $ blank space
 3. e2-e-ki-ag2
 #lem: X
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. iti ezem-{d}szul-gi
 #lem: itud[moon]; MN
 6. mu e2 |PU3.SZA|-isz-{d}da-gan ba-du3
@@ -37380,7 +37223,7 @@ $ broken
 2. ga-ar3-bi [...]
 #lem: ga'ar[cheese]|gara[cream]; AN|u
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. la2-ia3 5(ban2) 9(disz) 1/2(disz) sila3 i3
 #lem: la'u[arrears]; n; n; n; sila[unit]; i[oil]
 5. la2-ia3 1(barig) 3(ban2) 6(disz) 1/2(disz) sila3 ga-ar3
@@ -37406,7 +37249,7 @@ $ broken
 15. ga-ar3-bi 3(disz) sila3
 #lem: ga'ar[cheese]|gara[cream]; n; sila[unit]
 16. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 17. la2-ia3 4(ban2) 3(disz) 1/3(disz) sila3 i3
 #lem: la'u[arrears]; n; n; n; sila[unit]; i[oil]
 18. la2-ia3 1(barig) 2(ban2) 1(disz) sila3 ga-ar3
@@ -37431,7 +37274,7 @@ $ broken
 5. |SZU+LAGAB| i3-nun-bi 1(ban2) 1/3(disz) sila3
 #lem: szunijin[total]; inun[ghee]; n; n; sila[unit]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. |SZU+LAGAB| 1(asz) 2(barig) 1(ban2) 4(disz) 1/2(disz) sila3 i3-nun gur
 #lem: szunijin[total]; n; n; n; n; n; sila[unit]; inun[ghee]; gur[unit]
 8. |SZU+LAGAB| 2(asz) 2(barig) 5(ban2) 7(disz) 2/3(disz) sila3 ga-ar3 gur
@@ -37761,7 +37604,7 @@ x1. ku3-dim2
 #lem: PN|szagud[drover]; GN|FN
 8. iti ezem-mah
 #lem: itud[moon]; MN
-9. [mu bad3]-gal [ba]-du3-a [mu us2-sa]-bi
+9. [mu bad3] gal [ba]-du3-a [mu us2-sa]-bi
 #lem: mu[year]; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 
 &P137244 = UET 3, 0920
@@ -37796,7 +37639,7 @@ x1. ku3-dim2
 1. 1/3(disz){sza} 1(disz) gin2 2/3(|NINDA2x(SZE.2(ASZ))|)
 #lem: n; n; gij[unit]; n
 2. 2(disz) sze ku3-sig17 si-sa2
-#lem: n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; sze[barley]; kugsig[gold]; sisa[fair]
 3. har 5(disz) gin2 2(disz) [x]
 #lem: har[ring]; n; gij[unit]; n; u
 4. u3 a-gug2-PI sa2-sa2-a
@@ -37911,7 +37754,7 @@ x3. 8(disz) x
 x4. ki szabra [...]
 #lem: ki[place]; szabra[administrator]; AN|u
 x5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 x6. ki [...]
 #lem: ki[place]; AN|u
@@ -37935,11 +37778,11 @@ x13. mu x [...]
 @tablet
 @obverse
 1. 2/3(disz) 3(disz) sze ku3-sig17 si-sa2
-#lem: n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. u4 1(u) 3(disz) ba-zal
 #lem: ud[day]; n; n; zal[pass]
 3. 3(disz) gin2 2/3(disz) ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; kugsig[gold]; sisa[fair]
 4. u4 1(u) 4(disz) ba-zal
 #lem: ud[day]; n; n; zal[pass]
 5. za3-mi-ri2-tum zabar
@@ -38089,11 +37932,11 @@ $ 1 line blank
 1. 1(u) 2(disz) 2/3(disz) ma-na 5(disz) gin2 zabar
 #lem: n; n; n; mana[unit]; n; gij[unit]; zabar[bronze]
 2. {uruda}gag si-sa2 3(disz) ma-na
-#lem: X; WN|sisa[fair]; n; mana[unit]
+#lem: X; sisa[fair]; n; mana[unit]
 3. a-la2-bi 1(disz) ma-na bar-bi 5/6(disz) ma-na
 #lem: ala[demon]|ala[object]|ala[silt]; n; mana[unit]; bar[outside]; n; mana[unit]
 4. {uruda}gag si-sa2 2(disz) 1/2(disz) ma-na a-la2-bi
-#lem: X; WN|sisa[fair]; n; n; mana[unit]; ala[demon]|ala[object]|ala[silt]
+#lem: X; sisa[fair]; n; n; mana[unit]; ala[demon]|ala[object]|ala[silt]
 5. 5/6(disz) ma-na bar-bi 2/3(disz){sza} 1(disz)
 #lem: n; mana[unit]; bar[outside]; n; n
 6. u3 {uruda}<gag>-si-sa2 2(disz) ma-na a-la2-bi
@@ -38609,7 +38452,7 @@ $ blank space
 @tablet
 @obverse
 1. 1(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. alan lugal 2(disz)-sze3
 #lem: alan[statue]; lugal[king]; n
 3. ki ARAD2-{d}nanna-ta
@@ -38714,7 +38557,7 @@ $ blank space
 1. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki nig2-u2-rum dumu a-hu-a-ta
 #lem: ki[place]; PN|nijurum[property]; dumu[child]; PN
 4. lu2-{d}nin-szubur lu2 azlag2
@@ -39475,7 +39318,7 @@ $ n lines broken
 @tablet
 @obverse
 1. 5(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. har 1(disz)-sze3
 #lem: har[ring]; n
 3. ki ARAD2-{d}nanna-ta
@@ -39584,7 +39427,7 @@ $ beginning broken
 11. igi lu2-{d}suen sukkal-[sze3]
 #lem: igi[face]; PN; sukkal[secretary]
 12. [...] tur er11-ra [...]
-#lem: u; dumu[child]|WN|tur[small]|FN; PN; AN|u
+#lem: u; tur[small]; PN; AN|u
 13. [...] NE-NE dam [...]
 #lem: u; PN|NE[~silver]; dam[spouse]|FN; AN|u
 @reverse
@@ -39630,7 +39473,7 @@ $ broken
 @tablet
 @obverse
 1. 3(disz) gin2 igi 6(disz)-gal2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; igi[face]; X; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; igi[face]; X; kugsig[gold]; sisa[fair]
 2. {zabar}ub3 dur2 tuku 1(disz)-sze3
 #lem: X; dur[buttocks]; tuku[acquire]; n
 3. ki ARAD2-{d}nanna-ta
@@ -39750,7 +39593,7 @@ x1. [...]
 @tablet
 @obverse
 1. 5(disz) 5/6(disz) ma-na [...] ku3-sig17 si-sa2
-#lem: n; n; mana[unit]; u; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; mana[unit]; u; kugsig[gold]; sisa[fair]
 2. har 2(disz)-sze3
 #lem: har[ring]; n
 3. ki ARAD2-{d}nanna-ta
@@ -39851,7 +39694,7 @@ $ (listed in catalogue only)
 8. 1(ban2) {gesz}geszimmar gal
 #lem: n; jesznimbar[palm]|WN|FN; gal[big]
 9. 1(disz) {gesz}szinig ur2-ba {gesz}geszimmar tur
-#lem: n; szinig[tamarisk]|WN|FN; ur[root]; jesznimbar[palm]|WN|FN; dumu[child]|WN|tur[small]|FN
+#lem: n; szinig[tamarisk]|WN|FN; ur[root]; jesznimbar[palm]|WN|FN; tur[small]
 $ 1 line blank
 10. sza3 e2-duru5 {gesz}szinig e2 x [...] um [...]
 #lem: szag[heart]; eduru[village]; szinig[tamarisk]|WN|FN; e[house]; u; u; um[rope]; AN|u
@@ -39915,7 +39758,7 @@ $ 1 line blank
 @obverse
 $ (listed in catalogue only)
 x1. ku3-sig17 si-sa2
-#lem: kugsig[gold]; WN|sisa[fair]
+#lem: kugsig[gold]; sisa[fair]
 x2. a-hu-wa-qar
 #lem: PN
 @left
@@ -39929,7 +39772,7 @@ x3. lugal-ku3-zu
 1. 1(u) 6(asz) gu2 szu-x-sar mangaga
 #lem: n; n; gun[load]; u; mangaga[fibers]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. x-x-x-ma-[...]-ri
 #lem: u
 @reverse
@@ -40245,7 +40088,7 @@ $ beginning broken
 2. 5(u) 3(disz) tug2 usz-bar
 #lem: n; n; tug[textile]; uszbar[weaver]
 3. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 4. ba-la-t,i3 lu2 azlag2
 #lem: u; lu[person]; azlag[fuller]
 5. ur-{d}szul-gi-ra
@@ -40311,7 +40154,7 @@ x4. i3-li2-an-dul3
 @tablet
 @obverse
 1. 2/3(disz){sza} 5(disz) gin2 ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; kugsig[gold]; sisa[fair]
 2. la-ga-ma-al 1(disz)-sze3
 #lem: PN; n
 3. ki ARAD2-{d}nanna-ta
@@ -40515,7 +40358,7 @@ $ 1 line blank
 2. ur-{gesz}gigir szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
 3. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 4. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 5. lu2 azlag2-e-ne
@@ -40822,7 +40665,7 @@ $ rest broken
 4. 1(disz) tug2 guz-za 4(disz)-kam us2
 #lem: n; tug[textile]; guz[tufted]|gum[mange]|guz[tufted]; n; us[side]
 5. tug2 szabra mu-kux(DU)
-#lem: tug[textile]; szabra[administrator]; X
+#lem: tug[textile]; szabra[administrator]; mu.DU[delivery]
 6. sa gi4-gi4-de3
 #lem: sa[bundle]; gi[turn]
 7. {d}nanna-hi-li lu2 azlag2
@@ -40991,7 +40834,7 @@ x2. a-hu-wa-qar
 5. ki ab-ba-mu na-gada-ta
 #lem: ki[place]; PN; nagada[herdsman]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. ugula u-bar-e2-a szusz3
 #lem: ugula[overseer]; PN; kusz[official]
@@ -41170,7 +41013,7 @@ $ (Fischer SaU 083)
 3. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. ki lugal-dur2-du10-ta
 #lem: ki[place]; PN
@@ -41242,7 +41085,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. igi 4(disz)-gal2 la2 2(disz) sze ku3-sig17 si-sa2
-#lem: igi[face]; X; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: igi[face]; X; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. kam-kam-ma-tum ku3-babbar 5(disz) gin2-ta 2(disz)-a
 #lem: kamkammatum[earring]; kugbabbar[silver]; n; gij[unit]; n
 3. ga2-ga2-de3
@@ -41410,7 +41253,7 @@ $ broken
 @tablet
 @obverse
 1. 1(u) 1(disz) 1/2(disz) gin2 6(disz) sze ku3-sig17 si-sa2
-#lem: n; n; n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. {gesz}gu-za umbin sal4-la mes 1(disz)-a
 #lem: guza[chair]; umbin[cutting]|umbin[nail]|umbin[wheel]; sal[winnow?]; mes[blackness]; n
 3. ga2-ga2-de3
@@ -41574,7 +41417,7 @@ $ beginning broken
 1. 4(asz) 4(barig) zu2-lum gur
 #lem: n; n; zulum[date]; gur[unit]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ga-ti-e-ta
 #lem: ki[place]; PN
 4. e2-kiszib3-ba-ka ba-an-kux(KWU636)
@@ -41627,7 +41470,7 @@ $ beginning broken
 #lem: PN; dumu[child]; PN
 @reverse
 1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 $ blank space
 2. iti a2-ki-ti
 #lem: itud[moon]; MN
@@ -42115,16 +41958,16 @@ $ rest broken
 5. mu {d}[...] lugal uri5{ki#}-[ma-ke4]
 #lem: mu[year]; u|DN|FN; lugal[king]; GN
 6. nibru{ki} uri5#[{ki}]
-#lem: GN|FN; GN
+#lem: GN; GN
 7. bad3 gal-bi mu-[du3]
-#lem: X; du[build]
+#lem: bad[wall]; gal[big]; du[build]
 
 &P138645 = UET 9, 0514
 #atf: lang sux
 @tablet
 @obverse
 1. 3(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. har 1(disz)-sze3
 #lem: har[ring]; n
 3. ki ARAD2-{d}nanna#
@@ -42751,7 +42594,7 @@ $ rest broken
 1. 1(disz) tug2 bar-dul5 mu-tuku5
 #lem: n; tug[textile]; bardul[garment]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lu-[x]-x-ni dub-sar-ta
 #lem: ki[place]; PN; dubsar[scribe]
 4. lu2-{d}szul lu2 azlag2
@@ -42841,7 +42684,7 @@ $ (Fischer SaU 120)
 #lem: u; n; n; n; ku[fish]|kud[fish]; AN|gibil[new]|FN; gur[unit]
 $ 1 line blank
 18. [...] mu-kux(DU)
-#lem: u; X
+#lem: u; mu.DU[delivery]
 19. [mu {d}]szul-gi lugal-e
 #lem: mu[year]; RN|TN|DN; lugal[king]
 20. [...] mu-hul-ta
@@ -42852,7 +42695,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. 5(disz) gin2 la2 1(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 5(disz) sze-ta 1(gesz2) 4(u) 5(disz)
 #lem: X; n; sze[barley]; n; n; n
 3. 4(disz) {na4}gug gid2-da
@@ -43056,9 +42899,9 @@ $ beginning broken
 13. [...] x-ka ba-an-kux(KWU636)
 #lem: u; PN; X
 14. [...]-ga2 tur su3
-#lem: DN; dumu[child]|WN|tur[small]|FN; sug[empty]|su[sink]|su[sprinkle]|sug[empty]
+#lem: DN; tur[small]; sug[empty]|su[sink]|su[sprinkle]|sug[empty]
 15. [...] nu-zu-hu-um tur su3
-#lem: u; X; dumu[child]|WN|tur[small]|FN; sug[empty]|su[sink]|su[sprinkle]|sug[empty]
+#lem: u; X; tur[small]; sug[empty]|su[sink]|su[sprinkle]|sug[empty]
 16. [... ma]-ad-li2-um
 #lem: u; X
 17. [...] sar-ra su3
@@ -43153,7 +42996,7 @@ $ beginning broken
 2. iti ezem-{d}me-ki-gal2 u4 2(u) 8(disz)-kam
 #lem: itud[moon]; MN; ud[day]; n; n
 3. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3 gal-bi mu-du3
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; X; du[build]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]
 
 &P116782 = MVN 13, 009
 #atf: lang sux
@@ -43180,7 +43023,7 @@ $ beginning broken
 #lem: PN
 $ 1 line blank
 3. tug2 sa gi4-a mu-[kux(DU)]
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 4. lu2 azlag2-e-[ne ...]
 #lem: lu[person]; azlag[fuller]; AN|u
 5. ur-{d}szul-[gi ...]
@@ -43221,7 +43064,7 @@ $ 1 line blank
 12. 6(disz) [...] szen [...]
 #lem: n; u; szen[cauldron]|szen[battle]|szen[cauldron]; AN|u
 13. 3(disz) [...] szen tur [...]
-#lem: n; u; szen[cauldron]|szen[battle]|szen[cauldron]; dumu[child]|WN|tur[small]|FN; AN|u
+#lem: n; u; szen[cauldron]|szen[battle]|szen[cauldron]; tur[small]; AN|u
 14. 1(u) x szen x x in [...]
 #lem: n; u; szen[cauldron]|szen[battle]|szen[cauldron]; u; u; in[abuse]|in[sector]|innu[straw]; AN|u
 15. [x] {uruda}alal-szu2-kun ni-[...]
@@ -43439,7 +43282,7 @@ $ rest broken
 1. [...] x
 #lem: u; u
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki sa6-ga dam-gar3-ta
 #lem: ki[place]; PN; damgar[merchant]
 4. za-gaba {d}[nanna]
@@ -43461,9 +43304,9 @@ $ beginning broken
 @tablet
 @obverse
 1. 2(disz) gin2 la2 1(u) 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. gal tur 1(disz)-sze3
-#lem: gal[big]; dumu[child]|WN|tur[small]|FN; n
+#lem: gal[big]; tur[small]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -43517,7 +43360,7 @@ $ rest broken
 2. [x] {gesz}dim4 {na4}nir7 [...]
 #lem: u; X; nir[stone]; AN|u
 3. 3(disz) tu-dur {na4}nir7 tur
-#lem: n; tudur[jewelry?]; nir[stone]; dumu[child]|WN|tur[small]|FN
+#lem: n; tudur[jewelry?]; nir[stone]; tur[small]
 4. ga2-ga2-de3
 #lem: jar[place]
 5. ki ARAD2-{d}nanna-ta
@@ -43552,7 +43395,7 @@ x2. a-hu-wa-qar
 2. sze-ba giri3-se3-ga e2-gu4 niga
 #lem: szeba[ration]; jirsiga[attendant]; PN; niga[fattened]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. mu i3-gesz-ka-sze3
 #lem: mu[year]; ijesz[oil]
 5. guru7-a ba-an-tak4
@@ -43657,7 +43500,7 @@ $ (Fischer SaU 165)
 @tablet
 @obverse
 1. 1(disz) gada {u2}|KI.KAL| gada mah {d}gu-la
-#lem: n; gada[flax]; X; gada[flax]; ensik[ruler]|mah[great]|FN; DN|FN
+#lem: n; gada[flax]; X; gada[flax]; mah[great]; DN|FN
 2. ki-la2-bi 6(disz) ma-na 1(u) gin2
 #lem: kila[weight]; n; mana[unit]; n; gij[unit]
 3. lu2-{d}nin-isin2?{si}
@@ -43698,7 +43541,7 @@ $ 1 line blank
 6. ki-la2-bi 1(u) gu2 4(u) ma-na
 #lem: kila[weight]; n; gun[load]; n; mana[unit]
 7. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 8. ki lu2-{d}nanna ugula usz-bar-ta
 #lem: ki[place]; PN; ugula[overseer]; uszbar[weaver]
 @reverse
@@ -43740,7 +43583,7 @@ $ 1 line blank
 9. sza-lim-be-li2
 #lem: PN
 10. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 11. iti ezem-{d}szul-gi
 #lem: itud[moon]; MN
 12. mu e2 |PU3.SZA|-isz-{d}da-gan ba-du3
@@ -43789,7 +43632,7 @@ $ rest broken
 3. dumu gi-ne2
 #lem: dumu[child]; PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. iti ezem-mah
 #lem: itud[moon]; MN
@@ -43929,7 +43772,7 @@ $ (clay sealings)
 14. 1(asz@c) 1(barig) zah3 a-bi2-sa-ad
 #lem: n; n; zah[disappear]; PN
 15. sze-ba ug3-IL2 zah3 guru7-a gi4-a
-#lem: szeba[ration]; ujjaja[porter]; zah[disappear]; guru[store]; gi[turn]
+#lem: szeba[ration]; UN.IL₂[menial]; zah[disappear]; guru[store]; gi[turn]
 16. ugula lugal-i-in-tum
 #lem: ugula[overseer]; PN
 17. iti ezem-{d}szul-gi
@@ -44020,7 +43863,7 @@ x4. a-hu-wa-qar
 4. |SZU+LAGAB| 1(gesz2) 2(u) 8(disz) x-x 1/2(disz) gin2 geme2 iti 2(disz)-sze3
 #lem: szunijin[total]; n; n; n; u; n; gij[unit]; geme[worker]; itud[moon]; n
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. la2-ia3 1/3(disz) 8(disz) 1/2(disz) gin2 geme2 iti 1(disz)-sze3
 #lem: la'u[arrears]; n; n; n; gij[unit]; geme[worker]; itud[moon]; n
 7. diri 1(gesz2) 2(u) 8(disz) sa gu
@@ -44041,11 +43884,11 @@ x4. a-hu-wa-qar
 1. 1(disz) gada {u2}|KI.KAL| [x]
 #lem: n; gada[flax]; X; u
 2. gada mah {d}gu-la
-#lem: gada[flax]; ensik[ruler]|mah[great]|FN; DN|FN
+#lem: gada[flax]; mah[great]; DN|FN
 3. gada sa gi4-a
 #lem: gada[flax]; sa[bundle]; gi[turn]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. ki lu2-{d}nin-isin2?{si} lu2 azlag2-ta
 #lem: ki[place]; PN; lu[person]; azlag[fuller]
 6. e2-kiszib3-ba ga2-nun-mah-ka ba-an-kux(TU)?
@@ -44261,7 +44104,7 @@ x1. ku3-dim2
 5. 1(disz) {gi}hal? didli
 #lem: n; hal[basket]; didli[several]
 6. nibru{ki} [x]
-#lem: GN|FN; u
+#lem: GN; u
 7. giri3 |PU3.SZA|-[...]
 #lem: jiri[via]; PN
 8. iti ezem-{d}nin-a-zu
@@ -44501,7 +44344,7 @@ $ beginning broken
 2. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. lu2-bala-sa6-ga lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 5. [...]
@@ -44541,7 +44384,7 @@ $ beginning broken
 2. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. lu2-{d}nin-gir2-su-ka
 #lem: PN
 5. sa gi4-gi4-de3
@@ -44608,9 +44451,9 @@ $ (listed in catalogue only)
 x1. [...] 2(u)? szah2
 #lem: u; n; szah[pig]
 x2. [...] tur
-#lem: u; dumu[child]|WN|tur[small]|FN
+#lem: u; tur[small]
 x3. [...]-da mu-kux(DU)
-#lem: PN; X
+#lem: PN; mu.DU[delivery]
 
 &P137361 = UET 3, 1036
 #atf: lang sux
@@ -44674,7 +44517,7 @@ x3. [...]-da mu-kux(DU)
 4. iti me-ki-gal2
 #lem: itud[moon]; MN
 5. a2 ug3-IL2 tu-ra
-#lem: a[arm]; ujjaja[porter]; tur[ill]
+#lem: a[arm]; UN.IL₂[menial]; tur[ill]
 6. ur-dun dub-sar gesz-kin-ti-ka
 #lem: PN; dubsar[scribe]; jeszkijti[workshop]
 7. ba-an-na-zi
@@ -44687,7 +44530,7 @@ x3. [...]-da mu-kux(DU)
 @tablet
 @obverse
 1. [x gin2] 2/3(disz) ku3-sig17 si-sa2
-#lem: u; gij[unit]; n; kugsig[gold]; WN|sisa[fair]
+#lem: u; gij[unit]; n; kugsig[gold]; sisa[fair]
 2. [...] 1/2(disz) gin2-ta 3(disz)
 #lem: u; n; gij[unit]; n
 3. [...]-ra 1(u) 6(disz)
@@ -44726,7 +44569,7 @@ x3. [...]-da mu-kux(DU)
 1. 3(disz) gin2 su3-he2
 #lem: n; gij[unit]; PN
 2. mu zabar {uruda}gag si-sa2 3(disz)-sze3
-#lem: mu[year]; zabar[bronze]; X; WN|sisa[fair]; n
+#lem: mu[year]; zabar[bronze]; X; sisa[fair]; n
 3. ki dingir-su-ra-bi2-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -44799,7 +44642,7 @@ x3. [...]-da mu-kux(DU)
 2. ma-ru-ug5-tum dumu lugal
 #lem: PN; dumu[child]; lugal[king]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. iti ezem-mah
 #lem: itud[moon]; MN
@@ -44913,7 +44756,7 @@ x5. 1(disz) mu {d}szul-gi [...]
 #lem: ugula[overseer]; PN
 11. iti ezem-{d}me-ki-gal2
 #lem: itud[moon]; MN
-12. mu us2-sa bad3!-gal ba-du3
+12. mu us2-sa bad3! gal ba-du3
 #lem: mu[year]; us[follow]; bad[wall]; gal[big]; du[build]
 13. nu-ba
 #lem: ba[allot]
@@ -44993,7 +44836,7 @@ x4. ku3-dim2
 2. ki-la2-bi 1(asz) gu2 9(disz) ma-na
 #lem: kila[weight]; n; gun[load]; n; mana[unit]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. en-sza3-ga-na
 #lem: PN
 @reverse
@@ -45022,7 +44865,7 @@ x4. ku3-dim2
 @tablet
 @obverse
 1. 1(u) 6(disz) gin2 2/3(disz) 1(u) 8(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; n; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; n; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. har 5(disz) gin2-ta 2(disz)
 #lem: har[ring]; n; gij[unit]; n
 3. u3 a-gug2-PI! sa2-sa2-a igi 3(disz)-gal2-ta 2(u)-sze3
@@ -45742,7 +45585,7 @@ $ blank space
 @obverse
 $ (listed in catalogue only)
 x1. [...] mu-kux(DU) didli [...]
-#lem: u; X; didli[several]; AN|u
+#lem: u; mu.DU[delivery]; didli[several]; AN|u
 x2. [...]-ga2 ka-ba [...]
 #lem: DN; kag[mouth]; AN|u
 x3. {d}nanna [...]-du
@@ -45828,7 +45671,7 @@ x3. {d}nanna [...]-du
 17. ki lu2-dingir-ra dam-gar3 en-na-[ta]
 #lem: ki[place]; PN; damgar[merchant]; CN|na[cvne]
 18. 3(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 19. [x] ma-na la2 2(disz) gin2 ku3-babbar
 #lem: u; mana[unit]; lal[less]; n; gij[unit]; kugbabbar[silver]
 20. [...]-ta
@@ -45872,7 +45715,7 @@ $ (obverse not given)
 @tablet
 @obverse
 1. 1(u) dug tur
-#lem: n; dug[pot]; dumu[child]|WN|tur[small]|FN
+#lem: n; dug[pot]; tur[small]
 2. 5(disz) dug ninda# 1(ban2) 5(disz) sila3
 #lem: n; dug[pot]; ninda[bread]; n; n; sila[unit]
 3. 2(disz) dug sila3 am?-da#?
@@ -46119,7 +45962,7 @@ x3. ba-zi
 2. lugal-ma2-gan{ki}
 #lem: PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki szu-ku8-bu-um-ma-ta
 #lem: ki[place]; PN
 5. inim-gi-na
@@ -46294,7 +46137,7 @@ x3. ba-zi
 4. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 5. e2-e-ki-ag2 mu-kux(DU)
-#lem: X; X
+#lem: X; mu.DU[delivery]
 6. iti ezem-an-na
 #lem: itud[moon]; MN
 7. mu e2 |PU3.SZA|-isz-{d}da-gan ba-du3
@@ -46436,7 +46279,7 @@ $ (Fischer SaU 167)
 @tablet
 @obverse
 1. igi 6(disz)-gal2 5(disz) sze ku3-sig17 si-sa2
-#lem: igi[face]; X; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: igi[face]; X; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. uruda {d}na-na-a ku3-babbar sza3-ba
 #lem: urud[copper]; DN; kugbabbar[silver]; szag[heart]
 3. igi ka u3 a2-ba
@@ -46484,7 +46327,7 @@ $ (Fischer SaU 167)
 5. 7(disz) 5/6(disz) ma-na uruda a-ra2 4(disz)-kam
 #lem: n; n; mana[unit]; urud[copper]; ara[times]; n
 6. i3-la2 mu-kux(DU)
-#lem: la[hang]|la[stretch]|lal[less]|lal[less]; X
+#lem: la[hang]|la[stretch]|lal[less]|lal[less]; mu.DU[delivery]
 7. ur-{d}nin-gubalag
 #lem: PN
 
@@ -46569,7 +46412,7 @@ $ (Fischer SaU 167)
 @tablet
 @obverse
 1. 3(disz) gin2 1(u) 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. al-la-num2 ku3 hu-a x x gin2 1(disz)
 #lem: allanum[oak]; kug[metal]; hu[bird]; u; u; gij[unit]; n
 3. sze-er-hu-num2 5(disz) sze-ta 4(u)
@@ -46702,7 +46545,7 @@ $ (Fischer SaU 081)
 #lem: szag[heart]; e[house]; GN
 # E2 SZA3
 3. nibru{ki}
-#lem: GN|FN
+#lem: GN
 4. giri3 ad-da-mu
 #lem: jiri[via]; PN
 5. iti sze-sag11-ku5
@@ -46805,7 +46648,7 @@ $ (Fischer SaU 081)
 4. a-tu
 #lem: PN
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 
 &P136892 = UET 3, 0570
 #atf: lang sux
@@ -46814,7 +46657,7 @@ $ (Fischer SaU 081)
 1. 3(disz) gin2 la2 3(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. tu-dur har-har-ra igi 4(disz)-gal2-ta 8(disz)
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; igi[face]; X; n
+#lem: tudur[jewelry?]; har[ring]; igi[face]; X; n
 3. u3 na-bi2-hu-um 1/2(disz) gin2-ta 2(disz)-sze3
 #lem: u[and]; nabihum[ornament]; n; gij[unit]; n
 4. ki ARAD2-{d}nanna-ta
@@ -46843,7 +46686,7 @@ $ (Fischer SaU 081)
 3. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 4. 4(disz) ma2-gur8 tur
-#lem: n; magur[barge]|FN; dumu[child]|WN|tur[small]|FN
+#lem: n; magur[barge]|FN; tur[small]
 5. ba-an-gar
 #lem: jar[place]
 6. ki {d}nanna-kam-ta
@@ -46954,7 +46797,7 @@ $ beginning broken
 @obverse
 $ (listed in catalogue only)
 x1. ku3-sig17 si-sa2
-#lem: kugsig[gold]; WN|sisa[fair]
+#lem: kugsig[gold]; sisa[fair]
 x2. ki-la2-bi
 #lem: kila[weight]
 x3. bi2-gu7-bi
@@ -47129,7 +46972,7 @@ $ beginning broken
 6'. ab2 1(disz) 4(disz) 2/3(disz) sila3 8(disz) gin2-ta
 #lem: ab[cow]; n; n; n; sila[unit]; n; gij[unit]
 7'. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 8'. la2-ia3 5(ban2) 7(disz) [sila3 ...]
 #lem: la'u[arrears]; n; n; sila[unit]; AN|u
 9'. la2-ia3 1(barig) 4(ban2) 6(disz) sila3# [...]
@@ -47163,7 +47006,7 @@ $ n lines broken
 7'. [...] 1(disz) 1/2(disz) sila3 2(disz) gin2 [...]
 #lem: u; n; n; sila[unit]; n; gij[unit]; AN|u
 8'. [mu]-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 9'. [...] 6(disz) sila3 1(u) gin2 i3-nun
 #lem: u; n; sila[unit]; n; gij[unit]; inun[ghee]
 $ rest broken
@@ -47418,7 +47261,7 @@ x2. lu2 sa-hi-ra
 2. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki u2-a lu2 azlag2
 #lem: ki[place]; ua[provisioner]|FN; lu[person]; azlag[fuller]
 5. ur-{d}szul-gi-ra
@@ -47553,7 +47396,7 @@ $ beginning broken
 5. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. ki lu2 azlag2-e-ne-ta
 #lem: ki[place]; lu[person]; azlag[fuller]
 @reverse
@@ -47593,7 +47436,7 @@ $ beginning broken
 2. tug2 mu-tuku5
 #lem: tug[textile]; tuku[beat]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. sa! gi4-gi4-de3
 #lem: sa[bundle]; gi[turn]
 5. ki ur-{d}szusz3-{d}ba-ba6 sza13-dub-ba-ta
@@ -47749,7 +47592,7 @@ $ rest broken
 1. [...] gesz sze ku3-sig17 husz-a
 #lem: u; jesz[tree]; sze[barley]; kugsig[gold]; husz[reddish]
 2. 1/3(disz){sza} ku3-sig17 si-sa2
-#lem: n; kugsig[gold]; WN|sisa[fair]
+#lem: n; kugsig[gold]; sisa[fair]
 3. 1(u) 4(disz) {na4}nir7 igi
 #lem: n; n; nir[stone]; igi[face]
 4. ga2-ga2-de3
@@ -47855,7 +47698,7 @@ $ (clay sealing)
 #lem: szunijin[total]; n; n; n; tug[textile]; uszbar[weaver]
 @reverse
 1. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 2. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 3. tug2-ba lu2 kas4-e-ne-sze3
@@ -48003,7 +47846,7 @@ $ broken
 @tablet
 @obverse
 1. 9(disz) u4-sakar ku3-sig17 si-sa2
-#lem: n; usakar[moon]; kugsig[gold]; WN|sisa[fair]
+#lem: n; usakar[moon]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi igi 3(disz)-gal2 1(u) 2(disz) sze
 #lem: kila[weight]; igi[face]; X; n; n; sze[barley]
 3. ba-zi-ir
@@ -48059,9 +47902,9 @@ $ (Fischer SaU 131)
 @tablet
 @obverse
 1. 2(disz) gin2 la2 6(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. [tu-dur] har-har-ra 8(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n
+#lem: tudur[jewelry?]; har[ring]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -48087,7 +47930,7 @@ $ (Fischer SaU 131)
 1. 1(disz) 5/6(disz) gin2 la2 3(disz) sze ku3-sig17 husz-a
 #lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. tu-dur har-har-ra igi 4(disz)-gal2-ta 7(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; igi[face]; X; n
+#lem: tudur[jewelry?]; har[ring]; igi[face]; X; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -48239,7 +48082,7 @@ x2. a-tu szu ba-ti
 2. gada! sa gi4-a
 #lem: gada[flax]; sa[bundle]; gi[turn]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. e2-kiszib3-ba ga2-nun-mah-ka ba-an-kux(KWU636)
 #lem: ekiszibak[storeroom]; X; X
 5. giri3 ur-dingir-ra
@@ -48256,7 +48099,7 @@ x2. a-tu szu ba-ti
 @tablet
 @obverse
 1. 1(disz) {gesz}pisan ha-lu-ub2 ka-tab nu-tuku tur
-#lem: n; X; halub[tree]; katab[helper?]; tuku[acquire]; dumu[child]|WN|tur[small]|FN
+#lem: n; X; halub[tree]; katab[helper?]; tuku[acquire]; tur[small]
 2. ka-tab du12-du12
 #lem: katab[helper?]; du[play]
 3. a2-an u3 ku3 hu-[za-bi] ku3-babbar la2-e-de3
@@ -48345,7 +48188,7 @@ $ (Fischer SaU 163)
 2. na-bi2-hu-um igi 4(disz)-gal2-ta 4(disz)-sze3
 #lem: nabihum[ornament]; igi[face]; X; n
 3. 1(disz) gin2 la2 3(disz) sze ku3#-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 4. na-bi2-hu-um igi 6(disz)-gal2-ta 6(disz)-sze3
 #lem: nabihum[ornament]; igi[face]; X; n
 5. ki ARAD2-{d}nanna-ta
@@ -48613,7 +48456,7 @@ $ (clay fragment)
 2. ki-la2-bi 4(disz) 2/3(disz) ma-na 5(disz) gin2
 #lem: kila[weight]; n; n; mana[unit]; n; gij[unit]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ur-{d}nin-gal simug
 #lem: PN; simug[smith]
 @reverse
@@ -48704,9 +48547,9 @@ $ (Fischer SaU 055)
 @tablet
 @obverse
 1. 1(disz) tug2 bar-dul5 tur 3(disz)-kam us2
-#lem: n; tug[textile]; bardul[garment]; dumu[child]|WN|tur[small]|FN; n; us[side]
+#lem: n; tug[textile]; bardul[garment]; tur[small]; n; us[side]
 2. 1(disz) tug2 nig2-lam2 tur 3(disz)-kam us2
-#lem: n; tug[textile]; X; dumu[child]|WN|tur[small]|FN; n; us[side]
+#lem: n; tug[textile]; X; tur[small]; n; us[side]
 3. ur-{d}iszkur szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
 4. ki ku-li-ta
@@ -48826,7 +48669,7 @@ $ (Fischer SaU 087)
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. ri-szi-in
 #lem: PN
@@ -48868,9 +48711,9 @@ $ (Fischer SaU 087)
 @tablet
 @obverse
 1. 2(disz) 1/2(disz) gin2 1(u) 3(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. tu-dur har-har-ra igi 4(disz)-gal2-ta 1(u) 6(disz)
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; igi[face]; X; n; n
+#lem: tudur[jewelry?]; har[ring]; igi[face]; X; n; n
 3. za-ah lum-du8 2(disz)
 #lem: za[close?]|za[cvve]; X; n
 4. u3 lum-du8 2(disz)-sze3
@@ -49131,7 +48974,7 @@ $ broken
 1. 1(disz) gin2 2(u) sze {na4}gug!
 #lem: n; gij[unit]; n; sze[barley]; gug[carnelian]
 2. gir2 szu-i tur 2(disz)-sze3
-#lem: jiri[dagger]; szu'i[barber]; dumu[child]|WN|tur[small]|FN; n
+#lem: jiri[dagger]; szu'i[barber]; tur[small]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -49255,7 +49098,7 @@ $ beginning broken
 #lem: en[priest]; GN
 @reverse
 1. [mu]-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 2. x-x
 #lem: u
 3. masz2# [x] ti#
@@ -49420,7 +49263,7 @@ $ (Fischer SaU 049)
 3. lu2-me-lam2
 #lem: PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. iti u5-bi2{muszen}-gu7
 #lem: itud[moon]; MN
 6. mu en {d}nanna masz2-e i3-pa3
@@ -49814,7 +49657,7 @@ $ 1 line blank
 5. ki lugal-uszur4 dumu u-bar-tum-ta
 #lem: ki[place]; PN; dumu[child]; PN
 6. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 7. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 8. lu2 azlag2-e-ne szu ba-an-ti-esz2
@@ -50051,7 +49894,7 @@ $ broken
 3. giri3 ha-[...]
 #lem: jiri[via]; u|FN
 4. mu-kux(DU)#?
-#lem: X
+#lem: mu.DU[delivery]
 5. x [...]
 #lem: u; AN|u
 @reverse
@@ -50083,7 +49926,7 @@ $ blank space
 5. ma2 sze x gid2-da
 #lem: ma[ship]; sze[barley]; u; gid[tow]|FN|gid[long]
 6. nibru[{ki} ...] sze x [...]
-#lem: GN|FN; u; sze[barley]; u; AN|u
+#lem: GN; u; sze[barley]; u; AN|u
 @reverse
 1. KA x [...]
 #lem: u; u; AN|u
@@ -50109,7 +49952,7 @@ $ blank space
 1. 3(u) 1(disz) dug kur-ku-du3 lahtan2#?
 #lem: n; n; dug[pot]; kurkudu[container]; X|FN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki ga-ti-e-ta
 #lem: ki[place]; PN
 5. e2-kiszib3-ba {d}nanna-a gar-ra ba-an-kux(KWU636)
@@ -50130,7 +49973,7 @@ $ blank space
 2. ki-la2-bi 2(u) 4(disz) 2/3(disz) ma-na
 #lem: kila[weight]; n; n; n; mana[unit]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ur-{d}da-mu
 #lem: PN
 5. lugal uri5{ki}-e
@@ -50304,7 +50147,7 @@ x6. giri3 ur-{d}nin-[...]
 8. ugula ARAD2-mu szusz3
 #lem: ugula[overseer]; PN; kusz[official]
 9. ix(|A.SUG|) mah
-#lem: X; ensik[ruler]|mah[great]|FN
+#lem: X; mah[great]
 10. iti ezem-{d}nin-a-zu
 #lem: itud[moon]; MN
 11. mu bad3 gal ba-du3
@@ -50468,7 +50311,7 @@ $ (listed in catalogue only)
 2. ur-dingir-ra
 #lem: PN
 3. mu#-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. [x]-ba-sze3
 #lem: DN
@@ -50525,7 +50368,7 @@ $ blank space
 1. 1(disz) tug2 gu2-e3
 #lem: n; tug[textile]; gu'e[textile]
 2. ba-tab duh-hu-um tur szar3
-#lem: tab[begin]|tab[burn]|tab[double]|tab[flatten]|tab[grasp]; duh[loosen]; dumu[child]|WN|tur[small]|FN; szar[~cloth]
+#lem: tab[begin]|tab[burn]|tab[double]|tab[flatten]|tab[grasp]; duh[loosen]; tur[small]; szar[~cloth]
 3. ki-la2-bi 1/2(disz) ma-na 5(disz) gin2
 #lem: kila[weight]; n; mana[unit]; n; gij[unit]
 4. 1(disz) tug2 bar siki gu2-e3 nin [x]
@@ -50535,7 +50378,7 @@ $ blank space
 6. ba-NE-a szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
 7. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 8. tu-ra-am-i3-li2 x lu2 [...]
 #lem: PN; u; lu[person]; AN|u
 @reverse
@@ -50645,7 +50488,7 @@ $ seal impression
 4. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. ur-gu2-en-na
 #lem: PN
 7. [...]-x-ki
@@ -50722,7 +50565,7 @@ $ 1 line blank
 1. 2(disz) ma-na 5(disz) gin2
 #lem: n; mana[unit]; n; gij[unit]
 2. nig2-sa10-ma diri-sze3 mu-kux(DU)
-#lem: nijsam[price]; dirig[exceed]|dirig[fall]|dirig[float]|dirig[tear]|dirig[exceed]; X
+#lem: nijsam[price]; dirig[exceed]|dirig[fall]|dirig[float]|dirig[tear]|dirig[exceed]; mu.DU[delivery]
 3. mu us2-sa bad3 gal ba-du3
 #lem: mu[year]; us[follow]; bad[wall]; gal[big]; du[build]
 $ blank space
@@ -50774,7 +50617,7 @@ $ rest broken
 @tablet
 @obverse
 1. 1(disz) 1/2(disz) gin2 4(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. uruda {d}na-na-a 1(disz)-a
 #lem: urud[copper]; DN; n
 3. szub-bu-de3
@@ -50832,10 +50675,10 @@ $ broken
 3. giri3 suhusz-ki-in
 #lem: jiri[via]; PN
 4. [...] nar# mah
-#lem: u; nar[musician]; ensik[ruler]|mah[great]|FN
+#lem: u; nar[musician]; mah[great]
 @reverse
 1. [...] mah
-#lem: u; ensik[ruler]|mah[great]|FN
+#lem: u; mah[great]
 2. [...]
 #lem: AN|u
 3. mu [...] x{ki#} ba-hun
@@ -50900,9 +50743,9 @@ x3. ku3-dim2
 @tablet
 @obverse
 1. [x] gin2 ku3-sig17 si-sa2
-#lem: u; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: u; gij[unit]; kugsig[gold]; sisa[fair]
 2. tu-dur har-har-ra 8(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n
+#lem: tudur[jewelry?]; har[ring]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -51248,9 +51091,9 @@ x3. a-hu-wa-qar
 1. sza3 gesz za3-bar ha-lu-ub2-ta
 #lem: szag[heart]; jesz[tree]; zagbar[scraps]; halub[tree]
 2. 1(disz) {gesz}banszur tur
-#lem: n; banszur[table]; dumu[child]|WN|tur[small]|FN
+#lem: n; banszur[table]; tur[small]
 3. 1(disz) {gesz}ka-tab pisan tur
-#lem: n; X; bisaj[basket]; dumu[child]|WN|tur[small]|FN
+#lem: n; X; bisaj[basket]; tur[small]
 4. ba-an-gar
 #lem: jar[place]
 5. ki {d}nanna-kam-ta
@@ -51590,7 +51433,7 @@ $ blank space
 3. 4(disz) gin2 igi 3(disz)-gal2 nagga
 #lem: n; gij[unit]; igi[face]; X; anna[metal]
 4. mu {uruda}gag si-sa2 zabar-sze3
-#lem: mu[year]; X; WN|sisa[fair]; zabar[bronze]|FN
+#lem: mu[year]; X; sisa[fair]; zabar[bronze]|FN
 5. ki dingir-su-ra-bi2-ta
 #lem: ki[place]; PN
 6. a-hu-wa-qar
@@ -51875,7 +51718,7 @@ $ blank space
 1. 1(gesz2) 3(u) 6(disz) tug2 ge6
 #lem: n; n; n; tug[textile]; ji[night]
 2. tug2 sa# gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 3. ba-la-t,i3 lu2 azlag2
 #lem: u; lu[person]; azlag[fuller]
 4. ur-{d}szul-gi-ra
@@ -52034,7 +51877,7 @@ $ (no data)
 1. 3(disz) gin2 ku3-sig17 husz-a
 #lem: n; gij[unit]; kugsig[gold]; husz[reddish]
 2. 7(disz) gin2 la2 2(u) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 3. ba-a-gar ba-HI
 #lem: jar[place]; X
 4. ku3-sig17 HI-da ba-an-kux(KWU636)
@@ -52076,7 +51919,7 @@ $ (no data)
 2. har 1(disz)-sze3
 #lem: har[ring]; n
 3. 1/2(disz) ma-na ku3-sig17 si-sa2
-#lem: n; mana[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; mana[unit]; kugsig[gold]; sisa[fair]
 4. har 5(disz) gin2-ta [...] 3(disz)-sze3
 #lem: har[ring]; n; gij[unit]; u; n
 5. ki ARAD2-{d}nanna-ta
@@ -52110,7 +51953,7 @@ $ (no data)
 3. i3!(GAG)-du8 e2 {gesz}gigir-ra-ka
 #lem: idu[doorkeeper]; e[house]; gigir[chariot]
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. mu i3-gesz-ka-sze3
 #lem: mu[year]; ijesz[oil]
 7. iti sze-sag11-ku5
@@ -52468,7 +52311,7 @@ $ rest broken
 14. |SZU+LAGAB| 3(asz) zu2-lum gur
 #lem: szunijin[total]; n; zulum[date]; gur[unit]
 15. mu-kux(DU) nu-{gesz}kiri6-ke4-ne
-#lem: X; PN
+#lem: mu.DU[delivery]; PN
 16. mu {d}szul-gi-iri-mu-sze3
 #lem: mu[year]; PN
 17. [(x)] szu ba-an-ti
@@ -52477,7 +52320,7 @@ $ rest broken
 #lem: jiri[via]; PN; PN|sukkal[secretary]
 19. zi-ga iti szu-esz5-sza
 #lem: ziga[expenditure]; itud[moon]; MN
-20. mu us2-sa bad3!-gal ba-du3
+20. mu us2-sa bad3! gal ba-du3
 #lem: mu[year]; us[follow]; bad[wall]; gal[big]; du[build]
 21. le-um-ma nu-ub?-gar
 #lem: le'um[board]; jar[place]
@@ -52832,7 +52675,7 @@ x5. [...] in-gur
 @tablet
 @obverse
 1. 1(u) 2(disz) na-bi2-hu-um ku3-sig17 si-sa2
-#lem: n; n; nabihum[ornament]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; nabihum[ornament]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi 5/6(disz) ma-na
 #lem: kila[weight]; n; mana[unit]
 3. bi2-gu7-bi 6(disz) sze
@@ -52851,7 +52694,7 @@ x5. [...] in-gur
 2. iti a2-ki-ti u4 1(u) 8(disz)-kam
 #lem: itud[moon]; MN; ud[day]; n; n
 3. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3 gal-bi mu-du3-a mu us2-sa-bi
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 
 &P137973 = UET 3, 1647
 #atf: lang sux
@@ -52935,7 +52778,7 @@ x5. [...] in-gur
 9. 3(disz) ma-na 6(disz) 5/6(disz) 1(u) 5(disz) sze ku3-babbar
 #lem: n; mana[unit]; n; n; n; n; sze[barley]; kugbabbar[silver]
 10. la2-ia3 su-ga mu-kux(DU)
-#lem: la'u[arrears]; sug[replace]; X
+#lem: la'u[arrears]; sug[replace]; mu.DU[delivery]
 
 &P136846 = UET 3, 0524
 #atf: lang sux
@@ -52944,7 +52787,7 @@ x5. [...] in-gur
 1. 1/2(disz) gin2 la2 5(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. tu-dur har-har-ra 2(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n
+#lem: tudur[jewelry?]; har[ring]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -52973,7 +52816,7 @@ x5. [...] in-gur
 4. 1(disz) sila4 nu-ur2-{d}suen
 #lem: n; sila[lamb]; PN
 5. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 6. da-a-a
 #lem: PN
 @reverse
@@ -53012,7 +52855,7 @@ x5. [...] in-gur
 1. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki a-hu-a ugula usz-bar-ta
 #lem: ki[place]; PN; ugula[overseer]; uszbar[weaver]
 4. lu2-{d}nin-szubur dumu lugal-za3-ge-si
@@ -53087,7 +52930,7 @@ x5. [...] in-gur
 @tablet
 @obverse
 1. [x] gin2 la2 1(u) sze ku3-sig17 si-sa2
-#lem: u; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: u; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. [...] szu-nir zadim u3
 #lem: u; szunir[emblem]; zadim[stone-cutter]; u[and]
 3. ku3#-dim2-me-da-sze3
@@ -53173,7 +53016,7 @@ $ blank space
 1. 3(disz) gin2 la2 8(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. 3(disz) {na4}nir3 a2 dara4 1(disz) u4-a tur
-#lem: n; X; a[arm]; durah[goat]; n; ud[day]; dumu[child]|WN|tur[small]|FN
+#lem: n; X; a[arm]; durah[goat]; n; ud[day]; tur[small]
 3. ga2-ga2-de3
 #lem: jar[place]
 4. hi-in-dum u3 za-ah-bi-sze3
@@ -53221,7 +53064,7 @@ $ beginning broken
 2. 5(disz) sila3 i3-ta
 #lem: n; sila[unit]; i[oil]
 3. ug3-IL2 e2-gal lugal-ka gub-ba-me
-#lem: ujjaja[porter]; egal[palace]; PN; gub[stand]
+#lem: UN.IL₂[menial]; egal[palace]; PN; gub[stand]
 4. lu2-im-ru-a i3-dab5
 #lem: PN; dab[seize]
 @reverse
@@ -53439,7 +53282,7 @@ x4. a-hu-wa-qar
 2. nig2-{d}nin-gal
 #lem: PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. iti me-ki-gal2
 #lem: itud[moon]; MN
 @reverse
@@ -53453,7 +53296,7 @@ x4. a-hu-wa-qar
 1. 2/3(disz) la2 4(disz) sze ku3-sig17 husz-a
 #lem: n; lal[less]; n; sze[barley]; kugsig[gold]; husz[reddish]
 2. alan lugal tur 1(disz)-sze3
-#lem: alan[statue]; lugal[king]; dumu[child]|WN|tur[small]|FN; n
+#lem: alan[statue]; lugal[king]; tur[small]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -53683,7 +53526,7 @@ $ rest broken
 1'. [...] lugal [...]
 #lem: u; lugal[king]; AN|u
 2'. e2 simug tur# [x]
-#lem: e[house]; simug[smith]; dumu[child]|WN|tur[small]|FN; u
+#lem: e[house]; simug[smith]; tur[small]; u
 3'. 1(disz)# ha-ba-[...]
 #lem: n; u
 4'. 1(disz) lugal-he2-gal2
@@ -53764,7 +53607,7 @@ $ rest broken
 @obverse
 $ (listed in catalogue only)
 x1. 1(disz) har ku3-sig17 si-sa2
-#lem: n; har[ring]; kugsig[gold]; WN|sisa[fair]
+#lem: n; har[ring]; kugsig[gold]; sisa[fair]
 x2. ki-la2-bi 5(disz) gin2 la2 7(disz) sze
 #lem: kila[weight]; n; gij[unit]; lal[less]; n; sze[barley]
 x3. bi2-gu7-bi 6(disz) 1/2(disz) sze
@@ -53973,7 +53816,7 @@ x4. ki lu2-{d}en-ki-ta
 3. nig2-sa6#-ka#
 #lem: PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 
 &P136520 = UET 3, 0203
 #atf: lang sux
@@ -54170,7 +54013,7 @@ x4. ki lu2-{d}en-ki-ta
 1. [x] x la2 8(disz) sze ku3-sig17
 #lem: u; u; lal[less]; n; sze[barley]; kugsig[gold]
 2. [...] si-sa2
-#lem: u; WN|sisa[fair]
+#lem: u; sisa[fair]
 3. [...]-sze3
 #lem: u|DN
 4. [ki ARAD2]-{d}nanna-ta
@@ -54326,7 +54169,7 @@ $ n lines broken
 4. iti a2-ki-ti u4 2(u) 5(disz)-kam
 #lem: itud[moon]; MN; ud[day]; n; n
 5. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3! gal-bi mu-du3-a mu us2-sa-bi
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 
 &P139402 = UET 9, 1272
 #atf: lang sux
@@ -54456,7 +54299,7 @@ x6. [...]
 2. [...] 4(disz) {gesz}nu-kusz2
 #lem: u; n; X
 3. [x] {gesz}sag-gul szu si-sa2 se3-ga e2-ba-an
-#lem: u; sajkul[bolt]; szu[hand]; WN|sisa[fair]; AN|sig[place]; eban[pair]
+#lem: u; sajkul[bolt]; szu[hand]; sisa[fair]; AN|sig[place]; eban[pair]
 4. [...] kin esir2-ra
 #lem: u; kij[work]; esir[bitumen]
 5. [...] HI
@@ -54593,7 +54436,7 @@ $ beginning broken
 2. ensi2
 #lem: ensik[ruler]|ensi[interpreter]|sukkal[secretary]|FN
 3. nibru{ki}
-#lem: GN|FN
+#lem: GN
 4. dumu ur-{d}nisaba2
 #lem: dumu[child]; PN
 5. ensi2
@@ -54932,7 +54775,7 @@ x2. ki [...]-ta
 1. 1(u) dug kur-ku-du3
 #lem: n; dug[pot]; kurkudu[container]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ga-ti-ta
 #lem: ki[place]; gatil[vow]
 4. e2-kiszib3-ba {d}nanna-ka <ba>-an-kux(KWU636)
@@ -55163,7 +55006,7 @@ $ (Fischer SaU 125)
 1. [...] sze gur
 #lem: u; sze[barley]; gur[unit]
 2. [...] e2-u4-gu2 [...] nibru{ki}
-#lem: u; X; u; GN|FN
+#lem: u; X; u; GN
 3. [...]-x-a-gar
 #lem: u
 4. [...] sze gur
@@ -55793,7 +55636,7 @@ $ beginning broken
 3. ur-{gesz}gigir szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
 4. tug2 ki-la2 tag-ga mu-kux(DU)
-#lem: tug[textile]; kila[weight]; tag[touch]; X
+#lem: tug[textile]; kila[weight]; tag[touch]; mu.DU[delivery]
 5. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 6. lu2 azlag2-e-ne
@@ -55933,7 +55776,7 @@ $ rest broken
 #lem: szunijin[total]; n; n; tug[textile]; saj[head]; uszbar[weaver]
 @reverse
 1. tug2 mu-tuku5 mu-kux(DU)
-#lem: tug[textile]; tuku[beat]; X
+#lem: tug[textile]; tuku[beat]; mu.DU[delivery]
 2. ur-{gesz}gigir szu ba-an-ti
 #lem: PN; szu[hand]; tej[approach]
 3. sza3 ga-esz5{ki}
@@ -56124,7 +55967,7 @@ $ blank space
 @tablet
 @obverse
 1. 1(disz) u4-sakar ku3-sig17 si-sa2
-#lem: n; usakar[moon]; kugsig[gold]; WN|sisa[fair]
+#lem: n; usakar[moon]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi igi 4(disz)-gal2
 #lem: kila[weight]; igi[face]; X
 3. a-ru-a nin-e2-gal-sze3
@@ -56222,7 +56065,7 @@ $ 1 line blank
 1. 5(disz) udu
 #lem: n; udu[sheep]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ur-sa6-ga dam-gar3-ta
 #lem: ki[place]; PN; damgar[merchant]
 4. giri3 ga-ti-e
@@ -56363,7 +56206,7 @@ $ beginning broken
 1. [...] 4(gesz2) 4(u) i3 sag na4
 #lem: u; n; n; i[oil]; saj[head]; na[stone]
 2. sza3#? mu-kux(DU) i3-du8
-#lem: szag[heart]; X; idu[doorkeeper]
+#lem: szag[heart]; mu.DU[delivery]; idu[doorkeeper]
 3. lu2-gir2-nun
 #lem: PN
 @reverse
@@ -56433,7 +56276,7 @@ $ 1 line blank
 2. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ugula usz-bar-ra-ke4-ne
 #lem: ugula[overseer]; ušbar[weaver]
 5. lu2 azlag2-e-ne szu ba-an-ti-esz2
@@ -56535,7 +56378,7 @@ $ rest broken
 6. szu ba-an-ti
 #lem: szu[hand]; tej[approach]
 7. sza3 nibru{ki} [...]
-#lem: szag[heart]; GN|FN; AN|u
+#lem: szag[heart]; GN; AN|u
 8. x KU |PU3.SZA| [...]
 #lem: u; u; PN; AN|u
 @left
@@ -56576,7 +56419,7 @@ $ rest broken
 2. ki tu-ra-a ugula usz-bar ga-esz5{ki}-ta
 #lem: ki[place]; PN; ugula[overseer]; uszbar[weaver]; GN
 3. tug2 szabra mu-kux(DU)
-#lem: tug[textile]; szabra[administrator]; X
+#lem: tug[textile]; szabra[administrator]; mu.DU[delivery]
 4. sa gi4-gi4-de3
 #lem: sa[bundle]; gi[turn]
 @reverse
@@ -56907,7 +56750,7 @@ x5. lu2-{d}dumu-zi-da
 2. szu ba-an-ti
 #lem: szu[hand]; tej[approach]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. giri3 ur-dingir-ra
 #lem: jiri[via]; PN
 5. iti ezem-mah
@@ -57039,7 +56882,7 @@ $ blank space
 1. [...]
 #lem: AN|u
 2. sza3 nibru{ki} [x]
-#lem: szag[heart]; GN|FN; u
+#lem: szag[heart]; GN; u
 3. a-ru-a didli-ta
 #lem: arua[offering]; didli[several]
 4. mu si-mu-ru-um{ki} ba-hul
@@ -57135,7 +56978,7 @@ $ (listed in catalogue only)
 @tablet
 @obverse
 1. 5(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. har 1(disz)-sze3
 #lem: har[ring]; n
 3. ki ARAD2-{d}nanna-ta
@@ -57188,7 +57031,7 @@ $ (listed in catalogue only)
 4. 3(u) tug2 usz-bar
 #lem: n; tug[textile]; uszbar[weaver]
 5. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 6. ki inim-{d}szara2 x-[x]
 #lem: ki[place]; PN; u
 @reverse
@@ -57367,7 +57210,7 @@ $ rest broken
 7. |SZU+NIGIN| 1(gesz2) 2(u) zu2-lum u3-hu-in gur
 #lem: szunijin[total]; n; n; zulum[date]; uhin[date]; gur[unit]
 8. mu-kux(DU) nu-{gesz}kiri6-e-ne
-#lem: X; nukirik[horticulturalist]
+#lem: mu.DU[delivery]; nukirik[horticulturalist]
 9. ha-la ba geme2 usz-bar-ra-sze3
 #lem: AN|PN; ba[allot]; geme[worker]; uszbar[weaver]
 10. ur-ku3-nun-na szu ba-an-ti
@@ -57754,7 +57597,7 @@ x2. ka-sa6-sa6
 1. 1(disz) sila4 elam
 #lem: n; sila[lamb]; GN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki e-la-ak-nu-id-ta
 #lem: ki[place]; PN
 4. a-a-mu
@@ -57775,7 +57618,7 @@ x2. ka-sa6-sa6
 @tablet
 @obverse
 1. [...] 3(disz) ma#? u4 4(gesz2) 1(u) [...]
-#lem: u; n; mada[land]; ud[day]; n; n; AN|u
+#lem: u; n; X; ud[day]; n; n; AN|u
 2. [...] DISZ
 #lem: u; PN
 3. [x] 1(u) x x NE
@@ -57848,7 +57691,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. 1(disz) gada {u2}|KI.KAL| gada mah {d}nin-lil2-la2
-#lem: n; gada[flax]; X; gada[flax]; ensik[ruler]|mah[great]|FN; DN
+#lem: n; gada[flax]; X; gada[flax]; mah[great]; DN
 2. gada sa gi4-gi4-re6
 #lem: gada[flax]; sa[bundle]; X
 3. lu2-{d}nin-isin2?{si} lu2 azlag2
@@ -58019,7 +57862,7 @@ $ single ruling
 1. [x] gin2 ku3-babbar
 #lem: u; gij[unit]; kugbabbar[silver]
 2. [x] ma ki szu-ki-tum-ta
-#lem: u; mada[land]; ki[place]; X
+#lem: u; X; ki[place]; X
 3. 1(disz) sila3 i3 ur-{d}lu2-lal3
 #lem: n; sila[unit]; i[oil]; PN
 4. ga-na-da-du-e
@@ -58166,7 +58009,7 @@ $ broken
 9. ad-da-mu
 #lem: PN
 10. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 11. kiszib3-bi nu-ub-ta-tur
 #lem: kiszib[seal]; tur[small]
 @reverse
@@ -58327,7 +58170,7 @@ x1. 4(ban2) 5(disz) sila3 [...]
 5. |SZU+LAGAB| 5(disz) tug2 guz-za 4(disz)-kam us2
 #lem: szunijin[total]; n; tug[textile]; guz[tufted]|gum[mange]|guz[tufted]; n; us[side]
 6. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 @reverse
 1. [...]-NE
 #lem: u
@@ -58357,7 +58200,7 @@ x1. szesz-szesz-mu
 x2. 2(u) ma2-a si
 #lem: n; ma[ship]; si[horn]
 x3. sza3 nibru[{ki}]
-#lem: szag[heart]; GN|FN
+#lem: szag[heart]; GN
 x4. giri3 szesz-szesz-mu [...]
 #lem: jiri[via]; PN; AN|u
 
@@ -58637,7 +58480,7 @@ $ (fragments of clay sealings)
 2. ensi2
 #lem: ensik[ruler]|ensi[interpreter]|sukkal[secretary]|FN
 3. nibru{ki}
-#lem: GN|FN
+#lem: GN
 4. dumu ur-{d}nisaba2
 #lem: dumu[child]; PN
 5. ensi2
@@ -58693,7 +58536,7 @@ x3. a-hu-wa-qar
 1. tug2 szabra
 #lem: tug[textile]; szabra[administrator]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lugal-inim-gi-na-ta
 #lem: ki[place]; PN
 4. [...]-ra-ka
@@ -58729,7 +58572,7 @@ x3. a-hu-wa-qar
 2. sza3 ma-da ambar-mah
 #lem: szag[heart]; mada[land]; u|GN|FN
 3. giri3 ug3-IL2
-#lem: jiri[via]; ujjaja[porter]
+#lem: jiri[via]; UN.IL₂[menial]
 4. giri3 |PU3.SZA|-{d}suen dub-sar
 #lem: jiri[via]; PN; dubsar[scribe]
 5. u3 giri3 {d}nanna-hi-li dub-sar
@@ -58773,7 +58616,7 @@ $ beginning broken
 2. 1(disz) ma-na su3-he2
 #lem: n; mana[unit]; PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki ur-sa6-ga dam-ta
 #lem: ki[place]; PN; dam[spouse]
 5. e2-kiszib3-ba-ka ba-an-kux(TU)?
@@ -58964,7 +58807,7 @@ x3. a-hu-wa-qar
 1. za-sza lugal-inim-gi-na
 #lem: X; PN
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. a2 szu-ku6 gu2-ab-ba-ke4-ne
 #lem: a[arm]; szukud[fisherman]; GN
 4. mu bad3{ki} ki-be2 gi4-a
@@ -59004,7 +58847,7 @@ $ broken
 @tablet
 @obverse
 1. 2/3(disz){sza} ku3-sig17 si-sa2
-#lem: n; kugsig[gold]; WN|sisa[fair]
+#lem: n; kugsig[gold]; sisa[fair]
 2. sila3 bur-zi a-bi 2(disz) sila3-sze3
 #lem: sila[unit]; burzi[bowl]; a[water]; n; sila[unit]
 3. ki ARAD2-{d}nanna-ta
@@ -59087,7 +58930,7 @@ $ blank space
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. lu2-{d}nanna dumu ku3-{d}nanna
 #lem: PN; dumu[child]; PN
@@ -59365,7 +59208,7 @@ x2. nagar
 7. szu ba-an-ti
 #lem: szu[hand]; tej[approach]
 8. a-sza3 mah
-#lem: aszag[field]; ensik[ruler]|mah[great]|FN
+#lem: aszag[field]; mah[great]
 9. mu en {d}nanna kar-zi-da ba-hun
 #lem: mu[year]; en[priest]; DN; TN; huj[hire]
 
@@ -59457,7 +59300,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. 1(disz) gin2 1(u) 8(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 3(u) 5(disz)-sze3
 #lem: X; n; n
 3. 1(disz) {na4}gug gid2-da
@@ -59771,7 +59614,7 @@ x2. lu2-{d}nanna
 2. tug2 u4-sakar
 #lem: tug[textile]; usakar[moon]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki szabra {d}nin-gal-ta
 #lem: ki[place]; szabra[administrator]; DN
 @reverse
@@ -59804,7 +59647,7 @@ x2. lu2-{d}nanna
 4. 2(u) 6(disz) tug2 usz-bar
 #lem: n; n; tug[textile]; uszbar[weaver]
 5. 1(u) tug2 usz-bar tur
-#lem: n; tug[textile]; uszbar[weaver]; dumu[child]|WN|tur[small]|FN
+#lem: n; tug[textile]; uszbar[weaver]; tur[small]
 6. 2(gesz2) 8(disz) tug2 usz-bar ge6
 #lem: n; n; tug[textile]; uszbar[weaver]; ji[night]
 7. 2(gesz2) 4(u) 4(disz) tug2 mug
@@ -59815,7 +59658,7 @@ x2. lu2-{d}nanna
 2. ba-a-a
 #lem: PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. iti ezem-{d}szul-gi
 #lem: itud[moon]; MN
 5. mu us2-sa e2 |PU3.SZA|-isz-{d}da-gan ba-du3 mu us2-sa-bi
@@ -59836,7 +59679,7 @@ x2. lu2-{d}nanna
 5. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. [sa] gi4#-gi4-de3
 #lem: sa[bundle]; gi[turn]
@@ -59860,7 +59703,7 @@ x2. lu2-{d}nanna
 2. 1/2(disz) ma-na 3(disz) gin2
 #lem: n; mana[unit]; n; gij[unit]
 3. la2 igi 6(disz)-gal2 ku3-sig17 si-sa2
-#lem: lal[less]; igi[face]; X; kugsig[gold]; WN|sisa[fair]
+#lem: lal[less]; igi[face]; X; kugsig[gold]; sisa[fair]
 4. mu {uruda}alan lugal tusz-a-sze3
 #lem: mu[year]; alan[statue]; lugal[king]; tusz[sit]
 @reverse
@@ -60124,7 +59967,7 @@ $ (Fischer SaU 108)
 #lem: AN|u
 @reverse
 1. a-ru-a didli!(HAL) mu-kux(DU)
-#lem: arua[offering]; didli[several]; X
+#lem: arua[offering]; didli[several]; mu.DU[delivery]
 2. e2 kar-zi-da
 #lem: e[house]; TN
 3. iti ezem-{d}me-ki-gal2
@@ -60271,7 +60114,7 @@ $ (Fischer SaU 068)
 21. ib-ni-{d}iszkur lu2 azlag2 szu ba-an-ti
 #lem: PN; lu[person]; azlag[fuller]; szu[hand]; tej[approach]
 22. tug2 mu-tuku5 mu-kux(DU)
-#lem: tug[textile]; tuku[beat]; X
+#lem: tug[textile]; tuku[beat]; mu.DU[delivery]
 23. iti ezem-{d}me-ki-gal2-ke4 us2-sa
 #lem: itud[moon]; MN; us[follow]
 24. mu x x x
@@ -60322,7 +60165,7 @@ x6. szu ba-an-ti
 @tablet
 @obverse
 1. 2/3(disz){sza} 1(disz) gin2 ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; kugsig[gold]; sisa[fair]
 2. gal 1(disz)-sze3
 #lem: gal[big]; n
 3. ki ARAD2-{d}nanna-ta
@@ -60810,7 +60653,7 @@ $ n lines broken
 7. masz2-da-re-a szabra
 #lem: maszdarea[payment]; szabra[administrator]
 8. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 9. mu en ga-esz{ki} ba-hun
 #lem: mu[year]; en[priest]; GN; huj[hire]
 
@@ -60879,7 +60722,7 @@ $ n lines broken
 2. tug2 sa gi4-a
 #lem: tug[textile]; sa[bundle]; gi[turn]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. a-hu-ni lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 @reverse
@@ -60995,7 +60838,7 @@ $ n lines broken
 @tablet
 @obverse
 1. 3(disz) gin2 la2 5(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. har 1(disz)-sze3
 #lem: har[ring]; n
 3. ki ARAD2-{d}nanna-[ta]
@@ -61207,15 +61050,15 @@ $ beginning broken
 3. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 4. 3(disz) alan-nita2 tur
-#lem: n; X; dumu[child]|WN|tur[small]|FN
+#lem: n; X; tur[small]
 5. 2(disz) alan-munus tur
-#lem: n; X; dumu[child]|WN|tur[small]|FN
+#lem: n; X; tur[small]
 6. 8(disz) dar? x zi za? ki tur
-#lem: n; dar[split]; u; zi[life]; X|za[bead]|za[man]; ki[place]; dumu[child]|WN|tur[small]|FN
+#lem: n; dar[split]; u; zi[life]; X|za[bead]|za[man]; ki[place]; tur[small]
 7. 1(disz) {gesz}nig2-umbin
 #lem: n; X
 8. 1(disz) x x tur
-#lem: n; u; u; dumu[child]|WN|tur[small]|FN
+#lem: n; u; u; tur[small]
 9. 2(disz) ma?-az-ha-ru-um
 #lem: n; X
 10. 5(disz) mar za3-hi-li
@@ -61258,13 +61101,13 @@ $ beginning broken
 28. 1(disz) {gesz}er3#-gesztu# za#-an#-bur sza#-[ah?]
 #lem: n; X; X; X
 29. ma al [ha?] KA# NE TAG# u3 ri [la] asz
-#lem: mada[land]; al[hoe]; X; u; u; u; u[and]; ri[]|ri[impose]; lala[plenty]|lalamu[buttocks]; asz[one]
+#lem: X; al[hoe]; X; u; u; u; u[and]; ri[]|ri[impose]; lala[plenty]|lalamu[buttocks]; asz[one]
 30. ba-an-gar
 #lem: jar[place]
 31. x-x-[...]-ta?
 #lem: u
 32. 1(disz) {gesz}ki-gal x [...]-a? za-gin3 x? tur
-#lem: n; X; u; PN|DN|GN; zagin[lapis]; u; dumu[child]|WN|tur[small]|FN
+#lem: n; X; u; PN|DN|GN; zagin[lapis]; u; tur[small]
 33. 1(disz) {gesz}mu10#-us2 [...]
 #lem: n; X; AN|u
 34. ba-an#-gar
@@ -61301,15 +61144,15 @@ $ beginning broken
 8. 2/3(disz)# ma-na 4(disz) 1/3(disz) gin2# 2(u) 3(disz) sze ku3-sig17 HI#-da#
 #lem: n; mana[unit]; n; n; gij[unit]; n; n; sze[barley]; kugsig[gold]; PN
 9. 4(disz) hi-ri-a-tum# ku3#-sig17# si#-sa2#
-#lem: n; hiriatum[ornament]; kugsig[gold]; WN|sisa[fair]
+#lem: n; hiriatum[ornament]; kugsig[gold]; sisa[fair]
 10. 9(disz)# u4-sakar ku3#-sig17 si-sa2
-#lem: n; usakar[moon]; kugsig[gold]; WN|sisa[fair]
+#lem: n; usakar[moon]; kugsig[gold]; sisa[fair]
 11. ki-la2-bi 3(disz) 1/2(disz)# gin2 5(disz) sze
 #lem: kila[weight]; n; n; gij[unit]; n; sze[barley]
 12. ba-zi-ir
 #lem: zir[break]
 13. 1(u) 4(disz) 2/3(disz)# ma-na 7(disz) 1/2(disz) gin2 1(u) 1(disz) sze ku3-sig17 si-sa2#
-#lem: n; n; n; mana[unit]; n; n; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; n; mana[unit]; n; n; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 14. ba?-[...] gi [...] hi?
 #lem: PN; gi[reed]; u; hi[mix]
 15. [...] x in [...] x
@@ -61319,7 +61162,7 @@ $ beginning broken
 17. 5(disz) gin2 2(u)#? sze ku3-sig17 HI-da
 #lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; PN
 18. 2/3(disz){sza} 1(disz) 2/3(disz) gin2 5(disz) sze ku3-sig17 si-sa2
-#lem: n; n; n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 19. ba-a-gar ba-HI ku3-sig17 HI-da ba-an-kux(TU)?
 #lem: jar[place]; X; kugsig[gold]; PN; X
 20. 1(disz) gir2 ur2-ra AN
@@ -61337,7 +61180,7 @@ $ beginning broken
 26. 2(disz) {gesz#}dim4# {na4#}nir7# [...] x
 #lem: n; X; nir[stone]; u; u
 27. 1(disz) {na4}nir7# a2? x babbar# 2(disz) tur
-#lem: n; nir[stone]; a[arm]; u; babbar[white]; n; dumu[child]|WN|tur[small]|FN
+#lem: n; nir[stone]; a[arm]; u; babbar[white]; n; tur[small]
 28. 5(disz) tu#-dur {na4}nir7# babbar 2(disz)-ta
 #lem: n; tudur[jewelry?]; nir[stone]; babbar[white]; n
 29. 3(disz) tu-[dur] {na4}nir7 babbar 1(disz)-ta
@@ -61571,19 +61414,19 @@ $ beginning broken
 12. 2(disz) {gesz}ma-al-tum#
 #lem: n; mayaltum[bed]
 13. 1(disz) {gesz}pisan tur
-#lem: n; X; dumu[child]|WN|tur[small]|FN
+#lem: n; X; tur[small]
 14. ba-an-gar
 #lem: jar[place]
 15. ki za3#-bar {gesz}ha-lu-ub2-ta
 #lem: ki[place]; zagbar[scraps]; halub[tree]
 16. 1(disz) {gesz}banszur tur
-#lem: n; banszur[table]; dumu[child]|WN|tur[small]|FN
+#lem: n; banszur[table]; tur[small]
 17. 1(disz) {gesz}ka-tab pisan?
 #lem: n; X; bisaj[basket]
 18. 2(disz)? [{gesz}...]
 #lem: n; u
 19. 1(disz) {gesz}ma#-al-tum gid2#-da tur
-#lem: n; mayaltum[bed]; gid[tow]|FN|gid[long]; dumu[child]|WN|tur[small]|FN
+#lem: n; mayaltum[bed]; gid[tow]|FN|gid[long]; tur[small]
 20. 3(disz) {gesz}ma-al-tum za3?-ar3
 #lem: n; mayaltum[bed]; sa[equal]
 21. 2(disz) {gesz}gu2
@@ -61609,7 +61452,7 @@ $ beginning broken
 31. du8#? du? [...]-da szu-ub-tum 1(disz) lugal
 #lem: du[spread]; du[go]; PN; X; n; lugal[king]
 32. 2(disz) {gesz}ma2-gur8 tur
-#lem: n; magur[barge]; dumu[child]|WN|tur[small]|FN
+#lem: n; magur[barge]; tur[small]
 33. 4(disz) gesz {kusz}usan3-dur
 #lem: n; jesz[tree]; X
 34. ba#-an#-gar
@@ -61703,7 +61546,7 @@ $ beginning broken
 26. ki ur-{d}ba-ba6-ta
 #lem: ki[place]; PN
 27. 1(disz) {gesz}pisan ha-lu-ub2 ka-tab nu-tuku tur
-#lem: n; X; halub[tree]; katab[helper?]; tuku[acquire]; dumu[child]|WN|tur[small]|FN
+#lem: n; X; halub[tree]; katab[helper?]; tuku[acquire]; tur[small]
 28. ki bu-ru-uq-ta
 #lem: ki[place]; PN
 29. 5(disz) {gesz}u3-suh5 szu-dim2 ma2 x-x
@@ -61772,11 +61615,11 @@ $ beginning broken
 17. 7(disz) gin2 ku3-sig17 HI-da
 #lem: n; gij[unit]; kugsig[gold]; PN
 18. 3(disz) 2/3(disz) ma-na 1(disz) 2/3(disz) gin2 la2 3(disz) sze ku3-sig17 [si]-sa2
-#lem: n; n; mana[unit]; n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; mana[unit]; n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 19. za-ri2-in-am3
 #lem: zarin[low quality]
 20. 1(disz) ga-li-tum ku3-sig17 si-sa2
-#lem: n; X; kugsig[gold]; WN|sisa[fair]
+#lem: n; X; kugsig[gold]; sisa[fair]
 21. ki-la2-bi 1/2(disz) gin2
 #lem: kila[weight]; n; gij[unit]
 22. ba-zi-ir
@@ -61788,7 +61631,7 @@ $ beginning broken
 25. 2(disz) gin2 ku3-sig17 husz-a
 #lem: n; gij[unit]; kugsig[gold]; husz[reddish]
 26. 1(u) 4(disz) gin2 ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; kugsig[gold]; sisa[fair]
 27. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 28. 1(u) 6(disz) gin2 ku3-babbar
@@ -62092,7 +61935,7 @@ $ (text not given)
 1. [...] ku3-[...]
 #lem: u; u
 2. diri mu-kux(DU)
-#lem: dirig[exceed]|FN; X
+#lem: dirig[exceed]|FN; mu.DU[delivery]
 3. nig2-ka9 ak dam-gar3
 #lem: nijSZID[account]; ak[do]; damgar[merchant]
 @reverse
@@ -62298,7 +62141,7 @@ $ (obverse not given: list of names)
 3. ku6-bi 6(gesz2) 3(u)
 #lem: kud[fish]; n; n
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. szu-ku6 gu2-edin-na-ke4-ne
 #lem: szukud[fisherman]; GN
 6. iti ezem-mah
@@ -62317,7 +62160,7 @@ $ beginning broken
 2'. ga-bi 2(ban2) 9(disz) 1/2(disz) sila3
 #lem: ga[milk]; n; n; n; sila[unit]
 3'. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4'. la2-ia3 2(barig) 1(ban2) 9(disz) 2/3(disz) sila3 i3
 #lem: la'u[arrears]; n; n; n; n; sila[unit]; i[oil]
 5'. la2-ia3 2(barig) 5(ban2) 2(disz) 2/3(disz) sila3 ga
@@ -62359,7 +62202,7 @@ $ beginning broken
 8'. ga-bi 2(disz) sila3
 #lem: ga[milk]; n; sila[unit]
 9'. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 10'. la2-ia3 1(barig) 1(ban2) 6(disz) 1/2(disz) sila3 i3
 #lem: la'u[arrears]; n; n; n; n; sila[unit]; i[oil]
 11'. la2-ia3 1(barig) 1(ban2) 8(disz) 1/2(disz) sila3 ga
@@ -62387,7 +62230,7 @@ $ beginning broken
 5. ga-bi 3(disz) 1/2(disz) sila3
 #lem: ga[milk]; n; n; sila[unit]
 6. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 7. la2-ia3 5(ban2) [...] i3
 #lem: la'u[arrears]; n; u; i[oil]
 8. la2-ia3 [...] ga
@@ -62437,7 +62280,7 @@ $ rest broken
 11. |SZU+LAGAB| ga-ar3-bi 5(ban2) [x sila3]
 #lem: szunijin[total]; ga'ar[cheese]|gara[cream]; n; u; sila[unit]
 12. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 13. |SZU+LAGAB| 1(asz) 2(barig) 2(ban2) 6(disz) sila3 1(u) gin2 i3 gur
 #lem: szunijin[total]; n; n; n; n; sila[unit]; n; gij[unit]; i[oil]; gur[unit]
 14. |SZU+LAGAB| 1(asz) 3(barig) 5(ban2) 9(disz) 1/3(disz) sila3 ga gur
@@ -62484,7 +62327,7 @@ $ (Fischer SaU 049)
 @tablet
 @obverse
 1. 1(u) gin2 la2 7(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. har 2(disz)-sze3
 #lem: har[ring]; n
 3. ki ARAD2-{d}nanna-ta
@@ -62577,7 +62420,7 @@ x2. [...] szu ba-ti
 @tablet
 @obverse
 1. 1(disz) 5/6(disz) gin2 6(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. ne-gi-bu-um zabar
 #lem: PN; zabar[bronze]
 3. gesz-bi ku3-babbar szub-ba 3(disz)-a
@@ -62686,7 +62529,7 @@ $ rest broken
 1. 3(asz) gu2 1(disz) ma-na sze-gin2
 #lem: n; gun[load]; n; mana[unit]; szegin[glue]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ur-{d}ba-ba6-ta
 #lem: ki[place]; PN
 4. e2-kiszib3-ba {d}nin-gal-e-gar-ra ba-an-kux(KWU636)
@@ -62880,9 +62723,9 @@ $ (Fischer SaU 123)
 @tablet
 @obverse
 1. 3(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. tu-dur har-har-ra 1(u) 2(disz)-sze3
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]; n; n
+#lem: tudur[jewelry?]; har[ring]; n; n
 3. 1(disz) gin2 6(disz) sze ku3-sig17 husz-a
 #lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; husz[reddish]
 4. alan lugal-a-sze3
@@ -62977,7 +62820,7 @@ $ (listed in catalogue only)
 3. gada sa gi4-a
 #lem: gada[flax]; sa[bundle]; gi[turn]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. lu2-{d}nin-isin2?{si} lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
 6. mu {d}szul-gi-iri-mu-sze3
@@ -63197,7 +63040,7 @@ $ blank space
 1. |SZU+LAGAB| 5(asz) gu2 3(disz) 1/2(disz) ma-na siki mug
 #lem: szunijin[total]; n; gun[load]; n; n; mana[unit]; siki[hair]; mug[wool]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. iti ezem-{d}szul-gi
 #lem: itud[moon]; MN
 4. mu x x x
@@ -63218,7 +63061,7 @@ $ blank space
 5. a-bi2-a
 #lem: PN
 6. tug2 sa gi4-a mu-kux(DU)
-#lem: tug[textile]; sa[bundle]; gi[turn]; X
+#lem: tug[textile]; sa[bundle]; gi[turn]; mu.DU[delivery]
 7. lu2 azlag2-e-ne
 #lem: lu[person]; azlag[fuller]
 @reverse
@@ -63334,9 +63177,9 @@ x2. giri3 i3-li2-sa6-[...]
 @tablet
 @obverse
 1. 2(disz) gin2 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. gal tur 1(disz)-sze3
-#lem: gal[big]; dumu[child]|WN|tur[small]|FN; n
+#lem: gal[big]; tur[small]; n
 3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 4. a-hu-wa-qar
@@ -63382,7 +63225,7 @@ x2. giri3 i3-li2-sa6-[...]
 @tablet
 @obverse
 1. [x] gin2 ku3-sig17 si-sa2
-#lem: u; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: u; gij[unit]; kugsig[gold]; sisa[fair]
 2. 5(disz) {gesz}dim4 {na4}nir7 a-ri2-lum
 #lem: n; X; nir[stone]; PN
 3. ga2-ga2-de3
@@ -63715,7 +63558,7 @@ $ broken
 3. 3(disz) 5/6(disz) ma-na 1(disz) gin2
 #lem: n; n; mana[unit]; n; gij[unit]
 4. ku3-sig17 si-sa2
-#lem: kugsig[gold]; WN|sisa[fair]
+#lem: kugsig[gold]; sisa[fair]
 5. ba-a-gar ba-HI
 #lem: jar[place]; X
 6. ku3-sig17 HI-da ba-an-kux(KWU636)
@@ -64187,7 +64030,7 @@ $ broken
 2. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 3. 9(disz) gag sa2-bi2-tum tur
-#lem: n; X; X; dumu[child]|WN|tur[small]|FN
+#lem: n; X; X; tur[small]
 4. ba-an-gar
 #lem: jar[place]
 5. ki ur-sze-il2-la-ta
@@ -64283,11 +64126,11 @@ $ broken
 2. har 2(disz)-sze3
 #lem: har[ring]; n
 3. 2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 4. {zabar}ub3 1(disz)-sze3
 #lem: X; n
 5. 2(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 6. haszhur 1(disz)-sze3
 #lem: haszhur[apple]; n
 7. ki ARAD2-{d}nanna-ta
@@ -64359,7 +64202,7 @@ x1. ku3-dim2
 @tablet
 @obverse
 1. 1(disz) gin2 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 1(u) 5(disz) sze-ta 1(u) 2(disz)-sze3
 #lem: X; n; n; sze[barley]; n; n
 3. ki ARAD2-{d}nanna-ta
@@ -64534,7 +64377,7 @@ x3. a-hu-wa-qar
 $ blank space
 2. iti ezem-mah#
 #lem: itud[moon]; MN
-3. mu bad3-[gal ba]-du3-[a]
+3. mu bad3 [gal ba]-du3-[a]
 #lem: mu[year]; bad[wall]; gal[big]; du[build]
 @seal 1
 1. {d}nanna-dalla
@@ -64587,7 +64430,7 @@ x3. a-hu-wa-qar
 4. u3 na-bi2-hu-um igi 4(disz)-gal2-ta 4(disz)-sze3
 #lem: u[and]; nabihum[ornament]; igi[face]; X; n
 5. 1(u) gin2 igi 4(disz)-gal2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; igi[face]; X; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; igi[face]; X; kugsig[gold]; sisa[fair]
 6. har 2(disz)-sze3
 #lem: har[ring]; n
 7. ki ARAD2-{d}nanna-ta
@@ -64862,7 +64705,7 @@ $ blank space
 2. {d}utu-mu
 #lem: PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @seal 1
 $ (Fischer SaU 104)
 1. ba-ga-a
@@ -64988,7 +64831,7 @@ x1. x-{d}nin-gal
 x2. ugula i3 sur-sur
 #lem: ugula[overseer]; i[oil]; sur[bread]|sur[half]
 x3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 
 &P138722 = UET 9, 0591
 #atf: lang sux
@@ -65105,7 +64948,7 @@ x2. a-hu-wa-qar
 1. 3(u) tug2 ge6
 #lem: n; tug[textile]; ji[night]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki {d}nanna-ma-szum2
 #lem: ki[place]; X
 4. lu2 azlag2 nibru{ki}-ka-ta
@@ -65212,7 +65055,7 @@ $ (listed in catalogue only)
 x1. ku3-sig17
 #lem: kugsig[gold]
 x2. tu-dur har-har-ra
-#lem: tudur[jewelry?]; har[ring]|harhar[bird]|harhar[instrument]
+#lem: tudur[jewelry?]; har[ring]
 x3. ki ARAD2-{d}nanna-ta
 #lem: ki[place]; PN
 
@@ -65395,7 +65238,7 @@ $ beginning broken
 @tablet
 @obverse
 1. 4(disz) na-bi2-hu-um ku3-sig17 si-sa2
-#lem: n; nabihum[ornament]; kugsig[gold]; WN|sisa[fair]
+#lem: n; nabihum[ornament]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi 2/3(disz) [...]
 #lem: kila[weight]; n; AN|u
 3. bi2-gu7-bi 1(disz) [...]
@@ -65443,11 +65286,11 @@ $ beginning broken
 2. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 3. 1(disz) alan ARAD2 tur
-#lem: n; alan[statue]; arad[slave]; dumu[child]|WN|tur[small]|FN
+#lem: n; alan[statue]; arad[slave]; tur[small]
 4. 3(disz) alan munus tur
-#lem: n; alan[statue]; munus[woman]; dumu[child]|WN|tur[small]|FN
+#lem: n; alan[statue]; munus[woman]; tur[small]
 5. 1(disz) dar{muszen} me-luh-ha tur
-#lem: n; dar[bird]; PN; dumu[child]|WN|tur[small]|FN
+#lem: n; dar[bird]; PN; tur[small]
 6. ba-an-gar
 #lem: jar[place]
 7. ki dingir-su-ra-bi2-ta
@@ -65653,7 +65496,7 @@ $ beginning broken
 @obverse
 $ (listed in catalogue only)
 x1. [...] har-har alan
-#lem: u; har[ring]|harhar[bird]|harhar[instrument]; alan[statue]
+#lem: u; har[ring]; alan[statue]
 x2. [...] dumu me-{d}iszkur
 #lem: u; dumu[child]; PN
 x3. [...]-ad-da zi-ga
@@ -66025,7 +65868,7 @@ $ beginning broken
 @tablet
 @obverse
 1. 1(disz) gin2 la2 5(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. 8(disz) {gesz}dur? igi 4(disz)-gal2 3(disz)-ta
 #lem: n; X; igi[face]; X; n
 3. ga2-ga2-de3
@@ -66126,7 +65969,7 @@ $ beginning broken
 5. 3(u) 1(barig) 3(ban2) gur
 #lem: n; n; n; gur[unit]
 6. a-sza3 mah
-#lem: aszag[field]; ensik[ruler]|mah[great]|FN
+#lem: aszag[field]; mah[great]
 7. 3(u) 6(asz) 2(barig) 1(ban2) gur
 #lem: n; n; n; n; gur[unit]
 8. a-sza3 a2-bi2-li2
@@ -66198,7 +66041,7 @@ $ beginning broken
 1. [...] tug2 usz-bar
 #lem: u; tug[textile]; uszbar[weaver]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 4. lu2-{d}nin-szubur
@@ -66225,7 +66068,7 @@ $ beginning broken
 3. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. ki na-bi2-um-ta
 #lem: ki[place]; PN
 @reverse
@@ -66408,9 +66251,9 @@ $ blank space
 5. lugal uri5{ki}-ma-ke4
 #lem: lugal[king]; GN
 6. nibru{ki} uri5{ki}-ma
-#lem: GN|FN; GN
+#lem: GN; GN
 7. bad3 gal-bi mu-du3
-#lem: X; du[build]
+#lem: bad[wall]; gal[big]; du[build]
 
 &P138573 = UET 9, 0442
 #atf: lang sux
@@ -66656,7 +66499,7 @@ x4. a-hu-wa-qar
 5. lugal-i3-di3
 #lem: PN
 6. mu#?-kux(DU)#?
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. iti a2-ki-ti
 #lem: itud[moon]; MN
@@ -66766,7 +66609,7 @@ $ beginning broken
 3'. iti ezem-{d}szul-gi
 #lem: itud[moon]; MN
 4'. mu {d}i-bi2-{d}suen lugal nibru{ki} uri5{ki}-ma bad3 gal-bi mu-du3
-#lem: mu[year]; RN; lugal[king]; GN|FN; GN; bad[wall]; gal[big]; du[build]
+#lem: mu[year]; RN; lugal[king]; GN; GN; bad[wall]; gal[big]; du[build]
 @seal 1
 $ (Fischer SaU 004)
 @column 1
@@ -66957,12 +66800,12 @@ $ (Fischer SaU 178)
 4. sze apin-la2 da-ba-a
 #lem: sze[barley]; apinla[tiller]; PN
 5. sze-gesz-i3 mu-kux(DU)
-#lem: X; X
+#lem: X; mu.DU[delivery]
 6. gu mu-kux(DU)
-#lem: gu[cord]; X
+#lem: gu[cord]; mu.DU[delivery]
 @reverse
 1. zu2-lum mu-kux(DU)
-#lem: zulum[date]; X
+#lem: zulum[date]; mu.DU[delivery]
 2. u3 la2-ia3 su-ga-bi
 #lem: u[and]; la'u[arrears]; sug[replace]
 3. im-bi 1(u) 1(disz)-am3
@@ -67058,7 +66901,7 @@ $ (Fischer SaU 179)
 1. [...] 1(disz) udu masz2 hi-a
 #lem: u; n; udu[sheep]; masz[goat]; hi[mix]
 2. diri mu-kux(DU) nig2-ka9 ak kuruszda [x]
-#lem: dirig[exceed]|FN; X; nijSZID[account]; ak[do]; kuruszda[fattener]; u
+#lem: dirig[exceed]|FN; mu.DU[delivery]; nijSZID[account]; ak[do]; kuruszda[fattener]; u
 @reverse
 1. e2 {d}amar-{d}suen
 #lem: e[house]; RN
@@ -67102,7 +66945,7 @@ $ (Fischer SaU 179)
 1. 5/6(disz) gin2 ku3-sig17 husz-a
 #lem: n; gij[unit]; kugsig[gold]; husz[reddish]
 2. igi 4(disz)-gal2 5(disz) sze ku3-sig17 si-sa2
-#lem: igi[face]; X; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: igi[face]; X; n; sze[barley]; kugsig[gold]; sisa[fair]
 3. ba-a-gar ba-HI
 #lem: jar[place]; X
 4. ku3-sig17 HI-da ba-an-ku4?
@@ -67133,7 +66976,7 @@ $ (Fischer SaU 179)
 3. e2-e-ki-ag2
 #lem: X
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. iti ezem-{d}nin-a-zu
 #lem: itud[moon]; MN
 @reverse
@@ -67192,7 +67035,7 @@ $ blank space
 1. 2(u) 1(disz) tug2 mu-tuku5
 #lem: n; n; tug[textile]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lu2-sukkal-an-ka di-u2-a-ta
 #lem: ki[place]; PN; X
 4. ib-ni-{d}iszkur lu2 azlag2
@@ -67216,7 +67059,7 @@ $ (Fischer SaU 152)
 @tablet
 @obverse
 1. 1(u) 7(disz) gin2 la2 2(u) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. har 5(disz) gin2-ta 2(disz)
 #lem: har[ring]; n; gij[unit]; n
 3. a-gug2-PI sa2-sa2-a igi 3(disz)-gal2-ta 2(u)
@@ -67277,7 +67120,7 @@ $ (Fischer SaU 084)
 @tablet
 @obverse
 1. 1(disz) har ku3-sig17 si-sa2
-#lem: n; har[ring]; kugsig[gold]; WN|sisa[fair]
+#lem: n; har[ring]; kugsig[gold]; sisa[fair]
 2. ki-la2-bi 4(disz) gin2 2/3(disz) 1(u) 5(disz) sze
 #lem: kila[weight]; n; gij[unit]; n; n; n; sze[barley]
 3. bi2-gu7-bi 7(disz) sze
@@ -67294,7 +67137,7 @@ $ (Fischer SaU 084)
 2. iti ezem-{d}szul-gi u4 2(disz)-kam
 #lem: itud[moon]; MN; ud[day]; n
 3. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3! gal-bi mu-du3-<a> mu us2-sa-bi
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]; mu[year]; us[follow]
 
 &P139114 = UET 9, 0984
 #atf: lang sux
@@ -67346,7 +67189,7 @@ x4. mu? gesz [...]
 1. sza3 za3-bar {gesz}ha-lu-ub2-ta
 #lem: szag[heart]; zagbar[scraps]; halub[tree]
 2. 1(disz) {gesz}ma-al-tum gid2-da tur
-#lem: n; mayaltum[bed]; gid[tow]|FN|gid[long]; dumu[child]|WN|tur[small]|FN
+#lem: n; mayaltum[bed]; gid[tow]|FN|gid[long]; tur[small]
 3. 3(disz) {gesz}ma-al-tum za3-ah
 #lem: n; mayaltum[bed]; sa[equal]
 4. ba-an-gar
@@ -67475,7 +67318,7 @@ $ broken
 1. 2(disz) gada {u2}|KI.KAL| [gada-mah?]
 #lem: n; gada[flax]; X; X
 2. {d}en-lil2 {d}nin-lil2-la2
-#lem: DN|FN; DN
+#lem: DN; DN
 3. ki-la2-bi 6(disz) 5/6(disz) ma-na
 #lem: kila[weight]; n; n; mana[unit]
 4. 4(u) gada hal saga
@@ -67483,7 +67326,7 @@ $ broken
 5. ki-la2-bi 1(asz) gu2 [...]
 #lem: kila[weight]; n; gun[load]; AN|u
 6. gada sa gi4-a mu-kux(DU)
-#lem: gada[flax]; sa[bundle]; gi[turn]; X
+#lem: gada[flax]; sa[bundle]; gi[turn]; mu.DU[delivery]
 @reverse
 1. lu2-{d}nin-isin2?{si} lu2 azlag2
 #lem: PN; lu[person]; azlag[fuller]
@@ -67503,7 +67346,7 @@ $ broken
 1. 6(disz) sila3 i3 x
 #lem: n; sila[unit]; i[oil]; u
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki ur-{d}ig-alim na-gada-ta
 #lem: ki[place]; PN; nagada[herdsman]
 4. zi#?-zi-x-ra
@@ -67537,7 +67380,7 @@ $ blank space
 #lem: gin[establish]
 @reverse
 1. [...] gi tur
-#lem: u; gi[reed]; dumu[child]|WN|tur[small]|FN
+#lem: u; gi[reed]; tur[small]
 2. [...]
 #lem: AN|u
 3. mu us2-sa an-sza-an{ki} [ba-hul]
@@ -67702,7 +67545,7 @@ $ (listed in catalogue only)
 2. munu4-mu2
 #lem: munumud[maltster]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 
 &P139498 = UET 9, 1368
 #atf: lang sux
@@ -67917,7 +67760,7 @@ $ beginning broken
 2. tug2 mu-tuku5
 #lem: tug[textile]; tuku[beat]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. ki i-di3-{d}iszkur szusz3-ta
 #lem: ki[place]; PN; kusz[official]
 5. sa gi4-gi4-de3
@@ -68377,7 +68220,7 @@ $ 1 line blank
 @tablet
 @obverse
 1. 1(disz) ga-li2-tum ku3-sig17 si-sa2
-#lem: n; X; kugsig[gold]; WN|sisa[fair]
+#lem: n; X; kugsig[gold]; sisa[fair]
 2. ki-la2-bi 1/2(disz) gin2
 #lem: kila[weight]; n; gij[unit]
 3. ba-zi-ir
@@ -68527,7 +68370,7 @@ $ rest broken
 @tablet
 @obverse
 1. ($ blank space $) gin2 ku3-sig17 si-sa2
-#lem: gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: gij[unit]; kugsig[gold]; sisa[fair]
 2. gal 1(disz)-sze3
 #lem: gal[big]; n
 3. 1(disz) gin2 ku3-sig17 HI-da
@@ -68593,7 +68436,7 @@ x3. mu lugal-bi in-pa3
 2. ugula nam-ha-ni
 #lem: ugula[overseer]; PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. e2-udu-niga-sze3
 #lem: X
 5. {d}nanna-dalla i3-dab5
@@ -68755,19 +68598,19 @@ $ beginning broken
 2. [...]-ba e2-ba-an
 #lem: DN; eban[pair]
 3. [... ku3]-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 4. [...] ku3-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 5. [... ku3]-sig17# si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 6. [...] ku3-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 7. [...] ku3-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 8. [...] x tur ku3-sig17 si sa2
-#lem: u; u; dumu[child]|WN|tur[small]|FN; kugsig[gold]; si[horn]; sa[equal]
+#lem: u; u; tur[small]; kugsig[gold]; si[horn]; sa[equal]
 9. [... ku3]-sig17 si-sa2
-#lem: u; kugsig[gold]; WN|sisa[fair]
+#lem: u; kugsig[gold]; sisa[fair]
 $ 1 line blank
 10. [...] gin2
 #lem: u; gij[unit]
@@ -68782,7 +68625,7 @@ $ 1 line blank
 15. [...]-bi-ta
 #lem: PN
 16. [...] 1(disz) ma
-#lem: u; n; mada[land]
+#lem: u; n; X
 17. [...] 5(ban2)
 #lem: u; n
 18. [...]
@@ -68811,7 +68654,7 @@ $ 1 line blank
 11. 1(u) 6(disz) har ku3-babbar e2-ba-an
 #lem: n; n; har[ring]; kugbabbar[silver]; eban[pair]
 12. 3(disz) har ku3-babbar tur e2-ba-an
-#lem: n; har[ring]; kugbabbar[silver]; dumu[child]|WN|tur[small]|FN; eban[pair]
+#lem: n; har[ring]; kugbabbar[silver]; tur[small]; eban[pair]
 13. 1(u) la2 1(disz) szu-gesz [...] ku3-babbar
 #lem: n; lal[less]; n; X; u; kugbabbar[silver]
 14. 2(disz) tu-ti-da ku3-babbar
@@ -68863,7 +68706,7 @@ $ 1 line blank
 6. sza3-ki-ne-ne-a nu-banda3
 #lem: PN; nubanda[overseer]
 7. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 8. e2 {d}nin?-sun2#?
 #lem: e[house]; DN|FN
 # nu-musz#-da#?
@@ -68876,7 +68719,7 @@ $ rest broken
 1. [...] tug2 usz-bar
 #lem: u; tug[textile]; uszbar[weaver]
 2. mu-tuku5 mu-kux(DU)
-#lem: tuku[beat]; X
+#lem: tuku[beat]; mu.DU[delivery]
 3. ki lu2 didli-ne-ta
 #lem: ki[place]; lu[person]; didli[several]
 4. ba-la-t,i3 lu2 azlag2
@@ -68958,7 +68801,7 @@ x4. zi-ga ki esz3-[...]
 9. tug2 nig2-gur11 szabra
 #lem: tug[textile]; nijGA[property]; szabra[administrator]
 10. x e2-gi4-a mu-kux(DU)#
-#lem: u; egia[bride]; X
+#lem: u; egia[bride]; mu.DU[delivery]
 11. giri3 ur-dingir-ra
 #lem: jiri[via]; PN
 12. iti ezem-mah
@@ -68971,7 +68814,7 @@ x4. zi-ga ki esz3-[...]
 @tablet
 @obverse
 1. 1/2(disz) gin2 1(u) 2(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. kam-kam-ma-tum ku3-babbar 5(disz) gin2-ta 5(disz)-a
 #lem: kamkammatum[earring]; kugbabbar[silver]; n; gij[unit]; n
 3. ga2-ga2-de3
@@ -69054,7 +68897,7 @@ $ (text not given)
 1. tug2 ki-la2 tag-ga
 #lem: tug[textile]; kila[weight]; tag[touch]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. lu2-{d}nanna dumu ku3-{d}nanna
 #lem: PN; dumu[child]; PN
 4. nu-banda3 bi2-sza-hi-dingir
@@ -69349,7 +69192,7 @@ $ 1 line blank
 1. 3(barig) 4(ban2) naga si-e3
 #lem: n; n; naja[potash]; X
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. e2-kiszib3-ba-sze3
 #lem: ekiszibak[storeroom]
 4. ki szabra-ta
@@ -69447,7 +69290,7 @@ $ 1 line blank
 3. iti szu-esz5-sza u4 1(u) 4(disz)-kam
 #lem: itud[moon]; MN; ud[day]; n; n
 4. mu us2-sa {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 nibru{ki} uri5{ki}-ma bad3 gal-bi mu-du3
-#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN|FN; GN; bad[wall]; gal[big]; du[build]
+#lem: mu[year]; us[follow]; RN; lugal[king]; GN; GN; GN; bad[wall]; gal[big]; du[build]
 
 &P142353 = YOS 04, 289
 #atf: lang sux
@@ -69876,7 +69719,7 @@ $ (text not given)
 @tablet
 @obverse
 1. 3(disz) 1/2(disz) gin2 2(u) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. 3(disz) {na4}gug gid2-da
 #lem: n; gug[carnelian]; gid[tow]|FN|gid[long]
 3. ga2-ga2-de3
@@ -69902,7 +69745,7 @@ $ (text not given)
 @obverse
 $ (listed in catalogue only)
 x1. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 x2. [...]
 #lem: AN|u
 x3. ki lu2 didli-ne-ta
@@ -69934,7 +69777,7 @@ x4. ARAD2-{d}nanna
 1. 7(asz) 4(barig) sze gur
 #lem: n; n; sze[barley]; gur[unit]
 2. sze ur5-ra mu-kux(DU)
-#lem: sze[barley]; urra[loan]; X
+#lem: sze[barley]; urra[loan]; mu.DU[delivery]
 3. ki nam-erin2-ke4-e-ne-ta
 #lem: ki[place]; namerin[field-working]
 4. mu ur-ku3-nun-na-sze3
@@ -70055,7 +69898,7 @@ $ (Fischer SaU 068)
 2. ur-{d}isztaran
 #lem: PN
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. iti u5-bi2{muszen}-gu7
 #lem: itud[moon]; MN
 5. mu us2-sa si-mu-ru-um lu-lu-bu-um{ki} a-ra2 1(u) la2 1(disz)-kam-asz ba-hul
@@ -70250,7 +70093,7 @@ x3. ku3-dim2
 @tablet
 @obverse
 1. 6(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. gal 2(disz) gin2 1(disz)
 #lem: gal[big]; n; gij[unit]; n
 3. {zabar}sag-kul 2(disz) gin2 1(disz)
@@ -70280,7 +70123,7 @@ x3. ku3-dim2
 3. ki ur-{d}ba-ba6-ta
 #lem: ki[place]; PN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 $ blank space
 5. iti a-bi
 #lem: itud[moon]; a[water]
@@ -70322,7 +70165,7 @@ $ (legend broken)
 3. ba-zi-ir
 #lem: zir[break]
 4. gal tur 1(disz)-sze3
-#lem: gal[big]; dumu[child]|WN|tur[small]|FN; n
+#lem: gal[big]; tur[small]; n
 5. ki ur-gu2-edin-na-ta
 #lem: ki[place]; PN
 6. a-hu-wa-qar
@@ -70768,7 +70611,7 @@ $ rest broken
 5. udu-ta nigin2-na x-x-e-ne-ne#
 #lem: udu[sheep]; nijin[encircle]|nijin[total]; DN
 6. mu-kux(DU) e2?-udu-niga-sze3
-#lem: X; X
+#lem: mu.DU[delivery]; X
 @reverse
 1. {d}nanna#-[x] i3-dab5
 #lem: PN; dab[seize]
@@ -70845,7 +70688,7 @@ $ broken
 3. udu nig2-sa10-ma-ka
 #lem: udu[sheep]; nijszama[purchase]
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. ki lu2 didli-ne-ta
 #lem: ki[place]; lu[person]; didli[several]
 6. sa2-du11 {d}nanna-sze3
@@ -70881,7 +70724,7 @@ $ broken
 3. a-sza3 ri-ba-ga-da-[x]-dim2?-x
 #lem: aszag[field]; FN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 5. mu e2 {d}szara2 umma{ki}-ka ba-du3
 #lem: mu[year]; e[house]; TN|DN|FN; GN|FN; du[build]
 
@@ -70955,7 +70798,7 @@ x1. ur-{d}szul-pa-e3
 1. 3(gesz2) 1(disz) tug2 usz-bar mu-tuku5
 #lem: n; n; tug[textile]; uszbar[weaver]; tuku[beat]
 2. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 3. ki lu2 didli-ne-ta
 #lem: ki[place]; lu[person]; didli[several]
 4. a-hu-ba-qar lu2 azlag2
@@ -70982,7 +70825,7 @@ x1. ur-{d}szul-pa-e3
 @tablet
 @obverse
 1. 1(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 1(u) sze-ta 8(disz)
 #lem: X; n; sze[barley]; n
 3. u3 na-bi2-<hu>-um igi 4(disz)-gal2-ta 3(disz)-sze3
@@ -71577,13 +71420,13 @@ $ blank space
 1. 6(disz) 1/2(disz) gin2 7(disz) 1/2(disz) sze
 #lem: n; n; gij[unit]; n; n; sze[barley]
 2. ku3-sig17 si-sa2 {uruda}alan dumu ga
-#lem: kugsig[gold]; WN|sisa[fair]; alan[statue]; dumu[child]; ga[milk]
+#lem: kugsig[gold]; sisa[fair]; alan[statue]; dumu[child]; ga[milk]
 3. 1(u) 2(disz) za-ah szuba3
 #lem: n; n; za[close?]|za[cvve]; szuba[stone]
 4. {uruda}alan nin-sze3 ba-dim2
 #lem: alan[statue]; nin[lady]; dim[create]
 5. igi 3(disz)-gal2 2(u) la2 1(disz) sze ku3-sig17 si-sa2 {uruda}alan nin
-#lem: igi[face]; X; n; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]; alan[statue]; nin[lady]|WN|FN
+#lem: igi[face]; X; n; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]; alan[statue]; nin[lady]|WN|FN
 @reverse
 1. {uruda}kul gesztin ga-ra-na
 #lem: X; jesztin[vine]|FN; na[cvne]
@@ -71621,7 +71464,7 @@ x3. lu2-inim-[...]
 2. sze-ba kikken2 ARAD2
 #lem: szeba[ration]; kinkin[miller]; arad[slave]
 3. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 4. mu i3-gesz-sze3
 #lem: mu[year]; ijesz[oil]
 5. guru7-a x-x-x
@@ -71851,7 +71694,7 @@ x1. ku3-dim2
 2. |SZU+LAGAB| ki-la2-bi ($ blank space $)
 #lem: szunijin[total]; kila[weight]
 3. mu-kux(DU) ki simug-ne-ta
-#lem: X; ki[place]; simug[smith]
+#lem: mu.DU[delivery]; ki[place]; simug[smith]
 4. lugal-i3-di3
 #lem: PN
 5. szu ba-an-ti
@@ -71861,7 +71704,7 @@ x1. ku3-dim2
 7. mu {d}i-bi2-{d}suen lugal-e
 #lem: mu[year]; RN; lugal[king]
 8. nibru{ki} uri5{ki}-ma
-#lem: GN|FN; GN
+#lem: GN; GN
 9. bad3 gal-bi mu-du3
 #lem: bad[wall]; gal[big]; du[build]
 
@@ -71968,7 +71811,7 @@ $ (Fischer SaU 061)
 2. ba-sur sza3-ba
 #lem: sur[press]|sur[spin]; szag[heart]
 3. 2(disz) gir2 szu-<i> tur mu10-us2 [ni2-ba]
-#lem: n; jiri[dagger]; szu'i[barber]; dumu[child]|WN|tur[small]|FN; X; ni[fear]|ni[self]
+#lem: n; jiri[dagger]; szu'i[barber]; tur[small]; X; ni[fear]|ni[self]
 4. ba-an-gar
 #lem: jar[place]
 5. ki ur-sze-il2-la-ta
@@ -71991,7 +71834,7 @@ $ (Fischer SaU 061)
 2. har 1(disz)-sze3
 #lem: har[ring]; n
 3. 5(disz) gin2 ku3-sig17 si-sa2
-#lem: n; gij[unit]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; kugsig[gold]; sisa[fair]
 4. har 1(disz)-sze3
 #lem: har[ring]; n
 5. ki ARAD2-{d}nanna-ta
@@ -72108,7 +71951,7 @@ $ (Fischer SaU 170)
 3. iszib {d}nin-gubalag
 #lem: iszib[priest]|FN; DN
 4. mu-kux(DU)
-#lem: X
+#lem: mu.DU[delivery]
 @reverse
 1. iti me-ki-gal2
 #lem: itud[moon]; MN
@@ -72183,7 +72026,7 @@ $ broken
 @tablet
 @obverse
 1. 6(disz) 1/2(disz) gin2 la2 1(u) 5(disz) sze ku3-sig17 si-sa2
-#lem: n; n; gij[unit]; lal[less]; n; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; n; gij[unit]; lal[less]; n; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 5(disz) sze-ta 3(gesz2) 2(u) 6(disz)-sze3
 #lem: X; n; sze[barley]; n; n; n
 3. 1(u) {na4}gug gid2-da
@@ -72630,9 +72473,9 @@ $ beginning broken
 5. [|SZU+LAGAB|] n 3(u) {gesz}ig e2 hi-a
 #lem: szunijin[total]; u|n; n; ig[door]; e[house]; hi[mix]
 6. |SZU+LAGAB| [x] {gesz}ig ma al-zi-ra
-#lem: szunijin[total]; u; ig[door]; mada[land]; zi[rise]|zig[rise]
+#lem: szunijin[total]; u; ig[door]; X; zi[rise]|zig[rise]
 7. |SZU+LAGAB| [x] {gesz}ig e2 tur sumun
-#lem: szunijin[total]; u; ig[door]; e[house]; dumu[child]|WN|tur[small]|FN; sumun[old]
+#lem: szunijin[total]; u; ig[door]; e[house]; tur[small]; sumun[old]
 8. |SZU+LAGAB| [x] {gesz}ig dur
 #lem: szunijin[total]; u; ig[door]; dur[balk]|dur[bond]|dur[totality]
 9. |SZU+LAGAB| 4(disz) {gesz}ig ar-gi4-bi2-lu
@@ -72640,7 +72483,7 @@ $ beginning broken
 10. |SZU+LAGAB| 1(disz) {gesz}ig-dab ma2
 #lem: szunijin[total]; n; X; ma[ship]
 11. |SZU+LAGAB| 1(disz) {gesz}ig u3-suh5 si-sa2
-#lem: szunijin[total]; n; ig[door]; usuh[tree]|WN; WN|sisa[fair]
+#lem: szunijin[total]; n; ig[door]; usuh[tree]|WN; sisa[fair]
 12. |SZU+LAGAB| 3(disz) [...] HU [...]
 #lem: szunijin[total]; n; u; u; AN|u
 13. |SZU+LAGAB| 2(u) la2 1(disz) gesz [...] x
@@ -72650,7 +72493,7 @@ $ beginning broken
 15. |SZU+LAGAB| 2(disz) {gesz}ka-[...]-i
 #lem: szunijin[total]; n; u
 16. |SZU+LAGAB| 7(disz) {gesz}dar [...] si-sa2
-#lem: szunijin[total]; n; X; u; WN|sisa[fair]
+#lem: szunijin[total]; n; X; u; sisa[fair]
 17. |SZU+LAGAB| 3(u) 6(disz) gesz [...] KA gu2# [...]
 #lem: szunijin[total]; n; n; jesz[tree]; u; u; gun[load]; AN|u
 18. |SZU+LAGAB| 3(disz) {gesz}ub-da [...]
@@ -72836,7 +72679,7 @@ $ beginning broken
 16. {na4}esi x-am3
 #lem: X; DN
 17. |SZU+LAGAB| 1(disz) {gesz}erin2 ku3-la2 mes tur
-#lem: szunijin[total]; n; erin[people]; X; mes[blackness]; dumu[child]|WN|tur[small]|FN
+#lem: szunijin[total]; n; erin[people]; X; mes[blackness]; tur[small]
 18. zabar gar-ra dili2 zabar se3-ga
 #lem: zabar[bronze]; jar[place]; dilim[spoon]; zabar[bronze]; AN|sig[place]
 19. |SZU+LAGAB| 1(disz) {gesz}erin2 duh-um uruda gar-ra dili2 u2 nin se3-ga
@@ -72962,7 +72805,7 @@ x2. a-hu-wa-qar
 @tablet
 @obverse
 1. 1(disz) gin2 la2 4(disz) sze ku3-sig17 si-sa2
-#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; WN|sisa[fair]
+#lem: n; gij[unit]; lal[less]; n; sze[barley]; kugsig[gold]; sisa[fair]
 2. sze-er-hu-num2 5(disz) sze-ta 4(u)-sze3
 #lem: X; n; sze[barley]; n
 3. ki ARAD2-{d}nanna-ta
